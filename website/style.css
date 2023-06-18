@@ -24,3 +24,21 @@ body {
     border: none;
     cursor: pointer;
 }
+
+#chatBox {
+    /* ... */
+    display: flex;
+    flex-direction: column;
+}
+
+.incoming {
+    align-self: flex-start;
+    background-color: #add8e6; /* light blue */
+    /* ... */
+}
+
+.outgoing {
+    align-self: flex-end;
+    background-color: #f0f0f0; /* light grey */
+    /* ... */
+}

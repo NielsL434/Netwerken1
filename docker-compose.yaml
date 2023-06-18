@@ -7,7 +7,7 @@ services:
       - 8443:443
     volumes:
       - ./website:/usr/share/nginx/html
-     # - ./nconfig/:/nginx/config/
+      - ./nconfig/:/nginx/config/
 
   mqqt-broker:
     image: eclipse-mosquitto:2

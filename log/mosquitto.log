@@ -3647,3 +3647,3004 @@
 1687030138: Client <unknown> disconnected due to malformed packet.
 1687087660: mosquitto version 2.0.15 terminating
 1687087660: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687090351: mosquitto version 2.0.15 starting
+1687090351: Config loaded from /mosquitto/config/mosquitto.conf.
+1687090351: Opening ipv4 listen socket on port 1883.
+1687090351: Opening ipv6 listen socket on port 1883.
+1687090351: Opening websockets listen socket on port 1884.
+1687090351: mosquitto version 2.0.15 running
+1687090386: New connection from 172.19.0.1:58740 on port 1883.
+1687090386: Client <unknown> disconnected due to malformed packet.
+1687090387: New connection from 172.19.0.1:58746 on port 1883.
+1687090387: Client <unknown> disconnected due to malformed packet.
+1687090873: mosquitto version 2.0.15 terminating
+1687090873: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687090879: mosquitto version 2.0.15 starting
+1687090879: Config loaded from /mosquitto/config/mosquitto.conf.
+1687090879: Opening ipv4 listen socket on port 1883.
+1687090879: Opening ipv6 listen socket on port 1883.
+1687090879: Opening websockets listen socket on port 1884.
+1687090879: mosquitto version 2.0.15 running
+1687090904: mosquitto version 2.0.15 terminating
+1687090904: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687090926: mosquitto version 2.0.15 starting
+1687090926: Config loaded from /mosquitto/config/mosquitto.conf.
+1687090926: Opening ipv4 listen socket on port 1883.
+1687090926: Opening ipv6 listen socket on port 1883.
+1687090926: Opening websockets listen socket on port 1884.
+1687090926: mosquitto version 2.0.15 running
+1687090935: mosquitto version 2.0.15 terminating
+1687090935: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687090950: mosquitto version 2.0.15 starting
+1687090950: Config loaded from /mosquitto/config/mosquitto.conf.
+1687090950: Opening ipv4 listen socket on port 1883.
+1687090950: Opening ipv6 listen socket on port 1883.
+1687090950: Opening websockets listen socket on port 1884.
+1687090950: mosquitto version 2.0.15 running
+1687091105: New connection from 172.20.0.1:48324 on port 1883.
+1687091105: Client <unknown> disconnected due to malformed packet.
+1687091106: New connection from 172.20.0.1:48330 on port 1883.
+1687091106: Client <unknown> disconnected due to malformed packet.
+1687091107: New connection from 172.20.0.1:48334 on port 1883.
+1687091107: Client <unknown> disconnected due to malformed packet.
+1687091108: New connection from 172.20.0.1:48344 on port 1883.
+1687091108: Client <unknown> disconnected due to malformed packet.
+1687091109: New connection from 172.20.0.1:48360 on port 1883.
+1687091109: Client <unknown> disconnected due to malformed packet.
+1687091110: New connection from 172.20.0.1:48370 on port 1883.
+1687091110: Client <unknown> disconnected due to malformed packet.
+1687091111: New connection from 172.20.0.1:48382 on port 1883.
+1687091111: Client <unknown> disconnected due to malformed packet.
+1687091112: New connection from 172.20.0.1:56088 on port 1883.
+1687091112: Client <unknown> disconnected due to malformed packet.
+1687091113: New connection from 172.20.0.1:56096 on port 1883.
+1687091113: Client <unknown> disconnected due to malformed packet.
+1687091114: New connection from 172.20.0.1:56098 on port 1883.
+1687091114: Client <unknown> disconnected due to malformed packet.
+1687091115: New connection from 172.20.0.1:56102 on port 1883.
+1687091115: Client <unknown> disconnected due to malformed packet.
+1687091117: New connection from 172.20.0.1:56108 on port 1883.
+1687091117: Client <unknown> disconnected due to malformed packet.
+1687091118: New connection from 172.20.0.1:56114 on port 1883.
+1687091118: Client <unknown> disconnected due to malformed packet.
+1687091119: New connection from 172.20.0.1:56120 on port 1883.
+1687091119: Client <unknown> disconnected due to malformed packet.
+1687091121: New connection from 172.20.0.1:56136 on port 1883.
+1687091121: Client <unknown> disconnected due to malformed packet.
+1687091123: New connection from 172.20.0.1:60010 on port 1883.
+1687091123: Client <unknown> disconnected due to malformed packet.
+1687091126: New connection from 172.20.0.1:60012 on port 1883.
+1687091126: Client <unknown> disconnected due to malformed packet.
+1687091132: New connection from 172.20.0.1:60028 on port 1883.
+1687091132: Client <unknown> disconnected due to malformed packet.
+1687091136: New connection from 172.20.0.1:40532 on port 1883.
+1687091136: Client <unknown> disconnected due to malformed packet.
+1687091139: New connection from 172.20.0.1:40546 on port 1883.
+1687091139: Client <unknown> disconnected due to malformed packet.
+1687091145: New connection from 172.20.0.1:39598 on port 1883.
+1687091145: Client <unknown> disconnected due to malformed packet.
+1687091151: New connection from 172.20.0.1:39608 on port 1883.
+1687091151: Client <unknown> disconnected due to malformed packet.
+1687091154: New connection from 172.20.0.1:51996 on port 1883.
+1687091154: Client <unknown> disconnected due to malformed packet.
+1687091157: New connection from 172.20.0.1:52006 on port 1883.
+1687091157: Client <unknown> disconnected due to malformed packet.
+1687091162: New connection from 172.20.0.1:52012 on port 1883.
+1687091162: Client <unknown> disconnected due to malformed packet.
+1687091166: New connection from 172.20.0.1:45002 on port 1883.
+1687091166: Client <unknown> disconnected due to malformed packet.
+1687091168: New connection from 172.20.0.1:45012 on port 1883.
+1687091168: Client <unknown> disconnected due to malformed packet.
+1687091169: New connection from 172.20.0.1:45020 on port 1883.
+1687091169: Client <unknown> disconnected due to malformed packet.
+1687091170: New connection from 172.20.0.1:45022 on port 1883.
+1687091170: Client <unknown> disconnected due to malformed packet.
+1687091171: New connection from 172.20.0.1:45028 on port 1883.
+1687091171: Client <unknown> disconnected due to malformed packet.
+1687091171: New connection from 172.20.0.1:45034 on port 1883.
+1687091171: Client <unknown> disconnected due to malformed packet.
+1687091172: New connection from 172.20.0.1:38346 on port 1883.
+1687091172: Client <unknown> disconnected due to malformed packet.
+1687091176: New connection from 172.20.0.1:38352 on port 1883.
+1687091176: Client <unknown> disconnected due to malformed packet.
+1687091178: New connection from 172.20.0.1:38362 on port 1883.
+1687091178: Client <unknown> disconnected due to malformed packet.
+1687091181: New connection from 172.20.0.1:38374 on port 1883.
+1687091181: Client <unknown> disconnected due to malformed packet.
+1687091188: New connection from 172.20.0.1:57180 on port 1883.
+1687091188: Client <unknown> disconnected due to malformed packet.
+1687091193: New connection from 172.20.0.1:48526 on port 1883.
+1687091193: Client <unknown> disconnected due to malformed packet.
+1687091199: New connection from 172.20.0.1:48528 on port 1883.
+1687091199: Client <unknown> disconnected due to malformed packet.
+1687091202: New connection from 172.20.0.1:51650 on port 1883.
+1687091202: Client <unknown> disconnected due to malformed packet.
+1687091207: New connection from 172.20.0.1:51658 on port 1883.
+1687091207: Client <unknown> disconnected due to malformed packet.
+1687091213: New connection from 172.20.0.1:47004 on port 1883.
+1687091213: Client <unknown> disconnected due to malformed packet.
+1687091216: New connection from 172.20.0.1:47016 on port 1883.
+1687091216: Client <unknown> disconnected due to malformed packet.
+1687091221: New connection from 172.20.0.1:47026 on port 1883.
+1687091221: Client <unknown> disconnected due to malformed packet.
+1687091225: New connection from 172.20.0.1:57158 on port 1883.
+1687091225: Client <unknown> disconnected due to malformed packet.
+1687091232: New connection from 172.20.0.1:46218 on port 1883.
+1687091232: Client <unknown> disconnected due to malformed packet.
+1687091235: New connection from 172.20.0.1:46234 on port 1883.
+1687091235: Client <unknown> disconnected due to malformed packet.
+1687091240: New connection from 172.20.0.1:46250 on port 1883.
+1687091240: Client <unknown> disconnected due to malformed packet.
+1687091246: New connection from 172.20.0.1:45590 on port 1883.
+1687091246: Client <unknown> disconnected due to malformed packet.
+1687091251: New connection from 172.20.0.1:45592 on port 1883.
+1687091251: Client <unknown> disconnected due to malformed packet.
+1687091256: New connection from 172.20.0.1:38980 on port 1883.
+1687091256: Client <unknown> disconnected due to malformed packet.
+1687091259: New connection from 172.20.0.1:38990 on port 1883.
+1687091259: Client <unknown> disconnected due to malformed packet.
+1687091260: New connection from 172.20.0.1:38994 on port 1883.
+1687091260: Client <unknown> disconnected due to malformed packet.
+1687091261: New connection from 172.20.0.1:39004 on port 1883.
+1687091261: Client <unknown> disconnected due to malformed packet.
+1687091262: New connection from 172.20.0.1:39010 on port 1883.
+1687091262: Client <unknown> disconnected due to malformed packet.
+1687091262: New connection from 172.20.0.1:41836 on port 1883.
+1687091262: Client <unknown> disconnected due to malformed packet.
+1687091263: New connection from 172.20.0.1:41844 on port 1883.
+1687091263: Client <unknown> disconnected due to malformed packet.
+1687091264: New connection from 172.20.0.1:41858 on port 1883.
+1687091264: Client <unknown> disconnected due to malformed packet.
+1687091265: New connection from 172.20.0.1:41872 on port 1883.
+1687091265: Client <unknown> disconnected due to malformed packet.
+1687091266: New connection from 172.20.0.1:41874 on port 1883.
+1687091266: Client <unknown> disconnected due to malformed packet.
+1687091266: New connection from 172.20.0.1:41890 on port 1883.
+1687091266: New client connected from 172.20.0.1:41890 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687091267: New connection from 172.20.0.1:41900 on port 1883.
+1687091267: Client <unknown> disconnected due to malformed packet.
+1687091271: New connection from 172.20.0.1:41910 on port 1883.
+1687091271: Client <unknown> disconnected due to malformed packet.
+1687091277: New connection from 172.20.0.1:48834 on port 1883.
+1687091277: Client <unknown> disconnected due to malformed packet.
+1687091283: New connection from 172.20.0.1:41344 on port 1883.
+1687091283: Client <unknown> disconnected due to malformed packet.
+1687091287: New connection from 172.20.0.1:41350 on port 1883.
+1687091287: Client <unknown> disconnected due to malformed packet.
+1687091296: New connection from 172.20.0.1:45562 on port 1883.
+1687091296: Client <unknown> disconnected due to malformed packet.
+1687091297: New connection from 172.20.0.1:45566 on port 1883.
+1687091297: Client <unknown> disconnected due to malformed packet.
+1687091298: New connection from 172.20.0.1:45574 on port 1883.
+1687091298: Client <unknown> disconnected due to malformed packet.
+1687091299: New connection from 172.20.0.1:45580 on port 1883.
+1687091299: Client <unknown> disconnected due to malformed packet.
+1687091300: New connection from 172.20.0.1:45594 on port 1883.
+1687091300: Client <unknown> disconnected due to malformed packet.
+1687091301: New connection from 172.20.0.1:45598 on port 1883.
+1687091301: Client <unknown> disconnected due to malformed packet.
+1687091302: New connection from 172.20.0.1:46972 on port 1883.
+1687091302: Client <unknown> disconnected due to malformed packet.
+1687091303: New connection from 172.20.0.1:46982 on port 1883.
+1687091303: Client <unknown> disconnected due to malformed packet.
+1687091304: New connection from 172.20.0.1:46990 on port 1883.
+1687091304: Client <unknown> disconnected due to malformed packet.
+1687091305: New connection from 172.20.0.1:46992 on port 1883.
+1687091305: Client <unknown> disconnected due to malformed packet.
+1687091306: New connection from 172.20.0.1:47006 on port 1883.
+1687091306: Client <unknown> disconnected due to malformed packet.
+1687091307: New connection from 172.20.0.1:47014 on port 1883.
+1687091307: Client <unknown> disconnected due to malformed packet.
+1687091309: New connection from 172.20.0.1:47030 on port 1883.
+1687091309: Client <unknown> disconnected due to malformed packet.
+1687091310: New connection from 172.20.0.1:47038 on port 1883.
+1687091310: Client <unknown> disconnected due to malformed packet.
+1687091312: New connection from 172.20.0.1:60700 on port 1883.
+1687091312: Client <unknown> disconnected due to malformed packet.
+1687091314: New connection from 172.20.0.1:60712 on port 1883.
+1687091314: Client <unknown> disconnected due to malformed packet.
+1687091319: New connection from 172.20.0.1:60716 on port 1883.
+1687091319: Client <unknown> disconnected due to malformed packet.
+1687091322: New connection from 172.20.0.1:37252 on port 1883.
+1687091322: Client <unknown> disconnected due to malformed packet.
+1687091324: New connection from 172.20.0.1:37256 on port 1883.
+1687091324: Client <unknown> disconnected due to malformed packet.
+1687091327: New connection from 172.20.0.1:37260 on port 1883.
+1687091327: Client <unknown> disconnected due to malformed packet.
+1687091330: New connection from 172.20.0.1:37270 on port 1883.
+1687091330: Client <unknown> disconnected due to malformed packet.
+1687091335: New connection from 172.20.0.1:53536 on port 1883.
+1687091335: Client <unknown> disconnected due to malformed packet.
+1687091340: New connection from 172.20.0.1:53548 on port 1883.
+1687091340: Client <unknown> disconnected due to malformed packet.
+1687091344: New connection from 172.20.0.1:37656 on port 1883.
+1687091344: Client <unknown> disconnected due to malformed packet.
+1687091346: New connection from 172.20.0.1:37668 on port 1883.
+1687091346: Client <unknown> disconnected due to malformed packet.
+1687091348: New connection from 172.20.0.1:37674 on port 1883.
+1687091348: Client <unknown> disconnected due to malformed packet.
+1687091350: New connection from 172.20.0.1:37676 on port 1883.
+1687091350: Client <unknown> disconnected due to malformed packet.
+1687091352: New connection from 172.20.0.1:39274 on port 1883.
+1687091352: Client <unknown> disconnected due to malformed packet.
+1687091354: New connection from 172.20.0.1:39278 on port 1883.
+1687091354: Client <unknown> disconnected due to malformed packet.
+1687091356: New connection from 172.20.0.1:39292 on port 1883.
+1687091356: Client <unknown> disconnected due to malformed packet.
+1687091358: New connection from 172.20.0.1:39308 on port 1883.
+1687091358: Client <unknown> disconnected due to malformed packet.
+1687091360: New connection from 172.20.0.1:39322 on port 1883.
+1687091360: Client <unknown> disconnected due to malformed packet.
+1687091362: New connection from 172.20.0.1:42520 on port 1883.
+1687091362: Client <unknown> disconnected due to malformed packet.
+1687091364: New connection from 172.20.0.1:42534 on port 1883.
+1687091364: Client <unknown> disconnected due to malformed packet.
+1687091366: New connection from 172.20.0.1:42536 on port 1883.
+1687091366: Client <unknown> disconnected due to malformed packet.
+1687091368: New connection from 172.20.0.1:42544 on port 1883.
+1687091368: Client <unknown> disconnected due to malformed packet.
+1687091370: New connection from 172.20.0.1:42554 on port 1883.
+1687091370: Client <unknown> disconnected due to malformed packet.
+1687091372: New connection from 172.20.0.1:48172 on port 1883.
+1687091372: Client <unknown> disconnected due to malformed packet.
+1687091375: New connection from 172.20.0.1:48174 on port 1883.
+1687091375: Client <unknown> disconnected due to malformed packet.
+1687091377: New connection from 172.20.0.1:48182 on port 1883.
+1687091377: Client <unknown> disconnected due to malformed packet.
+1687091380: New connection from 172.20.0.1:48196 on port 1883.
+1687091380: Client <unknown> disconnected due to malformed packet.
+1687091387: New connection from 172.20.0.1:41234 on port 1883.
+1687091387: Client <unknown> disconnected due to malformed packet.
+1687091392: New connection from 172.20.0.1:37538 on port 1883.
+1687091392: Client <unknown> disconnected due to malformed packet.
+1687091396: New connection from 172.20.0.1:37548 on port 1883.
+1687091396: Client <unknown> disconnected due to malformed packet.
+1687091401: New connection from 172.20.0.1:37556 on port 1883.
+1687091401: Client <unknown> disconnected due to malformed packet.
+1687091404: New connection from 172.20.0.1:51940 on port 1883.
+1687091404: Client <unknown> disconnected due to malformed packet.
+1687091409: New connection from 172.20.0.1:51946 on port 1883.
+1687091409: Client <unknown> disconnected due to malformed packet.
+1687091414: New connection from 172.20.0.1:38838 on port 1883.
+1687091414: Client <unknown> disconnected due to malformed packet.
+1687091418: New connection from 172.20.0.1:38840 on port 1883.
+1687091418: Client <unknown> disconnected due to malformed packet.
+1687091422: New connection from 172.20.0.1:38850 on port 1883.
+1687091422: Client <unknown> disconnected due to malformed packet.
+1687091427: New connection from 172.20.0.1:35624 on port 1883.
+1687091427: Client <unknown> disconnected due to malformed packet.
+1687091429: New connection from 172.20.0.1:35628 on port 1883.
+1687091429: Client <unknown> disconnected due to malformed packet.
+1687091433: New connection from 172.20.0.1:42550 on port 1883.
+1687091433: Client <unknown> disconnected due to malformed packet.
+1687091437: New connection from 172.20.0.1:42556 on port 1883.
+1687091437: Client <unknown> disconnected due to malformed packet.
+1687091443: New connection from 172.20.0.1:55196 on port 1883.
+1687091443: Client <unknown> disconnected due to malformed packet.
+1687091448: New connection from 172.20.0.1:55200 on port 1883.
+1687091448: Client <unknown> disconnected due to malformed packet.
+1687091451: New connection from 172.20.0.1:55210 on port 1883.
+1687091451: Client <unknown> disconnected due to malformed packet.
+1687091455: New connection from 172.20.0.1:40634 on port 1883.
+1687091455: Client <unknown> disconnected due to malformed packet.
+1687091459: New connection from 172.20.0.1:40648 on port 1883.
+1687091459: Client <unknown> disconnected due to malformed packet.
+1687091465: New connection from 172.20.0.1:52130 on port 1883.
+1687091465: Client <unknown> disconnected due to malformed packet.
+1687091467: New connection from 172.20.0.1:52132 on port 1883.
+1687091467: Client <unknown> disconnected due to malformed packet.
+1687091469: New connection from 172.20.0.1:52138 on port 1883.
+1687091469: Client <unknown> disconnected due to malformed packet.
+1687091471: New connection from 172.20.0.1:52146 on port 1883.
+1687091471: Client <unknown> disconnected due to malformed packet.
+1687091473: New connection from 172.20.0.1:43696 on port 1883.
+1687091473: Client <unknown> disconnected due to malformed packet.
+1687091475: New connection from 172.20.0.1:43700 on port 1883.
+1687091475: Client <unknown> disconnected due to malformed packet.
+1687091477: New connection from 172.20.0.1:43708 on port 1883.
+1687091477: Client <unknown> disconnected due to malformed packet.
+1687091479: New connection from 172.20.0.1:43714 on port 1883.
+1687091479: Client <unknown> disconnected due to malformed packet.
+1687091481: New connection from 172.20.0.1:43720 on port 1883.
+1687091481: Client <unknown> disconnected due to malformed packet.
+1687091483: New connection from 172.20.0.1:39790 on port 1883.
+1687091483: Client <unknown> disconnected due to malformed packet.
+1687091485: New connection from 172.20.0.1:39804 on port 1883.
+1687091485: Client <unknown> disconnected due to malformed packet.
+1687091487: New connection from 172.20.0.1:39814 on port 1883.
+1687091487: Client <unknown> disconnected due to malformed packet.
+1687091489: New connection from 172.20.0.1:39828 on port 1883.
+1687091489: Client <unknown> disconnected due to malformed packet.
+1687091491: New connection from 172.20.0.1:39832 on port 1883.
+1687091491: Client <unknown> disconnected due to malformed packet.
+1687091493: New connection from 172.20.0.1:52182 on port 1883.
+1687091493: Client <unknown> disconnected due to malformed packet.
+1687091495: New connection from 172.20.0.1:52186 on port 1883.
+1687091495: Client <unknown> disconnected due to malformed packet.
+1687091498: New connection from 172.20.0.1:52192 on port 1883.
+1687091498: Client <unknown> disconnected due to malformed packet.
+1687091505: New connection from 172.20.0.1:44424 on port 1883.
+1687091505: Client <unknown> disconnected due to malformed packet.
+1687091510: New connection from 172.20.0.1:44426 on port 1883.
+1687091510: Client <unknown> disconnected due to malformed packet.
+1687091516: New connection from 172.20.0.1:46724 on port 1883.
+1687091516: Client <unknown> disconnected due to malformed packet.
+1687091521: New connection from 172.20.0.1:46740 on port 1883.
+1687091521: Client <unknown> disconnected due to malformed packet.
+1687091526: New connection from 172.20.0.1:58464 on port 1883.
+1687091526: Client <unknown> disconnected due to malformed packet.
+1687091531: New connection from 172.20.0.1:58478 on port 1883.
+1687091531: Client <unknown> disconnected due to malformed packet.
+1687091534: New connection from 172.20.0.1:41976 on port 1883.
+1687091534: Client <unknown> disconnected due to malformed packet.
+1687091539: New connection from 172.20.0.1:41988 on port 1883.
+1687091539: Client <unknown> disconnected due to malformed packet.
+1687091543: New connection from 172.20.0.1:52348 on port 1883.
+1687091543: Client <unknown> disconnected due to malformed packet.
+1687091549: New connection from 172.20.0.1:52354 on port 1883.
+1687091549: Client <unknown> disconnected due to malformed packet.
+1687091552: New connection from 172.20.0.1:38194 on port 1883.
+1687091552: Client <unknown> disconnected due to malformed packet.
+1687091557: New connection from 172.20.0.1:38204 on port 1883.
+1687091557: Client <unknown> disconnected due to malformed packet.
+1687091561: New connection from 172.20.0.1:38212 on port 1883.
+1687091561: Client <unknown> disconnected due to malformed packet.
+1687091567: New connection from 172.20.0.1:33892 on port 1883.
+1687091567: Client <unknown> disconnected due to malformed packet.
+1687091569: New connection from 172.20.0.1:33908 on port 1883.
+1687091569: Client <unknown> disconnected due to malformed packet.
+1687091575: New connection from 172.20.0.1:55224 on port 1883.
+1687091575: Client <unknown> disconnected due to malformed packet.
+1687091578: New connection from 172.20.0.1:55232 on port 1883.
+1687091578: Client <unknown> disconnected due to malformed packet.
+1687091583: New connection from 172.20.0.1:58984 on port 1883.
+1687091583: Client <unknown> disconnected due to malformed packet.
+1687091589: New connection from 172.20.0.1:58994 on port 1883.
+1687091589: Client <unknown> disconnected due to malformed packet.
+1687091593: New connection from 172.20.0.1:33780 on port 1883.
+1687091593: Client <unknown> disconnected due to malformed packet.
+1687091599: New connection from 172.20.0.1:33794 on port 1883.
+1687091599: Client <unknown> disconnected due to malformed packet.
+1687091603: New connection from 172.20.0.1:39542 on port 1883.
+1687091603: Client <unknown> disconnected due to malformed packet.
+1687091608: New connection from 172.20.0.1:39548 on port 1883.
+1687091608: Client <unknown> disconnected due to malformed packet.
+1687091613: New connection from 172.20.0.1:52310 on port 1883.
+1687091613: Client <unknown> disconnected due to malformed packet.
+1687091618: New connection from 172.20.0.1:52326 on port 1883.
+1687091618: Client <unknown> disconnected due to malformed packet.
+1687091622: New connection from 172.20.0.1:47674 on port 1883.
+1687091622: Client <unknown> disconnected due to malformed packet.
+1687091628: New connection from 172.20.0.1:47676 on port 1883.
+1687091628: Client <unknown> disconnected due to malformed packet.
+1687091632: New connection from 172.20.0.1:57806 on port 1883.
+1687091632: Client <unknown> disconnected due to malformed packet.
+1687091635: New connection from 172.20.0.1:57820 on port 1883.
+1687091635: Client <unknown> disconnected due to malformed packet.
+1687091640: New connection from 172.20.0.1:57824 on port 1883.
+1687091640: Client <unknown> disconnected due to malformed packet.
+1687091646: New connection from 172.20.0.1:55240 on port 1883.
+1687091646: Client <unknown> disconnected due to malformed packet.
+1687091651: New connection from 172.20.0.1:55250 on port 1883.
+1687091651: Client <unknown> disconnected due to malformed packet.
+1687091656: New connection from 172.20.0.1:60382 on port 1883.
+1687091656: Client <unknown> disconnected due to malformed packet.
+1687091660: New connection from 172.20.0.1:60394 on port 1883.
+1687091660: Client <unknown> disconnected due to malformed packet.
+1687091664: New connection from 172.20.0.1:44418 on port 1883.
+1687091664: Client <unknown> disconnected due to malformed packet.
+1687091669: New connection from 172.20.0.1:44426 on port 1883.
+1687091669: Client <unknown> disconnected due to malformed packet.
+1687091675: New connection from 172.20.0.1:45206 on port 1883.
+1687091675: Client <unknown> disconnected due to malformed packet.
+1687091680: New connection from 172.20.0.1:45208 on port 1883.
+1687091680: Client <unknown> disconnected due to malformed packet.
+1687091686: New connection from 172.20.0.1:59276 on port 1883.
+1687091686: Client <unknown> disconnected due to malformed packet.
+1687091689: New connection from 172.20.0.1:59282 on port 1883.
+1687091689: Client <unknown> disconnected due to malformed packet.
+1687091693: New connection from 172.20.0.1:54860 on port 1883.
+1687091693: Client <unknown> disconnected due to malformed packet.
+1687091697: New connection from 172.20.0.1:54872 on port 1883.
+1687091697: Client <unknown> disconnected due to malformed packet.
+1687091700: New connection from 172.20.0.1:54888 on port 1883.
+1687091700: Client <unknown> disconnected due to malformed packet.
+1687091704: New connection from 172.20.0.1:51974 on port 1883.
+1687091704: Client <unknown> disconnected due to malformed packet.
+1687091709: New connection from 172.20.0.1:51980 on port 1883.
+1687091709: Client <unknown> disconnected due to malformed packet.
+1687091714: New connection from 172.20.0.1:37814 on port 1883.
+1687091714: Client <unknown> disconnected due to malformed packet.
+1687091717: New connection from 172.20.0.1:37822 on port 1883.
+1687091717: Client <unknown> disconnected due to malformed packet.
+1687091721: New connection from 172.20.0.1:37828 on port 1883.
+1687091721: Client <unknown> disconnected due to malformed packet.
+1687091727: New connection from 172.20.0.1:57552 on port 1883.
+1687091727: Client <unknown> disconnected due to malformed packet.
+1687091732: New connection from 172.20.0.1:57556 on port 1883.
+1687091732: Client <unknown> disconnected due to malformed packet.
+1687091734: New connection from 172.20.0.1:41014 on port 1883.
+1687091734: Client <unknown> disconnected due to malformed packet.
+1687091740: New connection from 172.20.0.1:41026 on port 1883.
+1687091740: Client <unknown> disconnected due to malformed packet.
+1687091742: New connection from 172.20.0.1:33430 on port 1883.
+1687091742: Client <unknown> disconnected due to malformed packet.
+1687091748: New connection from 172.20.0.1:33436 on port 1883.
+1687091748: Client <unknown> disconnected due to malformed packet.
+1687091753: New connection from 172.20.0.1:58822 on port 1883.
+1687091753: Client <unknown> disconnected due to malformed packet.
+1687091755: New connection from 172.20.0.1:58826 on port 1883.
+1687091755: Client <unknown> disconnected due to malformed packet.
+1687091757: New connection from 172.20.0.1:58836 on port 1883.
+1687091757: Client <unknown> disconnected due to malformed packet.
+1687091760: New connection from 172.20.0.1:58846 on port 1883.
+1687091760: Client <unknown> disconnected due to malformed packet.
+1687091765: New connection from 172.20.0.1:50066 on port 1883.
+1687091765: Client <unknown> disconnected due to malformed packet.
+1687091769: New connection from 172.20.0.1:50076 on port 1883.
+1687091769: Client <unknown> disconnected due to malformed packet.
+1687091772: New connection from 172.20.0.1:55942 on port 1883.
+1687091772: Client <unknown> disconnected due to malformed packet.
+1687091777: New connection from 172.20.0.1:55948 on port 1883.
+1687091777: Client <unknown> disconnected due to malformed packet.
+1687091780: New connection from 172.20.0.1:55956 on port 1883.
+1687091780: Client <unknown> disconnected due to malformed packet.
+1687091785: New connection from 172.20.0.1:33080 on port 1883.
+1687091785: Client <unknown> disconnected due to malformed packet.
+1687091789: New connection from 172.20.0.1:33094 on port 1883.
+1687091789: Client <unknown> disconnected due to malformed packet.
+1687091792: New connection from 172.20.0.1:54992 on port 1883.
+1687091792: Client <unknown> disconnected due to malformed packet.
+1687091797: New connection from 172.20.0.1:54996 on port 1883.
+1687091797: Client <unknown> disconnected due to malformed packet.
+1687091800: New connection from 172.20.0.1:55002 on port 1883.
+1687091800: Client <unknown> disconnected due to malformed packet.
+1687091803: New connection from 172.20.0.1:57618 on port 1883.
+1687091803: Client <unknown> disconnected due to malformed packet.
+1687091807: New connection from 172.20.0.1:57620 on port 1883.
+1687091807: Client <unknown> disconnected due to malformed packet.
+1687091813: New connection from 172.20.0.1:53148 on port 1883.
+1687091813: Client <unknown> disconnected due to malformed packet.
+1687091818: New connection from 172.20.0.1:53154 on port 1883.
+1687091818: Client <unknown> disconnected due to malformed packet.
+1687091823: New connection from 172.20.0.1:38692 on port 1883.
+1687091823: Client <unknown> disconnected due to malformed packet.
+1687091828: New connection from 172.20.0.1:38704 on port 1883.
+1687091828: Client <unknown> disconnected due to malformed packet.
+1687091834: New connection from 172.20.0.1:40144 on port 1883.
+1687091834: Client <unknown> disconnected due to malformed packet.
+1687091838: New connection from 172.20.0.1:40150 on port 1883.
+1687091838: Client <unknown> disconnected due to malformed packet.
+1687091844: New connection from 172.20.0.1:39084 on port 1883.
+1687091844: Client <unknown> disconnected due to malformed packet.
+1687091849: New connection from 172.20.0.1:39092 on port 1883.
+1687091849: Client <unknown> disconnected due to malformed packet.
+1687091853: New connection from 172.20.0.1:58306 on port 1883.
+1687091853: Client <unknown> disconnected due to malformed packet.
+1687091857: New connection from 172.20.0.1:58322 on port 1883.
+1687091857: Client <unknown> disconnected due to malformed packet.
+1687091859: New connection from 172.20.0.1:58334 on port 1883.
+1687091859: Client <unknown> disconnected due to malformed packet.
+1687091863: New connection from 172.20.0.1:45436 on port 1883.
+1687091863: Client <unknown> disconnected due to malformed packet.
+1687091867: New connection from 172.20.0.1:45452 on port 1883.
+1687091867: Client <unknown> disconnected due to malformed packet.
+1687091869: New connection from 172.20.0.1:45462 on port 1883.
+1687091869: Client <unknown> disconnected due to malformed packet.
+1687091875: New connection from 172.20.0.1:37486 on port 1883.
+1687091875: Client <unknown> disconnected due to malformed packet.
+1687091879: New connection from 172.20.0.1:37490 on port 1883.
+1687091879: Client <unknown> disconnected due to malformed packet.
+1687091881: New connection from 172.20.0.1:37498 on port 1883.
+1687091881: Client <unknown> disconnected due to malformed packet.
+1687091887: New connection from 172.20.0.1:57594 on port 1883.
+1687091887: Client <unknown> disconnected due to malformed packet.
+1687091892: New connection from 172.20.0.1:50608 on port 1883.
+1687091892: Client <unknown> disconnected due to malformed packet.
+1687091895: New connection from 172.20.0.1:50620 on port 1883.
+1687091895: Client <unknown> disconnected due to malformed packet.
+1687091900: New connection from 172.20.0.1:50622 on port 1883.
+1687091900: Client <unknown> disconnected due to malformed packet.
+1687091903: New connection from 172.20.0.1:35462 on port 1883.
+1687091903: Client <unknown> disconnected due to malformed packet.
+1687091908: New connection from 172.20.0.1:35474 on port 1883.
+1687091908: Client <unknown> disconnected due to malformed packet.
+1687091914: New connection from 172.20.0.1:47326 on port 1883.
+1687091914: Client <unknown> disconnected due to malformed packet.
+1687091918: New connection from 172.20.0.1:47340 on port 1883.
+1687091918: Client <unknown> disconnected due to malformed packet.
+1687091925: New connection from 172.20.0.1:45942 on port 1883.
+1687091925: Client <unknown> disconnected due to malformed packet.
+1687091927: New connection from 172.20.0.1:45956 on port 1883.
+1687091927: Client <unknown> disconnected due to malformed packet.
+1687091932: New connection from 172.20.0.1:53696 on port 1883.
+1687091932: Client <unknown> disconnected due to malformed packet.
+1687091935: New connection from 172.20.0.1:53700 on port 1883.
+1687091935: Client <unknown> disconnected due to malformed packet.
+1687091940: New connection from 172.20.0.1:53708 on port 1883.
+1687091940: Client <unknown> disconnected due to malformed packet.
+1687091943: New connection from 172.20.0.1:34018 on port 1883.
+1687091943: Client <unknown> disconnected due to malformed packet.
+1687091949: New connection from 172.20.0.1:34026 on port 1883.
+1687091949: Client <unknown> disconnected due to malformed packet.
+1687091953: New connection from 172.20.0.1:58124 on port 1883.
+1687091953: Client <unknown> disconnected due to malformed packet.
+1687091957: New connection from 172.20.0.1:58138 on port 1883.
+1687091957: Client <unknown> disconnected due to malformed packet.
+1687091961: New connection from 172.20.0.1:58152 on port 1883.
+1687091961: Client <unknown> disconnected due to malformed packet.
+1687091963: New connection from 172.20.0.1:35302 on port 1883.
+1687091963: Client <unknown> disconnected due to malformed packet.
+1687091967: New connection from 172.20.0.1:35312 on port 1883.
+1687091967: Client <unknown> disconnected due to malformed packet.
+1687091970: New connection from 172.20.0.1:35314 on port 1883.
+1687091970: Client <unknown> disconnected due to malformed packet.
+1687091973: New connection from 172.20.0.1:38380 on port 1883.
+1687091973: Client <unknown> disconnected due to malformed packet.
+1687091976: New connection from 172.20.0.1:38386 on port 1883.
+1687091976: Client <unknown> disconnected due to malformed packet.
+1687091981: New connection from 172.20.0.1:38398 on port 1883.
+1687091981: Client <unknown> disconnected due to malformed packet.
+1687091983: New connection from 172.20.0.1:37550 on port 1883.
+1687091983: Client <unknown> disconnected due to malformed packet.
+1687091987: New connection from 172.20.0.1:37552 on port 1883.
+1687091987: Client <unknown> disconnected due to malformed packet.
+1687091990: New connection from 172.20.0.1:37556 on port 1883.
+1687091990: Client <unknown> disconnected due to malformed packet.
+1687091995: New connection from 172.20.0.1:49798 on port 1883.
+1687091995: Client <unknown> disconnected due to malformed packet.
+1687091999: New connection from 172.20.0.1:49802 on port 1883.
+1687091999: Client <unknown> disconnected due to malformed packet.
+1687092002: New connection from 172.20.0.1:49808 on port 1883.
+1687092002: Client <unknown> disconnected due to malformed packet.
+1687092006: New connection from 172.20.0.1:44098 on port 1883.
+1687092006: Client <unknown> disconnected due to malformed packet.
+1687092011: New connection from 172.20.0.1:44106 on port 1883.
+1687092011: Client <unknown> disconnected due to malformed packet.
+1687092016: New connection from 172.20.0.1:38958 on port 1883.
+1687092016: Client <unknown> disconnected due to malformed packet.
+1687092020: New connection from 172.20.0.1:38962 on port 1883.
+1687092020: Client <unknown> disconnected due to malformed packet.
+1687092026: New connection from 172.20.0.1:52864 on port 1883.
+1687092026: Client <unknown> disconnected due to malformed packet.
+1687092031: New connection from 172.20.0.1:52868 on port 1883.
+1687092031: Client <unknown> disconnected due to malformed packet.
+1687092035: New connection from 172.20.0.1:51288 on port 1883.
+1687092035: Client <unknown> disconnected due to malformed packet.
+1687092040: New connection from 172.20.0.1:51304 on port 1883.
+1687092040: Client <unknown> disconnected due to malformed packet.
+1687092044: New connection from 172.20.0.1:56228 on port 1883.
+1687092044: Client <unknown> disconnected due to malformed packet.
+1687092046: New connection from 172.20.0.1:56230 on port 1883.
+1687092046: Client <unknown> disconnected due to malformed packet.
+1687092050: New connection from 172.20.0.1:56238 on port 1883.
+1687092050: Client <unknown> disconnected due to malformed packet.
+1687092054: New connection from 172.20.0.1:41032 on port 1883.
+1687092054: Client <unknown> disconnected due to malformed packet.
+1687092058: New connection from 172.20.0.1:41046 on port 1883.
+1687092058: Client <unknown> disconnected due to malformed packet.
+1687092061: New connection from 172.20.0.1:41050 on port 1883.
+1687092061: Client <unknown> disconnected due to malformed packet.
+1687092064: New connection from 172.20.0.1:51928 on port 1883.
+1687092064: Client <unknown> disconnected due to malformed packet.
+1687092068: New connection from 172.20.0.1:51932 on port 1883.
+1687092068: Client <unknown> disconnected due to malformed packet.
+1687092070: New connection from 172.20.0.1:51946 on port 1883.
+1687092070: Client <unknown> disconnected due to malformed packet.
+1687092075: New connection from 172.20.0.1:55332 on port 1883.
+1687092075: Client <unknown> disconnected due to malformed packet.
+1687092080: New connection from 172.20.0.1:55346 on port 1883.
+1687092080: Client <unknown> disconnected due to malformed packet.
+1687092083: New connection from 172.20.0.1:45742 on port 1883.
+1687092083: Client <unknown> disconnected due to malformed packet.
+1687092086: New connection from 172.20.0.1:45754 on port 1883.
+1687092086: Client <unknown> disconnected due to malformed packet.
+1687092089: New connection from 172.20.0.1:45758 on port 1883.
+1687092089: Client <unknown> disconnected due to malformed packet.
+1687092095: New connection from 172.20.0.1:52048 on port 1883.
+1687092095: Client <unknown> disconnected due to malformed packet.
+1687092097: New connection from 172.20.0.1:52060 on port 1883.
+1687092097: Client <unknown> disconnected due to malformed packet.
+1687092103: New connection from 172.20.0.1:53016 on port 1883.
+1687092103: Client <unknown> disconnected due to malformed packet.
+1687092107: New connection from 172.20.0.1:53020 on port 1883.
+1687092107: Client <unknown> disconnected due to malformed packet.
+1687092110: New connection from 172.20.0.1:53032 on port 1883.
+1687092110: Client <unknown> disconnected due to malformed packet.
+1687092113: New connection from 172.20.0.1:60328 on port 1883.
+1687092113: Client <unknown> disconnected due to malformed packet.
+1687092118: New connection from 172.20.0.1:60344 on port 1883.
+1687092118: Client <unknown> disconnected due to malformed packet.
+1687092123: New connection from 172.20.0.1:53178 on port 1883.
+1687092123: Client <unknown> disconnected due to malformed packet.
+1687092128: New connection from 172.20.0.1:53186 on port 1883.
+1687092128: Client <unknown> disconnected due to malformed packet.
+1687092133: New connection from 172.20.0.1:51072 on port 1883.
+1687092133: Client <unknown> disconnected due to malformed packet.
+1687092136: New connection from 172.20.0.1:51074 on port 1883.
+1687092136: Client <unknown> disconnected due to malformed packet.
+1687092141: New connection from 172.20.0.1:51078 on port 1883.
+1687092141: Client <unknown> disconnected due to malformed packet.
+1687092144: New connection from 172.20.0.1:48928 on port 1883.
+1687092144: Client <unknown> disconnected due to malformed packet.
+1687092149: New connection from 172.20.0.1:48944 on port 1883.
+1687092149: Client <unknown> disconnected due to malformed packet.
+1687092151: New connection from 172.20.0.1:48950 on port 1883.
+1687092151: Client <unknown> disconnected due to malformed packet.
+1687092156: New connection from 172.20.0.1:58118 on port 1883.
+1687092156: Client <unknown> disconnected due to malformed packet.
+1687092161: New connection from 172.20.0.1:58134 on port 1883.
+1687092161: Client <unknown> disconnected due to malformed packet.
+1687092167: New connection from 172.20.0.1:55564 on port 1883.
+1687092167: Client <unknown> disconnected due to malformed packet.
+1687092172: New connection from 172.20.0.1:48812 on port 1883.
+1687092172: Client <unknown> disconnected due to malformed packet.
+1687092177: New connection from 172.20.0.1:48816 on port 1883.
+1687092177: Client <unknown> disconnected due to malformed packet.
+1687092179: New connection from 172.20.0.1:48820 on port 1883.
+1687092179: Client <unknown> disconnected due to malformed packet.
+1687092184: New connection from 172.20.0.1:43468 on port 1883.
+1687092184: Client <unknown> disconnected due to malformed packet.
+1687092186: New connection from 172.20.0.1:43484 on port 1883.
+1687092186: Client <unknown> disconnected due to malformed packet.
+1687092187: New connection from 172.20.0.1:43494 on port 1883.
+1687092187: Client <unknown> disconnected due to malformed packet.
+1687092188: New connection from 172.20.0.1:43502 on port 1883.
+1687092188: Client <unknown> disconnected due to malformed packet.
+1687092189: New connection from 172.20.0.1:43506 on port 1883.
+1687092189: Client <unknown> disconnected due to malformed packet.
+1687092190: New connection from 172.20.0.1:43516 on port 1883.
+1687092190: Client <unknown> disconnected due to malformed packet.
+1687092191: New connection from 172.20.0.1:43522 on port 1883.
+1687092191: Client <unknown> disconnected due to malformed packet.
+1687092192: New connection from 172.20.0.1:34784 on port 1883.
+1687092192: Client <unknown> disconnected due to malformed packet.
+1687092193: New connection from 172.20.0.1:34794 on port 1883.
+1687092193: Client <unknown> disconnected due to malformed packet.
+1687092194: New connection from 172.20.0.1:34808 on port 1883.
+1687092194: Client <unknown> disconnected due to malformed packet.
+1687092195: New connection from 172.20.0.1:34820 on port 1883.
+1687092195: Client <unknown> disconnected due to malformed packet.
+1687092196: New connection from 172.20.0.1:34832 on port 1883.
+1687092196: Client <unknown> disconnected due to malformed packet.
+1687092197: New connection from 172.20.0.1:34846 on port 1883.
+1687092197: Client <unknown> disconnected due to malformed packet.
+1687092198: New connection from 172.20.0.1:34856 on port 1883.
+1687092198: Client <unknown> disconnected due to malformed packet.
+1687092200: New connection from 172.20.0.1:34862 on port 1883.
+1687092200: Client <unknown> disconnected due to malformed packet.
+1687092201: New connection from 172.20.0.1:34870 on port 1883.
+1687092201: Client <unknown> disconnected due to malformed packet.
+1687092203: New connection from 172.20.0.1:34422 on port 1883.
+1687092203: Client <unknown> disconnected due to malformed packet.
+1687092205: New connection from 172.20.0.1:34428 on port 1883.
+1687092205: Client <unknown> disconnected due to malformed packet.
+1687092208: New connection from 172.20.0.1:34430 on port 1883.
+1687092208: Client <unknown> disconnected due to malformed packet.
+1687092212: New connection from 172.20.0.1:44478 on port 1883.
+1687092212: Client <unknown> disconnected due to malformed packet.
+1687092218: New connection from 172.20.0.1:44490 on port 1883.
+1687092218: Client <unknown> disconnected due to malformed packet.
+1687092220: New connection from 172.20.0.1:44498 on port 1883.
+1687092220: Client <unknown> disconnected due to malformed packet.
+1687092224: New connection from 172.20.0.1:55292 on port 1883.
+1687092224: Client <unknown> disconnected due to malformed packet.
+1687092227: New connection from 172.20.0.1:55300 on port 1883.
+1687092227: Client <unknown> disconnected due to malformed packet.
+1687092229: New connection from 172.20.0.1:55314 on port 1883.
+1687092229: Client <unknown> disconnected due to malformed packet.
+1687092234: New connection from 172.20.0.1:36652 on port 1883.
+1687092234: Client <unknown> disconnected due to malformed packet.
+1687092239: New connection from 172.20.0.1:36658 on port 1883.
+1687092239: Client <unknown> disconnected due to malformed packet.
+1687092244: New connection from 172.20.0.1:36216 on port 1883.
+1687092244: Client <unknown> disconnected due to malformed packet.
+1687092250: New connection from 172.20.0.1:36218 on port 1883.
+1687092250: Client <unknown> disconnected due to malformed packet.
+1687092253: New connection from 172.20.0.1:38432 on port 1883.
+1687092253: Client <unknown> disconnected due to malformed packet.
+1687092255: New connection from 172.20.0.1:38438 on port 1883.
+1687092255: Client <unknown> disconnected due to malformed packet.
+1687092260: New connection from 172.20.0.1:38448 on port 1883.
+1687092260: Client <unknown> disconnected due to malformed packet.
+1687092263: New connection from 172.20.0.1:47800 on port 1883.
+1687092263: Client <unknown> disconnected due to malformed packet.
+1687092269: New connection from 172.20.0.1:47808 on port 1883.
+1687092269: Client <unknown> disconnected due to malformed packet.
+1687092274: New connection from 172.20.0.1:46108 on port 1883.
+1687092274: Client <unknown> disconnected due to malformed packet.
+1687092278: New connection from 172.20.0.1:46110 on port 1883.
+1687092278: Client <unknown> disconnected due to malformed packet.
+1687092283: New connection from 172.20.0.1:36888 on port 1883.
+1687092283: Client <unknown> disconnected due to malformed packet.
+1687092287: New connection from 172.20.0.1:36890 on port 1883.
+1687092287: Client <unknown> disconnected due to malformed packet.
+1687092290: New connection from 172.20.0.1:36904 on port 1883.
+1687092290: Client <unknown> disconnected due to malformed packet.
+1687092296: New connection from 172.20.0.1:45620 on port 1883.
+1687092296: Client <unknown> disconnected due to malformed packet.
+1687092300: New connection from 172.20.0.1:45626 on port 1883.
+1687092300: Client <unknown> disconnected due to malformed packet.
+1687092303: New connection from 172.20.0.1:59456 on port 1883.
+1687092303: Client <unknown> disconnected due to malformed packet.
+1687092306: New connection from 172.20.0.1:59466 on port 1883.
+1687092306: Client <unknown> disconnected due to malformed packet.
+1687092311: New connection from 172.20.0.1:59476 on port 1883.
+1687092311: Client <unknown> disconnected due to malformed packet.
+1687092313: New connection from 172.20.0.1:35668 on port 1883.
+1687092313: Client <unknown> disconnected due to malformed packet.
+1687092317: New connection from 172.20.0.1:35684 on port 1883.
+1687092317: Client <unknown> disconnected due to malformed packet.
+1687092322: New connection from 172.20.0.1:49558 on port 1883.
+1687092322: Client <unknown> disconnected due to malformed packet.
+1687092325: New connection from 172.20.0.1:49572 on port 1883.
+1687092325: Client <unknown> disconnected due to malformed packet.
+1687092329: New connection from 172.20.0.1:49586 on port 1883.
+1687092329: Client <unknown> disconnected due to malformed packet.
+1687092333: New connection from 172.20.0.1:57798 on port 1883.
+1687092333: Client <unknown> disconnected due to malformed packet.
+1687092339: New connection from 172.20.0.1:57812 on port 1883.
+1687092339: Client <unknown> disconnected due to malformed packet.
+1687092343: New connection from 172.20.0.1:42896 on port 1883.
+1687092343: Client <unknown> disconnected due to malformed packet.
+1687092346: New connection from 172.20.0.1:42898 on port 1883.
+1687092346: Client <unknown> disconnected due to malformed packet.
+1687092348: New connection from 172.20.0.1:42914 on port 1883.
+1687092348: Client <unknown> disconnected due to malformed packet.
+1687092352: New connection from 172.20.0.1:44838 on port 1883.
+1687092352: Client <unknown> disconnected due to malformed packet.
+1687092357: New connection from 172.20.0.1:44844 on port 1883.
+1687092357: Client <unknown> disconnected due to malformed packet.
+1687092360: New connection from 172.20.0.1:44856 on port 1883.
+1687092360: Client <unknown> disconnected due to malformed packet.
+1687092364: New connection from 172.20.0.1:58392 on port 1883.
+1687092364: Client <unknown> disconnected due to malformed packet.
+1687092368: New connection from 172.20.0.1:58402 on port 1883.
+1687092368: Client <unknown> disconnected due to malformed packet.
+1687092371: New connection from 172.20.0.1:58418 on port 1883.
+1687092371: Client <unknown> disconnected due to malformed packet.
+1687092374: New connection from 172.20.0.1:39622 on port 1883.
+1687092374: Client <unknown> disconnected due to malformed packet.
+1687092379: New connection from 172.20.0.1:39624 on port 1883.
+1687092379: Client <unknown> disconnected due to malformed packet.
+1687092383: New connection from 172.20.0.1:40436 on port 1883.
+1687092383: Client <unknown> disconnected due to malformed packet.
+1687092386: New connection from 172.20.0.1:40442 on port 1883.
+1687092386: Client <unknown> disconnected due to malformed packet.
+1687092391: New connection from 172.20.0.1:40452 on port 1883.
+1687092391: Client <unknown> disconnected due to malformed packet.
+1687092395: New connection from 172.20.0.1:38992 on port 1883.
+1687092395: Client <unknown> disconnected due to malformed packet.
+1687092401: New connection from 172.20.0.1:39008 on port 1883.
+1687092401: Client <unknown> disconnected due to malformed packet.
+1687092407: New connection from 172.20.0.1:37978 on port 1883.
+1687092407: Client <unknown> disconnected due to malformed packet.
+1687092411: New connection from 172.20.0.1:37990 on port 1883.
+1687092411: Client <unknown> disconnected due to malformed packet.
+1687092416: New connection from 172.20.0.1:58910 on port 1883.
+1687092416: Client <unknown> disconnected due to malformed packet.
+1687092422: New connection from 172.20.0.1:58918 on port 1883.
+1687092422: Client <unknown> disconnected due to malformed packet.
+1687092424: New connection from 172.20.0.1:57540 on port 1883.
+1687092424: Client <unknown> disconnected due to malformed packet.
+1687092429: New connection from 172.20.0.1:57550 on port 1883.
+1687092429: Client <unknown> disconnected due to malformed packet.
+1687092434: New connection from 172.20.0.1:39272 on port 1883.
+1687092434: Client <unknown> disconnected due to malformed packet.
+1687092438: New connection from 172.20.0.1:39284 on port 1883.
+1687092438: Client <unknown> disconnected due to malformed packet.
+1687092443: New connection from 172.20.0.1:52214 on port 1883.
+1687092443: Client <unknown> disconnected due to malformed packet.
+1687092447: New connection from 172.20.0.1:52224 on port 1883.
+1687092447: Client <unknown> disconnected due to malformed packet.
+1687092451: New connection from 172.20.0.1:52236 on port 1883.
+1687092451: Client <unknown> disconnected due to malformed packet.
+1687092455: New connection from 172.20.0.1:41630 on port 1883.
+1687092455: Client <unknown> disconnected due to malformed packet.
+1687092460: New connection from 172.20.0.1:41634 on port 1883.
+1687092460: Client <unknown> disconnected due to malformed packet.
+1687092463: New connection from 172.20.0.1:57632 on port 1883.
+1687092463: Client <unknown> disconnected due to malformed packet.
+1687092466: New connection from 172.20.0.1:57646 on port 1883.
+1687092466: Client <unknown> disconnected due to malformed packet.
+1687092469: New connection from 172.20.0.1:57658 on port 1883.
+1687092469: Client <unknown> disconnected due to malformed packet.
+1687092473: New connection from 172.20.0.1:54856 on port 1883.
+1687092473: Client <unknown> disconnected due to malformed packet.
+1687092477: New connection from 172.20.0.1:54866 on port 1883.
+1687092477: Client <unknown> disconnected due to malformed packet.
+1687092480: New connection from 172.20.0.1:54880 on port 1883.
+1687092480: Client <unknown> disconnected due to malformed packet.
+1687092483: New connection from 172.20.0.1:48550 on port 1883.
+1687092483: Client <unknown> disconnected due to malformed packet.
+1687092485: New connection from 172.20.0.1:48566 on port 1883.
+1687092485: Client <unknown> disconnected due to malformed packet.
+1687092488: New connection from 172.20.0.1:48582 on port 1883.
+1687092488: Client <unknown> disconnected due to malformed packet.
+1687092492: New connection from 172.20.0.1:48588 on port 1883.
+1687092492: Client <unknown> disconnected due to malformed packet.
+1687092496: New connection from 172.20.0.1:50458 on port 1883.
+1687092496: Client <unknown> disconnected due to malformed packet.
+1687092499: New connection from 172.20.0.1:50472 on port 1883.
+1687092499: Client <unknown> disconnected due to malformed packet.
+1687092503: New connection from 172.20.0.1:41434 on port 1883.
+1687092503: Client <unknown> disconnected due to malformed packet.
+1687092507: New connection from 172.20.0.1:41440 on port 1883.
+1687092507: Client <unknown> disconnected due to malformed packet.
+1687092513: New connection from 172.20.0.1:52386 on port 1883.
+1687092513: Client <unknown> disconnected due to malformed packet.
+1687092518: New connection from 172.20.0.1:52398 on port 1883.
+1687092518: Client <unknown> disconnected due to malformed packet.
+1687092524: New connection from 172.20.0.1:37246 on port 1883.
+1687092524: Client <unknown> disconnected due to malformed packet.
+1687092530: New connection from 172.20.0.1:37250 on port 1883.
+1687092530: Client <unknown> disconnected due to malformed packet.
+1687092536: New connection from 172.20.0.1:60006 on port 1883.
+1687092536: Client <unknown> disconnected due to malformed packet.
+1687092540: New connection from 172.20.0.1:60022 on port 1883.
+1687092540: Client <unknown> disconnected due to malformed packet.
+1687092546: New connection from 172.20.0.1:47860 on port 1883.
+1687092546: Client <unknown> disconnected due to malformed packet.
+1687092548: New connection from 172.20.0.1:47874 on port 1883.
+1687092548: Client <unknown> disconnected due to malformed packet.
+1687092552: New connection from 172.20.0.1:39742 on port 1883.
+1687092552: Client <unknown> disconnected due to malformed packet.
+1687092557: New connection from 172.20.0.1:39750 on port 1883.
+1687092557: Client <unknown> disconnected due to malformed packet.
+1687092559: New connection from 172.20.0.1:39754 on port 1883.
+1687092559: Client <unknown> disconnected due to malformed packet.
+1687092563: New connection from 172.20.0.1:45590 on port 1883.
+1687092563: Client <unknown> disconnected due to malformed packet.
+1687092567: New connection from 172.20.0.1:45600 on port 1883.
+1687092567: Client <unknown> disconnected due to malformed packet.
+1687092572: New connection from 172.20.0.1:39678 on port 1883.
+1687092572: Client <unknown> disconnected due to malformed packet.
+1687092574: New connection from 172.20.0.1:39682 on port 1883.
+1687092574: Client <unknown> disconnected due to malformed packet.
+1687092579: New connection from 172.20.0.1:39684 on port 1883.
+1687092579: Client <unknown> disconnected due to malformed packet.
+1687092581: New connection from 172.20.0.1:39694 on port 1883.
+1687092581: Client <unknown> disconnected due to malformed packet.
+1687092587: New connection from 172.20.0.1:46752 on port 1883.
+1687092587: Client <unknown> disconnected due to malformed packet.
+1687092591: New connection from 172.20.0.1:46766 on port 1883.
+1687092591: Client <unknown> disconnected due to malformed packet.
+1687092594: New connection from 172.20.0.1:47518 on port 1883.
+1687092594: Client <unknown> disconnected due to malformed packet.
+1687092598: New connection from 172.20.0.1:47532 on port 1883.
+1687092598: Client <unknown> disconnected due to malformed packet.
+1687092602: New connection from 172.20.0.1:42482 on port 1883.
+1687092602: Client <unknown> disconnected due to malformed packet.
+1687092608: New connection from 172.20.0.1:42488 on port 1883.
+1687092608: Client <unknown> disconnected due to malformed packet.
+1687092610: New connection from 172.20.0.1:42498 on port 1883.
+1687092610: Client <unknown> disconnected due to malformed packet.
+1687092613: New connection from 172.20.0.1:54554 on port 1883.
+1687092613: Client <unknown> disconnected due to malformed packet.
+1687092619: New connection from 172.20.0.1:54570 on port 1883.
+1687092619: Client <unknown> disconnected due to malformed packet.
+1687092621: New connection from 172.20.0.1:54584 on port 1883.
+1687092621: Client <unknown> disconnected due to malformed packet.
+1687092627: New connection from 172.20.0.1:54424 on port 1883.
+1687092627: Client <unknown> disconnected due to malformed packet.
+1687092632: New connection from 172.20.0.1:54992 on port 1883.
+1687092632: Client <unknown> disconnected due to malformed packet.
+1687092637: New connection from 172.20.0.1:55006 on port 1883.
+1687092637: Client <unknown> disconnected due to malformed packet.
+1687092641: New connection from 172.20.0.1:55008 on port 1883.
+1687092641: Client <unknown> disconnected due to malformed packet.
+1687092645: New connection from 172.20.0.1:56636 on port 1883.
+1687092645: Client <unknown> disconnected due to malformed packet.
+1687092651: New connection from 172.20.0.1:56652 on port 1883.
+1687092651: Client <unknown> disconnected due to malformed packet.
+1687092656: New connection from 172.20.0.1:42976 on port 1883.
+1687092656: Client <unknown> disconnected due to malformed packet.
+1687092660: New connection from 172.20.0.1:42990 on port 1883.
+1687092660: Client <unknown> disconnected due to malformed packet.
+1687092662: New connection from 172.20.0.1:50814 on port 1883.
+1687092662: Client <unknown> disconnected due to malformed packet.
+1687092667: New connection from 172.20.0.1:50824 on port 1883.
+1687092667: Client <unknown> disconnected due to malformed packet.
+1687092673: New connection from 172.20.0.1:34534 on port 1883.
+1687092673: Client <unknown> disconnected due to malformed packet.
+1687092677: New connection from 172.20.0.1:34542 on port 1883.
+1687092677: Client <unknown> disconnected due to malformed packet.
+1687092679: New connection from 172.20.0.1:34552 on port 1883.
+1687092679: Client <unknown> disconnected due to malformed packet.
+1687092683: New connection from 172.20.0.1:47364 on port 1883.
+1687092683: Client <unknown> disconnected due to malformed packet.
+1687092688: New connection from 172.20.0.1:47370 on port 1883.
+1687092688: Client <unknown> disconnected due to malformed packet.
+1687092692: New connection from 172.20.0.1:46734 on port 1883.
+1687092692: Client <unknown> disconnected due to malformed packet.
+1687092696: New connection from 172.20.0.1:46742 on port 1883.
+1687092696: Client <unknown> disconnected due to malformed packet.
+1687092699: New connection from 172.20.0.1:46752 on port 1883.
+1687092699: Client <unknown> disconnected due to malformed packet.
+1687092702: New connection from 172.20.0.1:45536 on port 1883.
+1687092702: Client <unknown> disconnected due to malformed packet.
+1687092706: New connection from 172.20.0.1:45548 on port 1883.
+1687092706: Client <unknown> disconnected due to malformed packet.
+1687092712: New connection from 172.20.0.1:42030 on port 1883.
+1687092712: Client <unknown> disconnected due to malformed packet.
+1687092718: New connection from 172.20.0.1:42044 on port 1883.
+1687092718: Client <unknown> disconnected due to malformed packet.
+1687092722: New connection from 172.20.0.1:42238 on port 1883.
+1687092722: Client <unknown> disconnected due to malformed packet.
+1687092728: New connection from 172.20.0.1:42250 on port 1883.
+1687092728: Client <unknown> disconnected due to malformed packet.
+1687092731: New connection from 172.20.0.1:42252 on port 1883.
+1687092731: Client <unknown> disconnected due to malformed packet.
+1687092736: New connection from 172.20.0.1:43530 on port 1883.
+1687092736: Client <unknown> disconnected due to malformed packet.
+1687092739: New connection from 172.20.0.1:43540 on port 1883.
+1687092739: Client <unknown> disconnected due to malformed packet.
+1687092742: New connection from 172.20.0.1:38822 on port 1883.
+1687092742: Client <unknown> disconnected due to malformed packet.
+1687092746: New connection from 172.20.0.1:38832 on port 1883.
+1687092746: Client <unknown> disconnected due to malformed packet.
+1687092751: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687092751: New connection from 172.20.0.1:38838 on port 1883.
+1687092751: Client <unknown> disconnected due to malformed packet.
+1687092755: New connection from 172.20.0.1:44452 on port 1883.
+1687092755: Client <unknown> disconnected due to malformed packet.
+1687092760: New connection from 172.20.0.1:44454 on port 1883.
+1687092760: Client <unknown> disconnected due to malformed packet.
+1687092764: New connection from 172.20.0.1:41146 on port 1883.
+1687092764: Client <unknown> disconnected due to malformed packet.
+1687092768: New connection from 172.20.0.1:41158 on port 1883.
+1687092768: Client <unknown> disconnected due to malformed packet.
+1687092773: New connection from 172.20.0.1:33806 on port 1883.
+1687092773: Client <unknown> disconnected due to malformed packet.
+1687092777: New connection from 172.20.0.1:33818 on port 1883.
+1687092777: Client <unknown> disconnected due to malformed packet.
+1687092779: New connection from 172.20.0.1:33824 on port 1883.
+1687092779: Client <unknown> disconnected due to malformed packet.
+1687092782: New connection from 172.20.0.1:33834 on port 1883.
+1687092782: Client <unknown> disconnected due to malformed packet.
+1687092785: New connection from 172.20.0.1:41938 on port 1883.
+1687092785: Client <unknown> disconnected due to malformed packet.
+1687092790: New connection from 172.20.0.1:41952 on port 1883.
+1687092790: Client <unknown> disconnected due to malformed packet.
+1687092795: New connection from 172.20.0.1:40698 on port 1883.
+1687092795: Client <unknown> disconnected due to malformed packet.
+1687092797: New connection from 172.20.0.1:40706 on port 1883.
+1687092797: Client <unknown> disconnected due to malformed packet.
+1687092803: New connection from 172.20.0.1:48034 on port 1883.
+1687092803: Client <unknown> disconnected due to malformed packet.
+1687092807: New connection from 172.20.0.1:48036 on port 1883.
+1687092807: Client <unknown> disconnected due to malformed packet.
+1687092810: New connection from 172.20.0.1:48052 on port 1883.
+1687092810: Client <unknown> disconnected due to malformed packet.
+1687092816: New connection from 172.20.0.1:46542 on port 1883.
+1687092816: Client <unknown> disconnected due to malformed packet.
+1687092819: New connection from 172.20.0.1:46558 on port 1883.
+1687092819: Client <unknown> disconnected due to malformed packet.
+1687092823: New connection from 172.20.0.1:44404 on port 1883.
+1687092823: Client <unknown> disconnected due to malformed packet.
+1687092828: New connection from 172.20.0.1:44418 on port 1883.
+1687092828: Client <unknown> disconnected due to malformed packet.
+1687092833: New connection from 172.20.0.1:45900 on port 1883.
+1687092833: Client <unknown> disconnected due to malformed packet.
+1687092839: New connection from 172.20.0.1:45914 on port 1883.
+1687092839: Client <unknown> disconnected due to malformed packet.
+1687092845: New connection from 172.20.0.1:44828 on port 1883.
+1687092845: Client <unknown> disconnected due to malformed packet.
+1687092848: New connection from 172.20.0.1:44842 on port 1883.
+1687092848: Client <unknown> disconnected due to malformed packet.
+1687092851: New connection from 172.20.0.1:44854 on port 1883.
+1687092851: Client <unknown> disconnected due to malformed packet.
+1687092857: New connection from 172.20.0.1:59878 on port 1883.
+1687092857: Client <unknown> disconnected due to malformed packet.
+1687092863: New connection from 172.20.0.1:39434 on port 1883.
+1687092863: Client <unknown> disconnected due to malformed packet.
+1687092865: New connection from 172.20.0.1:39436 on port 1883.
+1687092865: Client <unknown> disconnected due to malformed packet.
+1687092872: New connection from 172.20.0.1:47346 on port 1883.
+1687092872: Client <unknown> disconnected due to malformed packet.
+1687092876: New connection from 172.20.0.1:47360 on port 1883.
+1687092876: Client <unknown> disconnected due to malformed packet.
+1687092880: New connection from 172.20.0.1:47366 on port 1883.
+1687092880: Client <unknown> disconnected due to malformed packet.
+1687092885: New connection from 172.20.0.1:57336 on port 1883.
+1687092885: Client <unknown> disconnected due to malformed packet.
+1687092891: New connection from 172.20.0.1:57350 on port 1883.
+1687092891: Client <unknown> disconnected due to malformed packet.
+1687092893: New connection from 172.20.0.1:50022 on port 1883.
+1687092893: Client <unknown> disconnected due to malformed packet.
+1687092898: New connection from 172.20.0.1:50032 on port 1883.
+1687092898: Client <unknown> disconnected due to malformed packet.
+1687092900: New connection from 172.20.0.1:50036 on port 1883.
+1687092900: Client <unknown> disconnected due to malformed packet.
+1687092905: New connection from 172.20.0.1:42290 on port 1883.
+1687092905: Client <unknown> disconnected due to malformed packet.
+1687092908: New connection from 172.20.0.1:42296 on port 1883.
+1687092908: Client <unknown> disconnected due to malformed packet.
+1687092913: New connection from 172.20.0.1:40652 on port 1883.
+1687092913: Client <unknown> disconnected due to malformed packet.
+1687092917: New connection from 172.20.0.1:40660 on port 1883.
+1687092917: Client <unknown> disconnected due to malformed packet.
+1687092922: New connection from 172.20.0.1:58232 on port 1883.
+1687092922: Client <unknown> disconnected due to malformed packet.
+1687092927: New connection from 172.20.0.1:58248 on port 1883.
+1687092927: Client <unknown> disconnected due to malformed packet.
+1687092932: New connection from 172.20.0.1:38212 on port 1883.
+1687092932: Client <unknown> disconnected due to malformed packet.
+1687092937: New connection from 172.20.0.1:38218 on port 1883.
+1687092937: Client <unknown> disconnected due to malformed packet.
+1687092941: New connection from 172.20.0.1:38222 on port 1883.
+1687092941: Client <unknown> disconnected due to malformed packet.
+1687092944: New connection from 172.20.0.1:55138 on port 1883.
+1687092944: Client <unknown> disconnected due to malformed packet.
+1687092948: New connection from 172.20.0.1:55142 on port 1883.
+1687092948: Client <unknown> disconnected due to malformed packet.
+1687092953: New connection from 172.20.0.1:42016 on port 1883.
+1687092953: Client <unknown> disconnected due to malformed packet.
+1687092957: New connection from 172.20.0.1:42026 on port 1883.
+1687092957: Client <unknown> disconnected due to malformed packet.
+1687092963: New connection from 172.20.0.1:51222 on port 1883.
+1687092963: Client <unknown> disconnected due to malformed packet.
+1687092966: New connection from 172.20.0.1:51228 on port 1883.
+1687092966: Client <unknown> disconnected due to malformed packet.
+1687092972: New connection from 172.20.0.1:51242 on port 1883.
+1687092972: Client <unknown> disconnected due to malformed packet.
+1687092975: New connection from 172.20.0.1:36798 on port 1883.
+1687092975: Client <unknown> disconnected due to malformed packet.
+1687092981: New connection from 172.20.0.1:36800 on port 1883.
+1687092981: Client <unknown> disconnected due to malformed packet.
+1687092985: New connection from 172.20.0.1:45304 on port 1883.
+1687092985: Client <unknown> disconnected due to malformed packet.
+1687092991: New connection from 172.20.0.1:45316 on port 1883.
+1687092991: Client <unknown> disconnected due to malformed packet.
+1687092998: New connection from 172.20.0.1:50308 on port 1883.
+1687092998: Client <unknown> disconnected due to malformed packet.
+1687093004: New connection from 172.20.0.1:53082 on port 1883.
+1687093004: Client <unknown> disconnected due to malformed packet.
+1687093008: New connection from 172.20.0.1:53092 on port 1883.
+1687093008: Client <unknown> disconnected due to malformed packet.
+1687093015: New connection from 172.20.0.1:57788 on port 1883.
+1687093015: Client <unknown> disconnected due to malformed packet.
+1687093020: New connection from 172.20.0.1:57794 on port 1883.
+1687093020: Client <unknown> disconnected due to malformed packet.
+1687093024: New connection from 172.20.0.1:58810 on port 1883.
+1687093024: Client <unknown> disconnected due to malformed packet.
+1687093029: New connection from 172.20.0.1:58822 on port 1883.
+1687093029: Client <unknown> disconnected due to malformed packet.
+1687093031: New connection from 172.20.0.1:58838 on port 1883.
+1687093031: Client <unknown> disconnected due to malformed packet.
+1687093037: New connection from 172.20.0.1:51540 on port 1883.
+1687093037: Client <unknown> disconnected due to malformed packet.
+1687093042: New connection from 172.20.0.1:51546 on port 1883.
+1687093042: Client <unknown> disconnected due to malformed packet.
+1687093047: New connection from 172.20.0.1:45248 on port 1883.
+1687093047: Client <unknown> disconnected due to malformed packet.
+1687093052: New connection from 172.20.0.1:45252 on port 1883.
+1687093052: Client <unknown> disconnected due to malformed packet.
+1687093056: New connection from 172.20.0.1:56338 on port 1883.
+1687093056: Client <unknown> disconnected due to malformed packet.
+1687093063: New connection from 172.20.0.1:50502 on port 1883.
+1687093063: Client <unknown> disconnected due to malformed packet.
+1687093067: New connection from 172.20.0.1:50514 on port 1883.
+1687093067: Client <unknown> disconnected due to malformed packet.
+1687093071: New connection from 172.20.0.1:50518 on port 1883.
+1687093071: Client <unknown> disconnected due to malformed packet.
+1687093075: New connection from 172.20.0.1:60830 on port 1883.
+1687093075: Client <unknown> disconnected due to malformed packet.
+1687093079: New connection from 172.20.0.1:60842 on port 1883.
+1687093079: Client <unknown> disconnected due to malformed packet.
+1687093082: New connection from 172.20.0.1:39630 on port 1883.
+1687093082: Client <unknown> disconnected due to malformed packet.
+1687093087: New connection from 172.20.0.1:39638 on port 1883.
+1687093087: Client <unknown> disconnected due to malformed packet.
+1687093090: New connection from 172.20.0.1:39654 on port 1883.
+1687093090: Client <unknown> disconnected due to malformed packet.
+1687093096: New connection from 172.20.0.1:60028 on port 1883.
+1687093096: Client <unknown> disconnected due to malformed packet.
+1687093102: New connection from 172.20.0.1:33500 on port 1883.
+1687093102: Client <unknown> disconnected due to malformed packet.
+1687093106: New connection from 172.20.0.1:33506 on port 1883.
+1687093106: Client <unknown> disconnected due to malformed packet.
+1687093108: New connection from 172.20.0.1:33512 on port 1883.
+1687093108: Client <unknown> disconnected due to malformed packet.
+1687093112: New connection from 172.20.0.1:47998 on port 1883.
+1687093112: Client <unknown> disconnected due to malformed packet.
+1687093118: New connection from 172.20.0.1:48012 on port 1883.
+1687093118: Client <unknown> disconnected due to malformed packet.
+1687093123: New connection from 172.20.0.1:39576 on port 1883.
+1687093123: Client <unknown> disconnected due to malformed packet.
+1687093127: New connection from 172.20.0.1:39592 on port 1883.
+1687093127: Client <unknown> disconnected due to malformed packet.
+1687093132: New connection from 172.20.0.1:39604 on port 1883.
+1687093132: Client <unknown> disconnected due to malformed packet.
+1687093137: New connection from 172.20.0.1:52376 on port 1883.
+1687093137: Client <unknown> disconnected due to malformed packet.
+1687093143: New connection from 172.20.0.1:50518 on port 1883.
+1687093143: Client <unknown> disconnected due to malformed packet.
+1687093148: New connection from 172.20.0.1:50530 on port 1883.
+1687093148: Client <unknown> disconnected due to malformed packet.
+1687093152: New connection from 172.20.0.1:36514 on port 1883.
+1687093152: Client <unknown> disconnected due to malformed packet.
+1687093158: New connection from 172.20.0.1:36530 on port 1883.
+1687093158: Client <unknown> disconnected due to malformed packet.
+1687093163: New connection from 172.20.0.1:58334 on port 1883.
+1687093163: Client <unknown> disconnected due to malformed packet.
+1687093167: New connection from 172.20.0.1:58338 on port 1883.
+1687093167: Client <unknown> disconnected due to malformed packet.
+1687093173: New connection from 172.20.0.1:59084 on port 1883.
+1687093173: Client <unknown> disconnected due to malformed packet.
+1687093177: New connection from 172.20.0.1:59088 on port 1883.
+1687093177: Client <unknown> disconnected due to malformed packet.
+1687093183: New connection from 172.20.0.1:58434 on port 1883.
+1687093183: Client <unknown> disconnected due to malformed packet.
+1687093186: New connection from 172.20.0.1:58444 on port 1883.
+1687093186: Client <unknown> disconnected due to malformed packet.
+1687093190: New connection from 172.20.0.1:58448 on port 1883.
+1687093190: Client <unknown> disconnected due to malformed packet.
+1687093193: New connection from 172.20.0.1:43330 on port 1883.
+1687093193: Client <unknown> disconnected due to malformed packet.
+1687093195: New connection from 172.20.0.1:43346 on port 1883.
+1687093195: Client <unknown> disconnected due to malformed packet.
+1687093198: New connection from 172.20.0.1:43356 on port 1883.
+1687093198: Client <unknown> disconnected due to malformed packet.
+1687093203: New connection from 172.20.0.1:51232 on port 1883.
+1687093203: Client <unknown> disconnected due to malformed packet.
+1687093206: New connection from 172.20.0.1:51242 on port 1883.
+1687093206: Client <unknown> disconnected due to malformed packet.
+1687093211: New connection from 172.20.0.1:51258 on port 1883.
+1687093211: Client <unknown> disconnected due to malformed packet.
+1687093215: New connection from 172.20.0.1:43842 on port 1883.
+1687093215: Client <unknown> disconnected due to malformed packet.
+1687093220: New connection from 172.20.0.1:43844 on port 1883.
+1687093220: Client <unknown> disconnected due to malformed packet.
+1687093225: New connection from 172.20.0.1:35034 on port 1883.
+1687093225: Client <unknown> disconnected due to malformed packet.
+1687093231: New connection from 172.20.0.1:35040 on port 1883.
+1687093231: Client <unknown> disconnected due to malformed packet.
+1687093235: New connection from 172.20.0.1:45436 on port 1883.
+1687093235: Client <unknown> disconnected due to malformed packet.
+1687093240: New connection from 172.20.0.1:45446 on port 1883.
+1687093240: Client <unknown> disconnected due to malformed packet.
+1687093247: New connection from 172.20.0.1:37180 on port 1883.
+1687093247: Client <unknown> disconnected due to malformed packet.
+1687093250: New connection from 172.20.0.1:37196 on port 1883.
+1687093250: Client <unknown> disconnected due to malformed packet.
+1687093257: New connection from 172.20.0.1:55460 on port 1883.
+1687093257: Client <unknown> disconnected due to malformed packet.
+1687093260: New connection from 172.20.0.1:55470 on port 1883.
+1687093260: Client <unknown> disconnected due to malformed packet.
+1687093262: New connection from 172.20.0.1:49472 on port 1883.
+1687093262: Client <unknown> disconnected due to malformed packet.
+1687093266: New connection from 172.20.0.1:49488 on port 1883.
+1687093266: Client <unknown> disconnected due to malformed packet.
+1687093268: New connection from 172.20.0.1:49498 on port 1883.
+1687093268: Client <unknown> disconnected due to malformed packet.
+1687093270: New connection from 172.20.0.1:49504 on port 1883.
+1687093270: Client <unknown> disconnected due to malformed packet.
+1687093272: New connection from 172.20.0.1:38580 on port 1883.
+1687093272: Client <unknown> disconnected due to malformed packet.
+1687093274: New connection from 172.20.0.1:38588 on port 1883.
+1687093274: Client <unknown> disconnected due to malformed packet.
+1687093276: New connection from 172.20.0.1:38592 on port 1883.
+1687093276: Client <unknown> disconnected due to malformed packet.
+1687093278: New connection from 172.20.0.1:38604 on port 1883.
+1687093278: Client <unknown> disconnected due to malformed packet.
+1687093280: New connection from 172.20.0.1:38606 on port 1883.
+1687093280: Client <unknown> disconnected due to malformed packet.
+1687093282: New connection from 172.20.0.1:41264 on port 1883.
+1687093282: Client <unknown> disconnected due to malformed packet.
+1687093284: New connection from 172.20.0.1:41274 on port 1883.
+1687093284: Client <unknown> disconnected due to malformed packet.
+1687093286: New connection from 172.20.0.1:41276 on port 1883.
+1687093286: Client <unknown> disconnected due to malformed packet.
+1687093288: New connection from 172.20.0.1:41288 on port 1883.
+1687093288: Client <unknown> disconnected due to malformed packet.
+1687093290: New connection from 172.20.0.1:41300 on port 1883.
+1687093290: Client <unknown> disconnected due to malformed packet.
+1687093292: New connection from 172.20.0.1:55766 on port 1883.
+1687093292: Client <unknown> disconnected due to malformed packet.
+1687093294: New connection from 172.20.0.1:55772 on port 1883.
+1687093294: Client <unknown> disconnected due to malformed packet.
+1687093297: New connection from 172.20.0.1:55778 on port 1883.
+1687093297: Client <unknown> disconnected due to malformed packet.
+1687093300: New connection from 172.20.0.1:55788 on port 1883.
+1687093300: Client <unknown> disconnected due to malformed packet.
+1687093305: New connection from 172.20.0.1:46650 on port 1883.
+1687093305: Client <unknown> disconnected due to malformed packet.
+1687093307: New connection from 172.20.0.1:46666 on port 1883.
+1687093307: Client <unknown> disconnected due to malformed packet.
+1687093312: New connection from 172.20.0.1:46426 on port 1883.
+1687093312: Client <unknown> disconnected due to malformed packet.
+1687093316: New connection from 172.20.0.1:46434 on port 1883.
+1687093316: Client <unknown> disconnected due to malformed packet.
+1687093319: New connection from 172.20.0.1:46444 on port 1883.
+1687093319: Client <unknown> disconnected due to malformed packet.
+1687093324: New connection from 172.20.0.1:56276 on port 1883.
+1687093324: Client <unknown> disconnected due to malformed packet.
+1687093326: New connection from 172.20.0.1:56282 on port 1883.
+1687093326: Client <unknown> disconnected due to malformed packet.
+1687093329: New connection from 172.20.0.1:56290 on port 1883.
+1687093329: Client <unknown> disconnected due to malformed packet.
+1687093332: New connection from 172.20.0.1:47838 on port 1883.
+1687093332: Client <unknown> disconnected due to malformed packet.
+1687093336: New connection from 172.20.0.1:47852 on port 1883.
+1687093336: Client <unknown> disconnected due to malformed packet.
+1687093341: New connection from 172.20.0.1:47858 on port 1883.
+1687093341: Client <unknown> disconnected due to malformed packet.
+1687093346: New connection from 172.20.0.1:56570 on port 1883.
+1687093346: Client <unknown> disconnected due to malformed packet.
+1687093351: New connection from 172.20.0.1:56580 on port 1883.
+1687093351: Client <unknown> disconnected due to malformed packet.
+1687093357: New connection from 172.20.0.1:49074 on port 1883.
+1687093357: Client <unknown> disconnected due to malformed packet.
+1687093362: New connection from 172.20.0.1:49084 on port 1883.
+1687093362: Client <unknown> disconnected due to malformed packet.
+1687093368: New connection from 172.20.0.1:48136 on port 1883.
+1687093368: Client <unknown> disconnected due to malformed packet.
+1687093371: New connection from 172.20.0.1:48138 on port 1883.
+1687093371: Client <unknown> disconnected due to malformed packet.
+1687093377: New connection from 172.20.0.1:39988 on port 1883.
+1687093377: Client <unknown> disconnected due to malformed packet.
+1687093379: New connection from 172.20.0.1:39994 on port 1883.
+1687093379: Client <unknown> disconnected due to malformed packet.
+1687093383: New connection from 172.20.0.1:44514 on port 1883.
+1687093383: Client <unknown> disconnected due to malformed packet.
+1687093386: New connection from 172.20.0.1:44530 on port 1883.
+1687093386: Client <unknown> disconnected due to malformed packet.
+1687093392: New connection from 172.20.0.1:58486 on port 1883.
+1687093392: Client <unknown> disconnected due to malformed packet.
+1687093399: New connection from 172.20.0.1:58488 on port 1883.
+1687093399: Client <unknown> disconnected due to malformed packet.
+1687093401: New connection from 172.20.0.1:58496 on port 1883.
+1687093401: Client <unknown> disconnected due to malformed packet.
+1687093406: New connection from 172.20.0.1:49990 on port 1883.
+1687093406: Client <unknown> disconnected due to malformed packet.
+1687093413: New connection from 172.20.0.1:50732 on port 1883.
+1687093413: Client <unknown> disconnected due to malformed packet.
+1687093416: New connection from 172.20.0.1:50734 on port 1883.
+1687093416: Client <unknown> disconnected due to malformed packet.
+1687093421: New connection from 172.20.0.1:50748 on port 1883.
+1687093421: Client <unknown> disconnected due to malformed packet.
+1687093424: New connection from 172.20.0.1:44390 on port 1883.
+1687093424: Client <unknown> disconnected due to malformed packet.
+1687093429: New connection from 172.20.0.1:44396 on port 1883.
+1687093429: Client <unknown> disconnected due to malformed packet.
+1687093433: New connection from 172.20.0.1:55888 on port 1883.
+1687093433: Client <unknown> disconnected due to malformed packet.
+1687093437: New connection from 172.20.0.1:55894 on port 1883.
+1687093437: Client <unknown> disconnected due to malformed packet.
+1687093439: New connection from 172.20.0.1:55904 on port 1883.
+1687093439: Client <unknown> disconnected due to malformed packet.
+1687093445: New connection from 172.20.0.1:34334 on port 1883.
+1687093445: Client <unknown> disconnected due to malformed packet.
+1687093452: New connection from 172.20.0.1:34342 on port 1883.
+1687093452: Client <unknown> disconnected due to malformed packet.
+1687093457: New connection from 172.20.0.1:39236 on port 1883.
+1687093457: Client <unknown> disconnected due to malformed packet.
+1687093460: New connection from 172.20.0.1:39246 on port 1883.
+1687093460: Client <unknown> disconnected due to malformed packet.
+1687093464: New connection from 172.20.0.1:41330 on port 1883.
+1687093464: Client <unknown> disconnected due to malformed packet.
+1687093468: New connection from 172.20.0.1:41338 on port 1883.
+1687093468: Client <unknown> disconnected due to malformed packet.
+1687093474: New connection from 172.20.0.1:39242 on port 1883.
+1687093474: Client <unknown> disconnected due to malformed packet.
+1687093480: New connection from 172.20.0.1:39246 on port 1883.
+1687093480: Client <unknown> disconnected due to malformed packet.
+1687093484: New connection from 172.20.0.1:33986 on port 1883.
+1687093484: Client <unknown> disconnected due to malformed packet.
+1687093488: New connection from 172.20.0.1:33992 on port 1883.
+1687093488: Client <unknown> disconnected due to malformed packet.
+1687093493: New connection from 172.20.0.1:45578 on port 1883.
+1687093493: Client <unknown> disconnected due to malformed packet.
+1687093496: New connection from 172.20.0.1:45588 on port 1883.
+1687093496: Client <unknown> disconnected due to malformed packet.
+1687093502: New connection from 172.20.0.1:45590 on port 1883.
+1687093502: Client <unknown> disconnected due to malformed packet.
+1687093507: New connection from 172.20.0.1:49322 on port 1883.
+1687093507: Client <unknown> disconnected due to malformed packet.
+1687093509: New connection from 172.20.0.1:49338 on port 1883.
+1687093509: Client <unknown> disconnected due to malformed packet.
+1687093511: New connection from 172.20.0.1:49354 on port 1883.
+1687093511: Client <unknown> disconnected due to malformed packet.
+1687093513: New connection from 172.20.0.1:50412 on port 1883.
+1687093513: Client <unknown> disconnected due to malformed packet.
+1687093515: New connection from 172.20.0.1:50424 on port 1883.
+1687093515: Client <unknown> disconnected due to malformed packet.
+1687093517: New connection from 172.20.0.1:50428 on port 1883.
+1687093517: Client <unknown> disconnected due to malformed packet.
+1687093519: New connection from 172.20.0.1:50434 on port 1883.
+1687093519: Client <unknown> disconnected due to malformed packet.
+1687093521: New connection from 172.20.0.1:50440 on port 1883.
+1687093521: Client <unknown> disconnected due to malformed packet.
+1687093523: New connection from 172.20.0.1:47734 on port 1883.
+1687093523: Client <unknown> disconnected due to malformed packet.
+1687093525: New connection from 172.20.0.1:47742 on port 1883.
+1687093525: Client <unknown> disconnected due to malformed packet.
+1687093527: New connection from 172.20.0.1:47752 on port 1883.
+1687093527: Client <unknown> disconnected due to malformed packet.
+1687093529: New connection from 172.20.0.1:47760 on port 1883.
+1687093529: Client <unknown> disconnected due to malformed packet.
+1687093531: New connection from 172.20.0.1:47768 on port 1883.
+1687093531: Client <unknown> disconnected due to malformed packet.
+1687093533: New connection from 172.20.0.1:59598 on port 1883.
+1687093533: Client <unknown> disconnected due to malformed packet.
+1687093535: New connection from 172.20.0.1:59614 on port 1883.
+1687093535: Client <unknown> disconnected due to malformed packet.
+1687093538: New connection from 172.20.0.1:59626 on port 1883.
+1687093538: Client <unknown> disconnected due to malformed packet.
+1687093541: New connection from 172.20.0.1:59634 on port 1883.
+1687093541: Client <unknown> disconnected due to malformed packet.
+1687093544: New connection from 172.20.0.1:42386 on port 1883.
+1687093544: Client <unknown> disconnected due to malformed packet.
+1687093548: New connection from 172.20.0.1:42396 on port 1883.
+1687093548: Client <unknown> disconnected due to malformed packet.
+1687093550: New connection from 172.20.0.1:42404 on port 1883.
+1687093550: Client <unknown> disconnected due to malformed packet.
+1687093554: New connection from 172.20.0.1:47598 on port 1883.
+1687093554: Client <unknown> disconnected due to malformed packet.
+1687093558: New connection from 172.20.0.1:47604 on port 1883.
+1687093558: Client <unknown> disconnected due to malformed packet.
+1687093563: New connection from 172.20.0.1:49318 on port 1883.
+1687093563: Client <unknown> disconnected due to malformed packet.
+1687093570: New connection from 172.20.0.1:49326 on port 1883.
+1687093570: Client <unknown> disconnected due to malformed packet.
+1687093575: New connection from 172.20.0.1:33026 on port 1883.
+1687093575: Client <unknown> disconnected due to malformed packet.
+1687093580: New connection from 172.20.0.1:33034 on port 1883.
+1687093580: Client <unknown> disconnected due to malformed packet.
+1687093585: New connection from 172.20.0.1:45470 on port 1883.
+1687093585: Client <unknown> disconnected due to malformed packet.
+1687093591: New connection from 172.20.0.1:45486 on port 1883.
+1687093591: Client <unknown> disconnected due to malformed packet.
+1687093595: New connection from 172.20.0.1:51492 on port 1883.
+1687093595: Client <unknown> disconnected due to malformed packet.
+1687093598: New connection from 172.20.0.1:51508 on port 1883.
+1687093598: Client <unknown> disconnected due to malformed packet.
+1687093602: New connection from 172.20.0.1:54606 on port 1883.
+1687093602: Client <unknown> disconnected due to malformed packet.
+1687093606: New connection from 172.20.0.1:54622 on port 1883.
+1687093606: Client <unknown> disconnected due to malformed packet.
+1687093608: New connection from 172.20.0.1:54636 on port 1883.
+1687093608: Client <unknown> disconnected due to malformed packet.
+1687093614: New connection from 172.20.0.1:47466 on port 1883.
+1687093614: Client <unknown> disconnected due to malformed packet.
+1687093618: New connection from 172.20.0.1:47476 on port 1883.
+1687093618: Client <unknown> disconnected due to malformed packet.
+1687093622: New connection from 172.20.0.1:53552 on port 1883.
+1687093622: Client <unknown> disconnected due to malformed packet.
+1687093627: New connection from 172.20.0.1:53554 on port 1883.
+1687093627: Client <unknown> disconnected due to malformed packet.
+1687093630: New connection from 172.20.0.1:53560 on port 1883.
+1687093630: Client <unknown> disconnected due to malformed packet.
+1687093635: New connection from 172.20.0.1:58348 on port 1883.
+1687093635: Client <unknown> disconnected due to malformed packet.
+1687093641: New connection from 172.20.0.1:58354 on port 1883.
+1687093641: Client <unknown> disconnected due to malformed packet.
+1687093647: New connection from 172.20.0.1:45384 on port 1883.
+1687093647: Client <unknown> disconnected due to malformed packet.
+1687093651: New connection from 172.20.0.1:45390 on port 1883.
+1687093651: Client <unknown> disconnected due to malformed packet.
+1687093654: New connection from 172.20.0.1:47674 on port 1883.
+1687093654: Client <unknown> disconnected due to malformed packet.
+1687093661: New connection from 172.20.0.1:47688 on port 1883.
+1687093661: Client <unknown> disconnected due to malformed packet.
+1687093664: New connection from 172.20.0.1:41294 on port 1883.
+1687093664: Client <unknown> disconnected due to malformed packet.
+1687093671: New connection from 172.20.0.1:41300 on port 1883.
+1687093671: Client <unknown> disconnected due to malformed packet.
+1687093676: New connection from 172.20.0.1:41320 on port 1883.
+1687093676: Client <unknown> disconnected due to malformed packet.
+1687093679: New connection from 172.20.0.1:41334 on port 1883.
+1687093679: Client <unknown> disconnected due to malformed packet.
+1687093683: New connection from 172.20.0.1:47440 on port 1883.
+1687093683: Client <unknown> disconnected due to malformed packet.
+1687093688: New connection from 172.20.0.1:47448 on port 1883.
+1687093688: Client <unknown> disconnected due to malformed packet.
+1687093695: New connection from 172.20.0.1:44988 on port 1883.
+1687093695: Client <unknown> disconnected due to malformed packet.
+1687093700: New connection from 172.20.0.1:44994 on port 1883.
+1687093700: Client <unknown> disconnected due to malformed packet.
+1687093706: New connection from 172.20.0.1:49054 on port 1883.
+1687093706: Client <unknown> disconnected due to malformed packet.
+1687093708: New connection from 172.20.0.1:49066 on port 1883.
+1687093708: Client <unknown> disconnected due to malformed packet.
+1687093712: New connection from 172.20.0.1:49078 on port 1883.
+1687093712: Client <unknown> disconnected due to malformed packet.
+1687093717: New connection from 172.20.0.1:49314 on port 1883.
+1687093717: Client <unknown> disconnected due to malformed packet.
+1687093720: New connection from 172.20.0.1:49320 on port 1883.
+1687093720: Client <unknown> disconnected due to malformed packet.
+1687093724: New connection from 172.20.0.1:50906 on port 1883.
+1687093724: Client <unknown> disconnected due to malformed packet.
+1687093727: New connection from 172.20.0.1:50916 on port 1883.
+1687093727: Client <unknown> disconnected due to malformed packet.
+1687093733: New connection from 172.20.0.1:60942 on port 1883.
+1687093733: Client <unknown> disconnected due to malformed packet.
+1687093737: New connection from 172.20.0.1:60956 on port 1883.
+1687093737: Client <unknown> disconnected due to malformed packet.
+1687093742: New connection from 172.20.0.1:41444 on port 1883.
+1687093742: Client <unknown> disconnected due to malformed packet.
+1687093749: New connection from 172.20.0.1:41448 on port 1883.
+1687093749: Client <unknown> disconnected due to malformed packet.
+1687093750: New connection from 172.20.0.1:41462 on port 1883.
+1687093750: Client <unknown> disconnected due to malformed packet.
+1687093752: New connection from 172.20.0.1:36236 on port 1883.
+1687093752: Client <unknown> disconnected due to malformed packet.
+1687093754: New connection from 172.20.0.1:36246 on port 1883.
+1687093754: Client <unknown> disconnected due to malformed packet.
+1687093756: New connection from 172.20.0.1:36248 on port 1883.
+1687093756: Client <unknown> disconnected due to malformed packet.
+1687093758: New connection from 172.20.0.1:36252 on port 1883.
+1687093758: Client <unknown> disconnected due to malformed packet.
+1687093760: New connection from 172.20.0.1:36256 on port 1883.
+1687093760: Client <unknown> disconnected due to malformed packet.
+1687093762: New connection from 172.20.0.1:49220 on port 1883.
+1687093762: Client <unknown> disconnected due to malformed packet.
+1687093764: New connection from 172.20.0.1:49222 on port 1883.
+1687093764: Client <unknown> disconnected due to malformed packet.
+1687093766: New connection from 172.20.0.1:49228 on port 1883.
+1687093766: Client <unknown> disconnected due to malformed packet.
+1687093768: New connection from 172.20.0.1:49242 on port 1883.
+1687093768: Client <unknown> disconnected due to malformed packet.
+1687093770: New connection from 172.20.0.1:49254 on port 1883.
+1687093770: Client <unknown> disconnected due to malformed packet.
+1687093772: New connection from 172.20.0.1:36172 on port 1883.
+1687093772: Client <unknown> disconnected due to malformed packet.
+1687093774: New connection from 172.20.0.1:36180 on port 1883.
+1687093774: Client <unknown> disconnected due to malformed packet.
+1687093776: New connection from 172.20.0.1:36188 on port 1883.
+1687093776: Client <unknown> disconnected due to malformed packet.
+1687093778: New connection from 172.20.0.1:36202 on port 1883.
+1687093778: Client <unknown> disconnected due to malformed packet.
+1687093781: New connection from 172.20.0.1:36218 on port 1883.
+1687093781: Client <unknown> disconnected due to malformed packet.
+1687093786: New connection from 172.20.0.1:35858 on port 1883.
+1687093786: Client <unknown> disconnected due to malformed packet.
+1687093789: New connection from 172.20.0.1:35864 on port 1883.
+1687093789: Client <unknown> disconnected due to malformed packet.
+1687093795: New connection from 172.20.0.1:57384 on port 1883.
+1687093795: Client <unknown> disconnected due to malformed packet.
+1687093799: New connection from 172.20.0.1:57386 on port 1883.
+1687093799: Client <unknown> disconnected due to malformed packet.
+1687093804: New connection from 172.20.0.1:40428 on port 1883.
+1687093804: Client <unknown> disconnected due to malformed packet.
+1687093809: New connection from 172.20.0.1:40430 on port 1883.
+1687093809: Client <unknown> disconnected due to malformed packet.
+1687093815: New connection from 172.20.0.1:42260 on port 1883.
+1687093815: Client <unknown> disconnected due to malformed packet.
+1687093819: New connection from 172.20.0.1:42262 on port 1883.
+1687093819: Client <unknown> disconnected due to malformed packet.
+1687093825: New connection from 172.20.0.1:57360 on port 1883.
+1687093825: Client <unknown> disconnected due to malformed packet.
+1687093828: New connection from 172.20.0.1:57376 on port 1883.
+1687093828: Client <unknown> disconnected due to malformed packet.
+1687093832: New connection from 172.20.0.1:44024 on port 1883.
+1687093832: Client <unknown> disconnected due to malformed packet.
+1687093837: New connection from 172.20.0.1:44036 on port 1883.
+1687093837: Client <unknown> disconnected due to malformed packet.
+1687093841: New connection from 172.20.0.1:44048 on port 1883.
+1687093841: Client <unknown> disconnected due to malformed packet.
+1687093847: New connection from 172.20.0.1:34726 on port 1883.
+1687093847: Client <unknown> disconnected due to malformed packet.
+1687093853: New connection from 172.20.0.1:55882 on port 1883.
+1687093853: Client <unknown> disconnected due to malformed packet.
+1687093857: New connection from 172.20.0.1:55890 on port 1883.
+1687093857: Client <unknown> disconnected due to malformed packet.
+1687093860: New connection from 172.20.0.1:55894 on port 1883.
+1687093860: Client <unknown> disconnected due to malformed packet.
+1687093862: New connection from 172.20.0.1:32924 on port 1883.
+1687093862: Client <unknown> disconnected due to malformed packet.
+1687093865: New connection from 172.20.0.1:32936 on port 1883.
+1687093865: Client <unknown> disconnected due to malformed packet.
+1687093870: New connection from 172.20.0.1:32938 on port 1883.
+1687093870: Client <unknown> disconnected due to malformed packet.
+1687093875: New connection from 172.20.0.1:53050 on port 1883.
+1687093875: Client <unknown> disconnected due to malformed packet.
+1687093881: New connection from 172.20.0.1:53054 on port 1883.
+1687093881: Client <unknown> disconnected due to malformed packet.
+1687093883: New connection from 172.20.0.1:40612 on port 1883.
+1687093883: Client <unknown> disconnected due to malformed packet.
+1687093887: New connection from 172.20.0.1:40622 on port 1883.
+1687093887: Client <unknown> disconnected due to malformed packet.
+1687093893: New connection from 172.20.0.1:39472 on port 1883.
+1687093893: Client <unknown> disconnected due to malformed packet.
+1687093898: New connection from 172.20.0.1:39474 on port 1883.
+1687093898: Client <unknown> disconnected due to malformed packet.
+1687093901: New connection from 172.20.0.1:39482 on port 1883.
+1687093901: Client <unknown> disconnected due to malformed packet.
+1687093906: New connection from 172.20.0.1:60156 on port 1883.
+1687093906: Client <unknown> disconnected due to malformed packet.
+1687093911: New connection from 172.20.0.1:60168 on port 1883.
+1687093911: Client <unknown> disconnected due to malformed packet.
+1687093916: New connection from 172.20.0.1:44466 on port 1883.
+1687093916: Client <unknown> disconnected due to malformed packet.
+1687093921: New connection from 172.20.0.1:44480 on port 1883.
+1687093921: Client <unknown> disconnected due to malformed packet.
+1687093927: New connection from 172.20.0.1:37998 on port 1883.
+1687093927: Client <unknown> disconnected due to malformed packet.
+1687093930: New connection from 172.20.0.1:38012 on port 1883.
+1687093930: Client <unknown> disconnected due to malformed packet.
+1687093935: New connection from 172.20.0.1:53302 on port 1883.
+1687093935: Client <unknown> disconnected due to malformed packet.
+1687093938: New connection from 172.20.0.1:53310 on port 1883.
+1687093938: Client <unknown> disconnected due to malformed packet.
+1687093942: New connection from 172.20.0.1:40556 on port 1883.
+1687093942: Client <unknown> disconnected due to malformed packet.
+1687093948: New connection from 172.20.0.1:40572 on port 1883.
+1687093948: Client <unknown> disconnected due to malformed packet.
+1687093953: New connection from 172.20.0.1:48156 on port 1883.
+1687093953: Client <unknown> disconnected due to malformed packet.
+1687093957: New connection from 172.20.0.1:48166 on port 1883.
+1687093957: Client <unknown> disconnected due to malformed packet.
+1687093961: New connection from 172.20.0.1:48176 on port 1883.
+1687093961: Client <unknown> disconnected due to malformed packet.
+1687093968: New connection from 172.20.0.1:43642 on port 1883.
+1687093968: Client <unknown> disconnected due to malformed packet.
+1687093973: New connection from 172.20.0.1:57328 on port 1883.
+1687093973: Client <unknown> disconnected due to malformed packet.
+1687093979: New connection from 172.20.0.1:57338 on port 1883.
+1687093979: Client <unknown> disconnected due to malformed packet.
+1687093985: New connection from 172.20.0.1:37762 on port 1883.
+1687093985: Client <unknown> disconnected due to malformed packet.
+1687093989: New connection from 172.20.0.1:37772 on port 1883.
+1687093989: Client <unknown> disconnected due to malformed packet.
+1687093991: New connection from 172.20.0.1:37774 on port 1883.
+1687093991: Client <unknown> disconnected due to malformed packet.
+1687093993: New connection from 172.20.0.1:56010 on port 1883.
+1687093993: Client <unknown> disconnected due to malformed packet.
+1687093995: New connection from 172.20.0.1:56018 on port 1883.
+1687093995: Client <unknown> disconnected due to malformed packet.
+1687093997: New connection from 172.20.0.1:56020 on port 1883.
+1687093997: Client <unknown> disconnected due to malformed packet.
+1687093999: New connection from 172.20.0.1:56034 on port 1883.
+1687093999: Client <unknown> disconnected due to malformed packet.
+1687094001: New connection from 172.20.0.1:56040 on port 1883.
+1687094001: Client <unknown> disconnected due to malformed packet.
+1687094003: New connection from 172.20.0.1:56342 on port 1883.
+1687094003: Client <unknown> disconnected due to malformed packet.
+1687094005: New connection from 172.20.0.1:56350 on port 1883.
+1687094005: Client <unknown> disconnected due to malformed packet.
+1687094007: New connection from 172.20.0.1:56356 on port 1883.
+1687094007: Client <unknown> disconnected due to malformed packet.
+1687094009: New connection from 172.20.0.1:56368 on port 1883.
+1687094009: Client <unknown> disconnected due to malformed packet.
+1687094011: New connection from 172.20.0.1:56376 on port 1883.
+1687094011: Client <unknown> disconnected due to malformed packet.
+1687094013: New connection from 172.20.0.1:56806 on port 1883.
+1687094013: Client <unknown> disconnected due to malformed packet.
+1687094015: New connection from 172.20.0.1:56822 on port 1883.
+1687094015: Client <unknown> disconnected due to malformed packet.
+1687094017: New connection from 172.20.0.1:56828 on port 1883.
+1687094017: Client <unknown> disconnected due to malformed packet.
+1687094020: New connection from 172.20.0.1:56844 on port 1883.
+1687094020: Client <unknown> disconnected due to malformed packet.
+1687094022: New connection from 172.20.0.1:37798 on port 1883.
+1687094022: Client <unknown> disconnected due to malformed packet.
+1687094028: New connection from 172.20.0.1:37806 on port 1883.
+1687094028: Client <unknown> disconnected due to malformed packet.
+1687094030: New connection from 172.20.0.1:37820 on port 1883.
+1687094030: Client <unknown> disconnected due to malformed packet.
+1687094035: New connection from 172.20.0.1:41860 on port 1883.
+1687094035: Client <unknown> disconnected due to malformed packet.
+1687094041: New connection from 172.20.0.1:41862 on port 1883.
+1687094041: Client <unknown> disconnected due to malformed packet.
+1687094044: New connection from 172.20.0.1:60646 on port 1883.
+1687094044: Client <unknown> disconnected due to malformed packet.
+1687094049: New connection from 172.20.0.1:60654 on port 1883.
+1687094049: Client <unknown> disconnected due to malformed packet.
+1687094053: New connection from 172.20.0.1:34880 on port 1883.
+1687094053: Client <unknown> disconnected due to malformed packet.
+1687094060: New connection from 172.20.0.1:34894 on port 1883.
+1687094060: Client <unknown> disconnected due to malformed packet.
+1687094065: New connection from 172.20.0.1:60874 on port 1883.
+1687094065: Client <unknown> disconnected due to malformed packet.
+1687094069: New connection from 172.20.0.1:60880 on port 1883.
+1687094069: Client <unknown> disconnected due to malformed packet.
+1687094074: New connection from 172.20.0.1:34616 on port 1883.
+1687094074: Client <unknown> disconnected due to malformed packet.
+1687094076: New connection from 172.20.0.1:34622 on port 1883.
+1687094076: Client <unknown> disconnected due to malformed packet.
+1687094080: New connection from 172.20.0.1:34626 on port 1883.
+1687094080: Client <unknown> disconnected due to malformed packet.
+1687094085: New connection from 172.20.0.1:58700 on port 1883.
+1687094085: Client <unknown> disconnected due to malformed packet.
+1687094088: New connection from 172.20.0.1:58708 on port 1883.
+1687094088: Client <unknown> disconnected due to malformed packet.
+1687094090: New connection from 172.20.0.1:58710 on port 1883.
+1687094090: Client <unknown> disconnected due to malformed packet.
+1687094095: New connection from 172.20.0.1:49940 on port 1883.
+1687094095: Client <unknown> disconnected due to malformed packet.
+1687094101: New connection from 172.20.0.1:49954 on port 1883.
+1687094101: Client <unknown> disconnected due to malformed packet.
+1687094104: New connection from 172.20.0.1:52642 on port 1883.
+1687094104: Client <unknown> disconnected due to malformed packet.
+1687094109: New connection from 172.20.0.1:52658 on port 1883.
+1687094109: Client <unknown> disconnected due to malformed packet.
+1687094114: New connection from 172.20.0.1:58934 on port 1883.
+1687094114: Client <unknown> disconnected due to malformed packet.
+1687094120: New connection from 172.20.0.1:58940 on port 1883.
+1687094120: Client <unknown> disconnected due to malformed packet.
+1687094125: New connection from 172.20.0.1:41952 on port 1883.
+1687094125: Client <unknown> disconnected due to malformed packet.
+1687094128: New connection from 172.20.0.1:41962 on port 1883.
+1687094128: Client <unknown> disconnected due to malformed packet.
+1687094132: New connection from 172.20.0.1:49982 on port 1883.
+1687094132: Client <unknown> disconnected due to malformed packet.
+1687094137: New connection from 172.20.0.1:49998 on port 1883.
+1687094137: Client <unknown> disconnected due to malformed packet.
+1687094142: New connection from 172.20.0.1:52044 on port 1883.
+1687094142: Client <unknown> disconnected due to malformed packet.
+1687094147: New connection from 172.20.0.1:52056 on port 1883.
+1687094147: Client <unknown> disconnected due to malformed packet.
+1687094152: New connection from 172.20.0.1:52062 on port 1883.
+1687094152: Client <unknown> disconnected due to malformed packet.
+1687094156: New connection from 172.20.0.1:55672 on port 1883.
+1687094156: Client <unknown> disconnected due to malformed packet.
+1687094161: New connection from 172.20.0.1:55688 on port 1883.
+1687094161: Client <unknown> disconnected due to malformed packet.
+1687094167: New connection from 172.20.0.1:36394 on port 1883.
+1687094167: Client <unknown> disconnected due to malformed packet.
+1687094172: New connection from 172.20.0.1:46988 on port 1883.
+1687094172: Client <unknown> disconnected due to malformed packet.
+1687094176: New connection from 172.20.0.1:46994 on port 1883.
+1687094176: Client <unknown> disconnected due to malformed packet.
+1687094180: New connection from 172.20.0.1:47008 on port 1883.
+1687094180: Client <unknown> disconnected due to malformed packet.
+1687094185: New connection from 172.20.0.1:49304 on port 1883.
+1687094185: Client <unknown> disconnected due to malformed packet.
+1687094191: New connection from 172.20.0.1:49312 on port 1883.
+1687094191: Client <unknown> disconnected due to malformed packet.
+1687094193: New connection from 172.20.0.1:34434 on port 1883.
+1687094193: Client <unknown> disconnected due to malformed packet.
+1687094199: New connection from 172.20.0.1:34442 on port 1883.
+1687094199: Client <unknown> disconnected due to malformed packet.
+1687094203: New connection from 172.20.0.1:53352 on port 1883.
+1687094203: Client <unknown> disconnected due to malformed packet.
+1687094206: New connection from 172.20.0.1:53358 on port 1883.
+1687094206: Client <unknown> disconnected due to malformed packet.
+1687094209: New connection from 172.20.0.1:53362 on port 1883.
+1687094209: Client <unknown> disconnected due to malformed packet.
+1687094213: New connection from 172.20.0.1:51248 on port 1883.
+1687094213: Client <unknown> disconnected due to malformed packet.
+1687094217: New connection from 172.20.0.1:51262 on port 1883.
+1687094217: Client <unknown> disconnected due to malformed packet.
+1687094224: New connection from 172.20.0.1:46806 on port 1883.
+1687094224: Client <unknown> disconnected due to malformed packet.
+1687094226: New connection from 172.20.0.1:46810 on port 1883.
+1687094226: Client <unknown> disconnected due to malformed packet.
+1687094232: New connection from 172.20.0.1:60192 on port 1883.
+1687094232: Client <unknown> disconnected due to malformed packet.
+1687094236: New connection from 172.20.0.1:60204 on port 1883.
+1687094236: Client <unknown> disconnected due to malformed packet.
+1687094239: New connection from 172.20.0.1:60208 on port 1883.
+1687094239: Client <unknown> disconnected due to malformed packet.
+1687094243: New connection from 172.20.0.1:51130 on port 1883.
+1687094243: Client <unknown> disconnected due to malformed packet.
+1687094247: New connection from 172.20.0.1:51134 on port 1883.
+1687094247: Client <unknown> disconnected due to malformed packet.
+1687094250: New connection from 172.20.0.1:51148 on port 1883.
+1687094250: Client <unknown> disconnected due to malformed packet.
+1687094254: New connection from 172.20.0.1:43534 on port 1883.
+1687094254: Client <unknown> disconnected due to malformed packet.
+1687094258: New connection from 172.20.0.1:43548 on port 1883.
+1687094258: Client <unknown> disconnected due to malformed packet.
+1687094261: New connection from 172.20.0.1:43556 on port 1883.
+1687094261: Client <unknown> disconnected due to malformed packet.
+1687094265: New connection from 172.20.0.1:33894 on port 1883.
+1687094265: Client <unknown> disconnected due to malformed packet.
+1687094267: New connection from 172.20.0.1:33898 on port 1883.
+1687094267: Client <unknown> disconnected due to malformed packet.
+1687094270: New connection from 172.20.0.1:33910 on port 1883.
+1687094270: Client <unknown> disconnected due to malformed packet.
+1687094274: New connection from 172.20.0.1:59948 on port 1883.
+1687094274: Client <unknown> disconnected due to malformed packet.
+1687094278: New connection from 172.20.0.1:59964 on port 1883.
+1687094278: Client <unknown> disconnected due to malformed packet.
+1687094284: New connection from 172.20.0.1:44192 on port 1883.
+1687094284: Client <unknown> disconnected due to malformed packet.
+1687094289: New connection from 172.20.0.1:44198 on port 1883.
+1687094289: Client <unknown> disconnected due to malformed packet.
+1687094295: New connection from 172.20.0.1:42646 on port 1883.
+1687094295: Client <unknown> disconnected due to malformed packet.
+1687094298: New connection from 172.20.0.1:42650 on port 1883.
+1687094298: Client <unknown> disconnected due to malformed packet.
+1687094303: New connection from 172.20.0.1:55666 on port 1883.
+1687094303: Client <unknown> disconnected due to malformed packet.
+1687094306: New connection from 172.20.0.1:55682 on port 1883.
+1687094306: Client <unknown> disconnected due to malformed packet.
+1687094310: New connection from 172.20.0.1:55696 on port 1883.
+1687094310: Client <unknown> disconnected due to malformed packet.
+1687094313: New connection from 172.20.0.1:55000 on port 1883.
+1687094313: Client <unknown> disconnected due to malformed packet.
+1687094316: New connection from 172.20.0.1:55010 on port 1883.
+1687094316: Client <unknown> disconnected due to malformed packet.
+1687094319: New connection from 172.20.0.1:55012 on port 1883.
+1687094319: Client <unknown> disconnected due to malformed packet.
+1687094322: New connection from 172.20.0.1:59930 on port 1883.
+1687094322: Client <unknown> disconnected due to malformed packet.
+1687094328: New connection from 172.20.0.1:59944 on port 1883.
+1687094328: Client <unknown> disconnected due to malformed packet.
+1687094332: New connection from 172.20.0.1:53146 on port 1883.
+1687094332: Client <unknown> disconnected due to malformed packet.
+1687094336: New connection from 172.20.0.1:53150 on port 1883.
+1687094336: Client <unknown> disconnected due to malformed packet.
+1687094340: New connection from 172.20.0.1:53152 on port 1883.
+1687094340: Client <unknown> disconnected due to malformed packet.
+1687094344: New connection from 172.20.0.1:41438 on port 1883.
+1687094344: Client <unknown> disconnected due to malformed packet.
+1687094350: New connection from 172.20.0.1:41448 on port 1883.
+1687094350: Client <unknown> disconnected due to malformed packet.
+1687094352: New connection from 172.20.0.1:33732 on port 1883.
+1687094352: Client <unknown> disconnected due to malformed packet.
+1687094354: New connection from 172.20.0.1:33738 on port 1883.
+1687094354: Client <unknown> disconnected due to malformed packet.
+1687094356: New connection from 172.20.0.1:33752 on port 1883.
+1687094356: Client <unknown> disconnected due to malformed packet.
+1687094358: New connection from 172.20.0.1:33756 on port 1883.
+1687094358: Client <unknown> disconnected due to malformed packet.
+1687094360: New connection from 172.20.0.1:33760 on port 1883.
+1687094360: Client <unknown> disconnected due to malformed packet.
+1687094362: New connection from 172.20.0.1:39670 on port 1883.
+1687094362: Client <unknown> disconnected due to malformed packet.
+1687094364: New connection from 172.20.0.1:39676 on port 1883.
+1687094364: Client <unknown> disconnected due to malformed packet.
+1687094366: New connection from 172.20.0.1:39682 on port 1883.
+1687094366: Client <unknown> disconnected due to malformed packet.
+1687094368: New connection from 172.20.0.1:39686 on port 1883.
+1687094368: Client <unknown> disconnected due to malformed packet.
+1687094370: New connection from 172.20.0.1:39696 on port 1883.
+1687094370: Client <unknown> disconnected due to malformed packet.
+1687094372: New connection from 172.20.0.1:58022 on port 1883.
+1687094372: Client <unknown> disconnected due to malformed packet.
+1687094374: New connection from 172.20.0.1:58034 on port 1883.
+1687094374: Client <unknown> disconnected due to malformed packet.
+1687094376: New connection from 172.20.0.1:58040 on port 1883.
+1687094376: Client <unknown> disconnected due to malformed packet.
+1687094378: New connection from 172.20.0.1:58054 on port 1883.
+1687094378: Client <unknown> disconnected due to malformed packet.
+1687094380: New connection from 172.20.0.1:58062 on port 1883.
+1687094380: Client <unknown> disconnected due to malformed packet.
+1687094384: New connection from 172.20.0.1:50726 on port 1883.
+1687094384: Client <unknown> disconnected due to malformed packet.
+1687094390: New connection from 172.20.0.1:50736 on port 1883.
+1687094390: Client <unknown> disconnected due to malformed packet.
+1687094394: New connection from 172.20.0.1:38052 on port 1883.
+1687094394: Client <unknown> disconnected due to malformed packet.
+1687094397: New connection from 172.20.0.1:38064 on port 1883.
+1687094397: Client <unknown> disconnected due to malformed packet.
+1687094401: New connection from 172.20.0.1:38068 on port 1883.
+1687094401: Client <unknown> disconnected due to malformed packet.
+1687094405: New connection from 172.20.0.1:53966 on port 1883.
+1687094405: Client <unknown> disconnected due to malformed packet.
+1687094408: New connection from 172.20.0.1:53972 on port 1883.
+1687094408: Client <unknown> disconnected due to malformed packet.
+1687094413: New connection from 172.20.0.1:39668 on port 1883.
+1687094413: Client <unknown> disconnected due to malformed packet.
+1687094418: New connection from 172.20.0.1:39680 on port 1883.
+1687094418: Client <unknown> disconnected due to malformed packet.
+1687094422: New connection from 172.20.0.1:44922 on port 1883.
+1687094422: Client <unknown> disconnected due to malformed packet.
+1687094428: New connection from 172.20.0.1:44934 on port 1883.
+1687094428: Client <unknown> disconnected due to malformed packet.
+1687094433: New connection from 172.20.0.1:53676 on port 1883.
+1687094433: Client <unknown> disconnected due to malformed packet.
+1687094438: New connection from 172.20.0.1:53688 on port 1883.
+1687094438: Client <unknown> disconnected due to malformed packet.
+1687094443: New connection from 172.20.0.1:43910 on port 1883.
+1687094443: Client <unknown> disconnected due to malformed packet.
+1687094447: New connection from 172.20.0.1:43924 on port 1883.
+1687094447: Client <unknown> disconnected due to malformed packet.
+1687094450: New connection from 172.20.0.1:43940 on port 1883.
+1687094450: Client <unknown> disconnected due to malformed packet.
+1687094454: New connection from 172.20.0.1:56584 on port 1883.
+1687094454: Client <unknown> disconnected due to malformed packet.
+1687094459: New connection from 172.20.0.1:56592 on port 1883.
+1687094459: Client <unknown> disconnected due to malformed packet.
+1687094464: New connection from 172.20.0.1:46422 on port 1883.
+1687094464: Client <unknown> disconnected due to malformed packet.
+1687094467: New connection from 172.20.0.1:46430 on port 1883.
+1687094467: Client <unknown> disconnected due to malformed packet.
+1687094473: New connection from 172.20.0.1:36926 on port 1883.
+1687094473: Client <unknown> disconnected due to malformed packet.
+1687094479: New connection from 172.20.0.1:36940 on port 1883.
+1687094479: Client <unknown> disconnected due to malformed packet.
+1687094483: New connection from 172.20.0.1:51328 on port 1883.
+1687094483: Client <unknown> disconnected due to malformed packet.
+1687094487: New connection from 172.20.0.1:51330 on port 1883.
+1687094487: Client <unknown> disconnected due to malformed packet.
+1687094492: New connection from 172.20.0.1:41720 on port 1883.
+1687094492: Client <unknown> disconnected due to malformed packet.
+1687094496: New connection from 172.20.0.1:41724 on port 1883.
+1687094496: Client <unknown> disconnected due to malformed packet.
+1687094502: New connection from 172.20.0.1:53280 on port 1883.
+1687094502: Client <unknown> disconnected due to malformed packet.
+1687094507: New connection from 172.20.0.1:53290 on port 1883.
+1687094507: Client <unknown> disconnected due to malformed packet.
+1687094511: New connection from 172.20.0.1:53306 on port 1883.
+1687094511: Client <unknown> disconnected due to malformed packet.
+1687094516: New connection from 172.20.0.1:43598 on port 1883.
+1687094516: Client <unknown> disconnected due to malformed packet.
+1687094521: New connection from 172.20.0.1:43608 on port 1883.
+1687094521: Client <unknown> disconnected due to malformed packet.
+1687094525: New connection from 172.20.0.1:38804 on port 1883.
+1687094525: Client <unknown> disconnected due to malformed packet.
+1687094531: New connection from 172.20.0.1:38818 on port 1883.
+1687094531: Client <unknown> disconnected due to malformed packet.
+1687094537: New connection from 172.20.0.1:60472 on port 1883.
+1687094537: Client <unknown> disconnected due to malformed packet.
+1687094543: New connection from 172.20.0.1:45368 on port 1883.
+1687094543: Client <unknown> disconnected due to malformed packet.
+1687094546: New connection from 172.20.0.1:45376 on port 1883.
+1687094546: Client <unknown> disconnected due to malformed packet.
+1687094552: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687094552: New connection from 172.20.0.1:58666 on port 1883.
+1687094552: Client <unknown> disconnected due to malformed packet.
+1687094557: New connection from 172.20.0.1:58674 on port 1883.
+1687094557: Client <unknown> disconnected due to malformed packet.
+1687094563: New connection from 172.20.0.1:51048 on port 1883.
+1687094563: Client <unknown> disconnected due to malformed packet.
+1687094567: New connection from 172.20.0.1:51050 on port 1883.
+1687094567: Client <unknown> disconnected due to malformed packet.
+1687094571: New connection from 172.20.0.1:51056 on port 1883.
+1687094571: Client <unknown> disconnected due to malformed packet.
+1687094575: New connection from 172.20.0.1:53754 on port 1883.
+1687094575: Client <unknown> disconnected due to malformed packet.
+1687094582: New connection from 172.20.0.1:54862 on port 1883.
+1687094582: Client <unknown> disconnected due to malformed packet.
+1687094588: New connection from 172.20.0.1:54874 on port 1883.
+1687094588: Client <unknown> disconnected due to malformed packet.
+1687094592: New connection from 172.20.0.1:54882 on port 1883.
+1687094592: Client <unknown> disconnected due to malformed packet.
+1687094593: New connection from 172.20.0.1:55358 on port 1883.
+1687094593: Client <unknown> disconnected due to malformed packet.
+1687094595: New connection from 172.20.0.1:55370 on port 1883.
+1687094595: Client <unknown> disconnected due to malformed packet.
+1687094597: New connection from 172.20.0.1:55374 on port 1883.
+1687094597: Client <unknown> disconnected due to malformed packet.
+1687094599: New connection from 172.20.0.1:55384 on port 1883.
+1687094599: Client <unknown> disconnected due to malformed packet.
+1687094601: New connection from 172.20.0.1:55392 on port 1883.
+1687094601: Client <unknown> disconnected due to malformed packet.
+1687094603: New connection from 172.20.0.1:37234 on port 1883.
+1687094603: Client <unknown> disconnected due to malformed packet.
+1687094605: New connection from 172.20.0.1:37240 on port 1883.
+1687094605: Client <unknown> disconnected due to malformed packet.
+1687094607: New connection from 172.20.0.1:37248 on port 1883.
+1687094607: Client <unknown> disconnected due to malformed packet.
+1687094609: New connection from 172.20.0.1:37258 on port 1883.
+1687094609: Client <unknown> disconnected due to malformed packet.
+1687094611: New connection from 172.20.0.1:37270 on port 1883.
+1687094611: Client <unknown> disconnected due to malformed packet.
+1687094613: New connection from 172.20.0.1:36094 on port 1883.
+1687094613: Client <unknown> disconnected due to malformed packet.
+1687094615: New connection from 172.20.0.1:36104 on port 1883.
+1687094615: Client <unknown> disconnected due to malformed packet.
+1687094617: New connection from 172.20.0.1:36120 on port 1883.
+1687094617: Client <unknown> disconnected due to malformed packet.
+1687094619: New connection from 172.20.0.1:36132 on port 1883.
+1687094619: Client <unknown> disconnected due to malformed packet.
+1687094621: New connection from 172.20.0.1:36140 on port 1883.
+1687094621: Client <unknown> disconnected due to malformed packet.
+1687094625: New connection from 172.20.0.1:34624 on port 1883.
+1687094625: Client <unknown> disconnected due to malformed packet.
+1687094630: New connection from 172.20.0.1:34626 on port 1883.
+1687094630: Client <unknown> disconnected due to malformed packet.
+1687094636: New connection from 172.20.0.1:53650 on port 1883.
+1687094636: Client <unknown> disconnected due to malformed packet.
+1687094639: New connection from 172.20.0.1:53660 on port 1883.
+1687094639: Client <unknown> disconnected due to malformed packet.
+1687094643: New connection from 172.20.0.1:48478 on port 1883.
+1687094643: Client <unknown> disconnected due to malformed packet.
+1687094648: New connection from 172.20.0.1:48490 on port 1883.
+1687094648: Client <unknown> disconnected due to malformed packet.
+1687094654: New connection from 172.20.0.1:42084 on port 1883.
+1687094654: Client <unknown> disconnected due to malformed packet.
+1687094660: New connection from 172.20.0.1:42098 on port 1883.
+1687094660: Client <unknown> disconnected due to malformed packet.
+1687094663: New connection from 172.20.0.1:34920 on port 1883.
+1687094663: Client <unknown> disconnected due to malformed packet.
+1687094668: New connection from 172.20.0.1:34922 on port 1883.
+1687094668: Client <unknown> disconnected due to malformed packet.
+1687094671: New connection from 172.20.0.1:34932 on port 1883.
+1687094671: Client <unknown> disconnected due to malformed packet.
+1687094676: New connection from 172.20.0.1:34432 on port 1883.
+1687094676: Client <unknown> disconnected due to malformed packet.
+1687094682: New connection from 172.20.0.1:46946 on port 1883.
+1687094682: Client <unknown> disconnected due to malformed packet.
+1687094688: New connection from 172.20.0.1:46952 on port 1883.
+1687094688: Client <unknown> disconnected due to malformed packet.
+1687094689: mosquitto version 2.0.15 terminating
+1687094689: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687094699: mosquitto version 2.0.15 starting
+1687094699: Config loaded from /mosquitto/config/mosquitto.conf.
+1687094699: Opening websockets listen socket on port 1883.
+1687094699: Opening websockets listen socket on port 1884.
+1687094699: mosquitto version 2.0.15 running
+1687094699: Client mqttjs_11debcac closed its connection.
+1687094703: Client mqttjs_11debcac closed its connection.
+1687094704: Client mqttjs_11debcac closed its connection.
+1687094706: Client mqttjs_11debcac closed its connection.
+1687094708: Client mqttjs_11debcac closed its connection.
+1687094710: Client mqttjs_11debcac closed its connection.
+1687094712: Client mqttjs_11debcac closed its connection.
+1687094714: Client mqttjs_11debcac closed its connection.
+1687094716: Client mqttjs_11debcac closed its connection.
+1687094718: Client mqttjs_11debcac closed its connection.
+1687094720: Client mqttjs_11debcac closed its connection.
+1687094722: Client mqttjs_11debcac closed its connection.
+1687094724: Client mqttjs_11debcac closed its connection.
+1687094726: Client mqttjs_11debcac closed its connection.
+1687094728: Client mqttjs_11debcac closed its connection.
+1687094730: Client mqttjs_11debcac closed its connection.
+1687094732: Client mqttjs_11debcac closed its connection.
+1687094734: Client mqttjs_11debcac closed its connection.
+1687094736: Client mqttjs_11debcac closed its connection.
+1687094738: Client mqttjs_11debcac closed its connection.
+1687094740: Client mqttjs_11debcac closed its connection.
+1687094742: Client mqttjs_11debcac closed its connection.
+1687094744: Client mqttjs_11debcac closed its connection.
+1687094746: Client mqttjs_11debcac closed its connection.
+1687094748: Client mqttjs_11debcac closed its connection.
+1687094750: Client mqttjs_11debcac closed its connection.
+1687094752: Client mqttjs_11debcac closed its connection.
+1687094754: Client mqttjs_11debcac closed its connection.
+1687094756: Client mqttjs_11debcac closed its connection.
+1687094758: Client mqttjs_11debcac closed its connection.
+1687094760: Client mqttjs_11debcac closed its connection.
+1687094762: Client mqttjs_11debcac closed its connection.
+1687094764: Client mqttjs_11debcac closed its connection.
+1687094766: Client mqttjs_11debcac closed its connection.
+1687094768: Client mqttjs_11debcac closed its connection.
+1687094770: Client mqttjs_11debcac closed its connection.
+1687094772: Client mqttjs_11debcac closed its connection.
+1687094774: Client mqttjs_11debcac closed its connection.
+1687094776: Client mqttjs_11debcac closed its connection.
+1687094778: Client mqttjs_11debcac closed its connection.
+1687094780: Client mqttjs_11debcac closed its connection.
+1687094782: Client mqttjs_11debcac closed its connection.
+1687094784: Client mqttjs_11debcac closed its connection.
+1687094786: Client mqttjs_11debcac closed its connection.
+1687094788: Client mqttjs_11debcac closed its connection.
+1687094790: Client mqttjs_11debcac closed its connection.
+1687094792: Client mqttjs_11debcac closed its connection.
+1687094794: Client mqttjs_11debcac closed its connection.
+1687094796: Client mqttjs_11debcac closed its connection.
+1687094798: Client mqttjs_11debcac closed its connection.
+1687094800: Client mqttjs_11debcac closed its connection.
+1687094802: Client mqttjs_11debcac closed its connection.
+1687094804: Client mqttjs_11debcac closed its connection.
+1687094806: Client mqttjs_11debcac closed its connection.
+1687094808: Client mqttjs_11debcac closed its connection.
+1687094810: Client mqttjs_11debcac closed its connection.
+1687094812: Client mqttjs_11debcac closed its connection.
+1687094814: Client mqttjs_11debcac closed its connection.
+1687094816: Client mqttjs_11debcac closed its connection.
+1687094818: Client mqttjs_11debcac closed its connection.
+1687094820: Client mqttjs_11debcac closed its connection.
+1687094822: Client mqttjs_11debcac closed its connection.
+1687094824: Client mqttjs_11debcac closed its connection.
+1687094826: Client mqttjs_11debcac closed its connection.
+1687094828: Client mqttjs_11debcac closed its connection.
+1687094830: Client mqttjs_11debcac closed its connection.
+1687094832: Client mqttjs_11debcac closed its connection.
+1687094834: Client mqttjs_11debcac closed its connection.
+1687094836: Client mqttjs_11debcac closed its connection.
+1687094838: Client mqttjs_11debcac closed its connection.
+1687094840: Client mqttjs_11debcac closed its connection.
+1687094842: Client mqttjs_11debcac closed its connection.
+1687094844: Client mqttjs_11debcac closed its connection.
+1687094846: Client mqttjs_11debcac closed its connection.
+1687094848: Client mqttjs_11debcac closed its connection.
+1687094850: Client mqttjs_11debcac closed its connection.
+1687094852: Client mqttjs_11debcac closed its connection.
+1687094854: Client mqttjs_11debcac closed its connection.
+1687094856: Client mqttjs_11debcac closed its connection.
+1687094858: Client mqttjs_11debcac closed its connection.
+1687094860: Client mqttjs_11debcac closed its connection.
+1687094862: Client mqttjs_11debcac closed its connection.
+1687094864: Client mqttjs_11debcac closed its connection.
+1687094866: Client mqttjs_11debcac closed its connection.
+1687094868: Client mqttjs_11debcac closed its connection.
+1687094870: Client mqttjs_11debcac closed its connection.
+1687094872: Client mqttjs_11debcac closed its connection.
+1687094874: Client mqttjs_11debcac closed its connection.
+1687094876: Client mqttjs_11debcac closed its connection.
+1687094878: Client mqttjs_11debcac closed its connection.
+1687094880: Client mqttjs_11debcac closed its connection.
+1687094882: Client mqttjs_11debcac closed its connection.
+1687094884: Client mqttjs_11debcac closed its connection.
+1687094886: Client mqttjs_11debcac closed its connection.
+1687094888: Client mqttjs_11debcac closed its connection.
+1687094890: Client mqttjs_11debcac closed its connection.
+1687094892: Client mqttjs_11debcac closed its connection.
+1687094894: Client mqttjs_11debcac closed its connection.
+1687094896: Client mqttjs_11debcac closed its connection.
+1687094898: Client mqttjs_11debcac closed its connection.
+1687094900: Client mqttjs_11debcac closed its connection.
+1687094902: Client mqttjs_11debcac closed its connection.
+1687094904: Client mqttjs_11debcac closed its connection.
+1687094906: Client mqttjs_11debcac closed its connection.
+1687094908: Client mqttjs_11debcac closed its connection.
+1687094910: Client mqttjs_11debcac closed its connection.
+1687094912: Client mqttjs_11debcac closed its connection.
+1687094914: Client mqttjs_11debcac closed its connection.
+1687094916: Client mqttjs_11debcac closed its connection.
+1687094918: Client mqttjs_11debcac closed its connection.
+1687094920: Client mqttjs_11debcac closed its connection.
+1687094922: Client mqttjs_11debcac closed its connection.
+1687094924: Client mqttjs_11debcac closed its connection.
+1687094926: Client mqttjs_11debcac closed its connection.
+1687094928: Client mqttjs_11debcac closed its connection.
+1687094930: Client mqttjs_11debcac closed its connection.
+1687094932: Client mqttjs_11debcac closed its connection.
+1687094934: Client mqttjs_11debcac closed its connection.
+1687094936: Client mqttjs_11debcac closed its connection.
+1687094938: Client mqttjs_11debcac closed its connection.
+1687094940: Client mqttjs_11debcac closed its connection.
+1687094942: Client mqttjs_11debcac closed its connection.
+1687094944: Client mqttjs_11debcac closed its connection.
+1687094946: Client mqttjs_11debcac closed its connection.
+1687094948: Client mqttjs_11debcac closed its connection.
+1687094950: Client mqttjs_11debcac closed its connection.
+1687094952: Client mqttjs_11debcac closed its connection.
+1687094954: Client mqttjs_11debcac closed its connection.
+1687094956: Client mqttjs_11debcac closed its connection.
+1687094958: Client mqttjs_11debcac closed its connection.
+1687094960: Client mqttjs_11debcac closed its connection.
+1687094962: Client mqttjs_11debcac closed its connection.
+1687094964: Client mqttjs_11debcac closed its connection.
+1687094966: Client mqttjs_11debcac closed its connection.
+1687094968: Client mqttjs_11debcac closed its connection.
+1687094970: Client mqttjs_11debcac closed its connection.
+1687094972: Client mqttjs_11debcac closed its connection.
+1687094974: Client mqttjs_11debcac closed its connection.
+1687094976: Client mqttjs_11debcac closed its connection.
+1687094978: Client mqttjs_11debcac closed its connection.
+1687094980: Client mqttjs_11debcac closed its connection.
+1687094982: Client mqttjs_11debcac closed its connection.
+1687094984: Client mqttjs_11debcac closed its connection.
+1687094986: Client mqttjs_11debcac closed its connection.
+1687094988: Client mqttjs_11debcac closed its connection.
+1687094990: Client mqttjs_11debcac closed its connection.
+1687094992: Client mqttjs_11debcac closed its connection.
+1687094994: Client mqttjs_11debcac closed its connection.
+1687094996: Client mqttjs_11debcac closed its connection.
+1687094998: Client mqttjs_11debcac closed its connection.
+1687095000: Client mqttjs_11debcac closed its connection.
+1687095002: Client mqttjs_11debcac closed its connection.
+1687095004: Client mqttjs_11debcac closed its connection.
+1687095006: Client mqttjs_11debcac closed its connection.
+1687095008: Client mqttjs_11debcac closed its connection.
+1687095010: Client mqttjs_11debcac closed its connection.
+1687095012: Client mqttjs_11debcac closed its connection.
+1687095014: Client mqttjs_11debcac closed its connection.
+1687095016: Client mqttjs_11debcac closed its connection.
+1687095018: Client mqttjs_11debcac closed its connection.
+1687095020: Client mqttjs_11debcac closed its connection.
+1687095022: Client mqttjs_11debcac closed its connection.
+1687095024: Client mqttjs_11debcac closed its connection.
+1687095026: Client mqttjs_11debcac closed its connection.
+1687095028: Client mqttjs_11debcac closed its connection.
+1687095030: Client mqttjs_11debcac closed its connection.
+1687095032: Client mqttjs_11debcac closed its connection.
+1687095034: Client mqttjs_11debcac closed its connection.
+1687095036: Client mqttjs_11debcac closed its connection.
+1687095038: Client mqttjs_11debcac closed its connection.
+1687095040: Client mqttjs_11debcac closed its connection.
+1687095042: Client mqttjs_11debcac closed its connection.
+1687095044: Client mqttjs_11debcac closed its connection.
+1687095046: Client mqttjs_11debcac closed its connection.
+1687095048: Client mqttjs_11debcac closed its connection.
+1687095050: Client mqttjs_11debcac closed its connection.
+1687095052: Client mqttjs_11debcac closed its connection.
+1687095054: Client mqttjs_11debcac closed its connection.
+1687095056: Client mqttjs_11debcac closed its connection.
+1687095058: Client mqttjs_11debcac closed its connection.
+1687095060: Client mqttjs_11debcac closed its connection.
+1687095062: Client mqttjs_11debcac closed its connection.
+1687095064: Client mqttjs_11debcac closed its connection.
+1687095066: Client mqttjs_11debcac closed its connection.
+1687095068: Client mqttjs_11debcac closed its connection.
+1687095070: Client mqttjs_11debcac closed its connection.
+1687095072: Client mqttjs_11debcac closed its connection.
+1687095074: Client mqttjs_11debcac closed its connection.
+1687095076: Client mqttjs_11debcac closed its connection.
+1687095078: Client mqttjs_11debcac closed its connection.
+1687095080: Client mqttjs_11debcac closed its connection.
+1687095082: Client mqttjs_11debcac closed its connection.
+1687095084: Client mqttjs_11debcac closed its connection.
+1687095086: Client mqttjs_11debcac closed its connection.
+1687095088: Client mqttjs_11debcac closed its connection.
+1687095090: Client mqttjs_11debcac closed its connection.
+1687095092: Client mqttjs_11debcac closed its connection.
+1687095094: Client mqttjs_11debcac closed its connection.
+1687095096: Client mqttjs_11debcac closed its connection.
+1687095098: Client mqttjs_11debcac closed its connection.
+1687095100: Client mqttjs_11debcac closed its connection.
+1687095102: Client mqttjs_11debcac closed its connection.
+1687095104: Client mqttjs_11debcac closed its connection.
+1687095106: Client mqttjs_11debcac closed its connection.
+1687095108: Client mqttjs_11debcac closed its connection.
+1687095110: Client mqttjs_11debcac closed its connection.
+1687095112: Client mqttjs_11debcac closed its connection.
+1687095114: Client mqttjs_11debcac closed its connection.
+1687095116: Client mqttjs_11debcac closed its connection.
+1687095118: Client mqttjs_11debcac closed its connection.
+1687095120: Client mqttjs_11debcac closed its connection.
+1687095122: Client mqttjs_11debcac closed its connection.
+1687095124: Client mqttjs_11debcac closed its connection.
+1687095126: Client mqttjs_11debcac closed its connection.
+1687095128: Client mqttjs_11debcac closed its connection.
+1687095130: Client mqttjs_11debcac closed its connection.
+1687095132: Client mqttjs_11debcac closed its connection.
+1687095134: Client mqttjs_11debcac closed its connection.
+1687095136: Client mqttjs_11debcac closed its connection.
+1687095138: Client mqttjs_11debcac closed its connection.
+1687095140: Client mqttjs_11debcac closed its connection.
+1687095142: Client mqttjs_11debcac closed its connection.
+1687095144: Client mqttjs_11debcac closed its connection.
+1687095146: Client mqttjs_11debcac closed its connection.
+1687095148: Client mqttjs_11debcac closed its connection.
+1687095150: Client mqttjs_11debcac closed its connection.
+1687095152: Client mqttjs_11debcac closed its connection.
+1687095154: Client mqttjs_11debcac closed its connection.
+1687095156: Client mqttjs_11debcac closed its connection.
+1687095158: Client mqttjs_11debcac closed its connection.
+1687095160: Client mqttjs_11debcac closed its connection.
+1687095162: Client mqttjs_11debcac closed its connection.
+1687095164: Client mqttjs_11debcac closed its connection.
+1687095166: Client mqttjs_11debcac closed its connection.
+1687095168: Client mqttjs_11debcac closed its connection.
+1687095170: Client mqttjs_11debcac closed its connection.
+1687095172: Client mqttjs_11debcac closed its connection.
+1687095174: Client mqttjs_11debcac closed its connection.
+1687095176: Client mqttjs_11debcac closed its connection.
+1687095178: Client mqttjs_11debcac closed its connection.
+1687095180: Client mqttjs_11debcac closed its connection.
+1687095182: Client mqttjs_11debcac closed its connection.
+1687095184: Client mqttjs_11debcac closed its connection.
+1687095186: Client mqttjs_11debcac closed its connection.
+1687095188: Client mqttjs_11debcac closed its connection.
+1687095190: Client mqttjs_11debcac closed its connection.
+1687095191: New client connected from 172.20.0.1:33542 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687095192: Client mqttjs_11debcac closed its connection.
+1687095194: Client mqttjs_11debcac closed its connection.
+1687095196: Client mqttjs_11debcac closed its connection.
+1687095197: Client mqttjs_11debcac closed its connection.
+1687095198: Client chatuseredf2093c closed its connection.
+1687095199: Client chatuseredf2093c closed its connection.
+1687095200: Client chatuseredf2093c closed its connection.
+1687095202: Client chatuseredf2093c closed its connection.
+1687095203: Client chatuseredf2093c closed its connection.
+1687095204: Client chatuseredf2093c closed its connection.
+1687095205: Client chatuseredf2093c closed its connection.
+1687095206: Client chatuseredf2093c closed its connection.
+1687095207: Client chatuseredf2093c closed its connection.
+1687095208: Client chatuseredf2093c closed its connection.
+1687095210: Client chatuseredf2093c closed its connection.
+1687095211: Client chatuseredf2093c closed its connection.
+1687095212: Client chatuseredf2093c closed its connection.
+1687095213: Client chatuseredf2093c closed its connection.
+1687095214: Client chatuseredf2093c closed its connection.
+1687095215: Client chatuseredf2093c closed its connection.
+1687095216: Client chatuseredf2093c closed its connection.
+1687095218: Client chatuseredf2093c closed its connection.
+1687095219: Client chatuseredf2093c closed its connection.
+1687095220: Client chatuseredf2093c closed its connection.
+1687095222: Client chatuseredf2093c closed its connection.
+1687095224: Client chatuseredf2093c closed its connection.
+1687095226: Client chatuseredf2093c closed its connection.
+1687095228: Client chatuseredf2093c closed its connection.
+1687095230: Client chatuseredf2093c closed its connection.
+1687095232: Client chatuseredf2093c closed its connection.
+1687095234: Client chatuseredf2093c closed its connection.
+1687095236: Client chatuseredf2093c closed its connection.
+1687095238: Client chatuseredf2093c closed its connection.
+1687095240: Client chatuseredf2093c closed its connection.
+1687095242: Client chatuseredf2093c closed its connection.
+1687095244: Client chatuseredf2093c closed its connection.
+1687095246: Client chatuseredf2093c closed its connection.
+1687095248: Client chatuseredf2093c closed its connection.
+1687095250: Client chatuseredf2093c closed its connection.
+1687095252: Client chatuseredf2093c closed its connection.
+1687095254: Client chatuseredf2093c closed its connection.
+1687095256: Client chatuseredf2093c closed its connection.
+1687095258: Client chatuseredf2093c closed its connection.
+1687095260: Client chatuseredf2093c closed its connection.
+1687095262: Client chatuseredf2093c closed its connection.
+1687095264: Client chatuseredf2093c closed its connection.
+1687095266: Client chatuseredf2093c closed its connection.
+1687095268: Client chatuseredf2093c closed its connection.
+1687095270: Client chatuseredf2093c closed its connection.
+1687095272: Client chatuseredf2093c closed its connection.
+1687095274: Client chatuseredf2093c closed its connection.
+1687095276: Client chatuseredf2093c closed its connection.
+1687095278: Client chatuseredf2093c closed its connection.
+1687095280: Client chatuseredf2093c closed its connection.
+1687095282: Client chatuseredf2093c closed its connection.
+1687095284: Client chatuseredf2093c closed its connection.
+1687095286: Client chatuseredf2093c closed its connection.
+1687095288: Client chatuseredf2093c closed its connection.
+1687095290: Client chatuseredf2093c closed its connection.
+1687095292: Client chatuseredf2093c closed its connection.
+1687095294: Client chatuseredf2093c closed its connection.
+1687095295: Client chatuseredf2093c closed its connection.
+1687095296: Client chatuseredf2093c closed its connection.
+1687095297: Client chatuseredf2093c closed its connection.
+1687095299: Client chatuseredf2093c closed its connection.
+1687095300: Client chatuseredf2093c closed its connection.
+1687095301: Client chatuseredf2093c closed its connection.
+1687095302: Client chatuseredf2093c closed its connection.
+1687095303: Client chatuseredf2093c closed its connection.
+1687095305: Client chatuseredf2093c closed its connection.
+1687095306: Client chatuseredf2093c closed its connection.
+1687095312: Client chatusercdb11857 closed its connection.
+1687095313: Client chatusercdb11857 closed its connection.
+1687095314: Client chatusercdb11857 closed its connection.
+1687095315: Client chatusercdb11857 closed its connection.
+1687095317: Client chatusercdb11857 closed its connection.
+1687095319: Client chatusercdb11857 closed its connection.
+1687095321: Client chatusercdb11857 closed its connection.
+1687095323: Client chatusercdb11857 closed its connection.
+1687095325: Client chatusercdb11857 closed its connection.
+1687095327: Client chatusercdb11857 closed its connection.
+1687095329: Client chatusercdb11857 closed its connection.
+1687095331: Client chatusercdb11857 closed its connection.
+1687095333: Client chatusercdb11857 closed its connection.
+1687095335: Client chatusercdb11857 closed its connection.
+1687095337: Client chatusercdb11857 closed its connection.
+1687095339: Client chatusercdb11857 closed its connection.
+1687095341: Client chatusercdb11857 closed its connection.
+1687095343: Client chatusercdb11857 closed its connection.
+1687095345: Client chatusercdb11857 closed its connection.
+1687095347: Client chatusercdb11857 closed its connection.
+1687095349: Client chatusercdb11857 closed its connection.
+1687095351: Client chatusercdb11857 closed its connection.
+1687095353: Client chatusercdb11857 closed its connection.
+1687095355: Client chatusercdb11857 closed its connection.
+1687095357: Client chatusercdb11857 closed its connection.
+1687095359: Client chatusercdb11857 closed its connection.
+1687095361: Client chatusercdb11857 closed its connection.
+1687095363: Client chatusercdb11857 closed its connection.
+1687095365: Client chatusercdb11857 closed its connection.
+1687095367: Client chatusercdb11857 closed its connection.
+1687095369: Client chatusercdb11857 closed its connection.
+1687095371: Client chatusercdb11857 closed its connection.
+1687095373: Client chatusercdb11857 closed its connection.
+1687095375: Client chatusercdb11857 closed its connection.
+1687095377: Client chatusercdb11857 closed its connection.
+1687095379: Client chatusercdb11857 closed its connection.
+1687095381: Client chatusercdb11857 closed its connection.
+1687095383: Client chatusercdb11857 closed its connection.
+1687095385: Client chatusercdb11857 closed its connection.
+1687095387: Client chatusercdb11857 closed its connection.
+1687095389: Client chatusercdb11857 closed its connection.
+1687095391: Client chatusercdb11857 closed its connection.
+1687095393: Client chatusercdb11857 closed its connection.
+1687095395: Client chatusercdb11857 closed its connection.
+1687095397: Client chatusercdb11857 closed its connection.
+1687095399: Client chatusercdb11857 closed its connection.
+1687095401: Client chatusercdb11857 closed its connection.
+1687095403: Client chatusercdb11857 closed its connection.
+1687095405: Client chatusercdb11857 closed its connection.
+1687095407: Client chatusercdb11857 closed its connection.
+1687095409: Client chatusercdb11857 closed its connection.
+1687095411: Client chatusercdb11857 closed its connection.
+1687095413: Client chatusercdb11857 closed its connection.
+1687095415: Client chatusercdb11857 closed its connection.
+1687095417: Client chatusercdb11857 closed its connection.
+1687095419: Client chatusercdb11857 closed its connection.
+1687095421: Client chatusercdb11857 closed its connection.
+1687095423: Client chatusercdb11857 closed its connection.
+1687095425: Client chatusercdb11857 closed its connection.
+1687095427: Client chatusercdb11857 closed its connection.
+1687095429: Client chatusercdb11857 closed its connection.
+1687095431: Client chatusercdb11857 closed its connection.
+1687095433: Client chatusercdb11857 closed its connection.
+1687095435: Client chatusercdb11857 closed its connection.
+1687095437: Client chatusercdb11857 closed its connection.
+1687095439: Client chatusercdb11857 closed its connection.
+1687095441: Client chatusercdb11857 closed its connection.
+1687095443: Client chatusercdb11857 closed its connection.
+1687095445: Client chatusercdb11857 closed its connection.
+1687095447: Client chatusercdb11857 closed its connection.
+1687095449: Client chatusercdb11857 closed its connection.
+1687095451: Client chatusercdb11857 closed its connection.
+1687095453: Client chatusercdb11857 closed its connection.
+1687095455: Client chatusercdb11857 closed its connection.
+1687095457: Client chatusercdb11857 closed its connection.
+1687095459: Client chatusercdb11857 closed its connection.
+1687095461: Client chatusercdb11857 closed its connection.
+1687095463: Client chatusercdb11857 closed its connection.
+1687095465: Client chatusercdb11857 closed its connection.
+1687095467: Client chatusercdb11857 closed its connection.
+1687095469: Client chatusercdb11857 closed its connection.
+1687095471: Client chatusercdb11857 closed its connection.
+1687095473: Client chatusercdb11857 closed its connection.
+1687095475: Client chatusercdb11857 closed its connection.
+1687095477: Client chatusercdb11857 closed its connection.
+1687095478: Client chatusercdb11857 closed its connection.
+1687095479: Client chatusercdb11857 closed its connection.
+1687095481: Client chatusercdb11857 closed its connection.
+1687095482: Client chatusercdb11857 closed its connection.
+1687095483: Client chatusercdb11857 closed its connection.
+1687095484: Client chatuserb824271a closed its connection.
+1687095485: Client chatuserb824271a closed its connection.
+1687095487: Client chatuserb824271a closed its connection.
+1687095489: Client chatuserb824271a closed its connection.
+1687095491: Client chatuserb824271a closed its connection.
+1687095493: Client chatuserb824271a closed its connection.
+1687095495: Client chatuserb824271a closed its connection.
+1687095497: Client chatuserb824271a closed its connection.
+1687095499: Client chatuserb824271a closed its connection.
+1687095501: Client chatuserb824271a closed its connection.
+1687095503: Client chatuserb824271a closed its connection.
+1687095505: Client chatuserb824271a closed its connection.
+1687095507: Client chatuserb824271a closed its connection.
+1687095509: Client chatuserb824271a closed its connection.
+1687095511: Client chatuserb824271a closed its connection.
+1687095512: Client chatuserb824271a closed its connection.
+1687095514: Client chatuserb824271a closed its connection.
+1687095516: Client chatuserb824271a closed its connection.
+1687095517: mosquitto version 2.0.15 terminating
+1687095517: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687095517: Client mqtt-explorer-778b5863 closed its connection.
+1687095528: mosquitto version 2.0.15 starting
+1687095528: Config loaded from /mosquitto/config/mosquitto.conf.
+1687095528: Opening websockets listen socket on port 1883.
+1687095528: Opening websockets listen socket on port 1884.
+1687095528: mosquitto version 2.0.15 running
+1687095530: New client connected from 172.21.0.1:35820 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687095530: Client chatuserb824271a closed its connection.
+1687095531: Client chatuserb824271a closed its connection.
+1687095532: Client chatuserb824271a closed its connection.
+1687095533: Client chatuserb07caec4 closed its connection.
+1687095534: Client chatuserb07caec4 closed its connection.
+1687095536: Client chatuserb07caec4 closed its connection.
+1687095538: Client chatuserb07caec4 closed its connection.
+1687095540: Client chatuserb07caec4 closed its connection.
+1687095542: Client mqtt-explorer-778b5863 disconnected.
+1687095542: Client chatuserb07caec4 closed its connection.
+1687095543: New client connected from 172.21.0.1:46212 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687095544: Client chatuserb07caec4 closed its connection.
+1687095546: Client mqtt-explorer-778b5863 disconnected.
+1687095546: Client chatuserb07caec4 closed its connection.
+1687095548: Client chatuserb07caec4 closed its connection.
+1687095548: New client connected from 172.21.0.1:46256 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687095550: Client chatuserb07caec4 closed its connection.
+1687095551: Client chatuserb07caec4 closed its connection.
+1687095552: Client chatuserb07caec4 closed its connection.
+1687095553: Client chatuserb07caec4 closed its connection.
+1687095554: Client chatuserb07caec4 closed its connection.
+1687095555: Client chatuserb07caec4 closed its connection.
+1687095557: Client chatuserb07caec4 closed its connection.
+1687095558: Client chatuserb07caec4 closed its connection.
+1687095559: Client chatuserb07caec4 closed its connection.
+1687095560: Client chatuserb07caec4 closed its connection.
+1687095561: Client chatuserb07caec4 closed its connection.
+1687095562: Client chatuserb07caec4 closed its connection.
+1687095563: Client chatuserb07caec4 closed its connection.
+1687095564: Client chatuserb07caec4 closed its connection.
+1687095566: Client chatuserb07caec4 closed its connection.
+1687095567: Client chatuserb07caec4 closed its connection.
+1687095568: Client chatuserb07caec4 closed its connection.
+1687095569: Client chatuserb07caec4 closed its connection.
+1687095570: Client chatuserb07caec4 closed its connection.
+1687095571: Client chatuserb07caec4 closed its connection.
+1687095572: Client chatuserb07caec4 closed its connection.
+1687095573: Client chatuserb07caec4 closed its connection.
+1687095575: Client chatuserb07caec4 closed its connection.
+1687095576: Client chatuserb07caec4 closed its connection.
+1687095577: Client chatuserb07caec4 closed its connection.
+1687095578: Client chatuserb07caec4 closed its connection.
+1687095579: Client chatuserb07caec4 closed its connection.
+1687095580: Client chatuserb07caec4 closed its connection.
+1687095581: Client chatuserb07caec4 closed its connection.
+1687095583: Client chatuserb07caec4 closed its connection.
+1687095584: Client chatuserb07caec4 closed its connection.
+1687095585: Client chatuserb07caec4 closed its connection.
+1687095586: Client chatuserb07caec4 closed its connection.
+1687095587: Client chatuserb07caec4 closed its connection.
+1687095588: Client chatuserb07caec4 closed its connection.
+1687095589: Client chatuserb07caec4 closed its connection.
+1687095590: Client chatuserb07caec4 closed its connection.
+1687095592: Client chatuserb07caec4 closed its connection.
+1687095593: Client chatuserb07caec4 closed its connection.
+1687095594: Client chatuserb07caec4 closed its connection.
+1687095595: Client chatuserb07caec4 closed its connection.
+1687095596: Client chatuserb07caec4 closed its connection.
+1687095597: Client chatuserb07caec4 closed its connection.
+1687095598: Client chatuserb07caec4 closed its connection.
+1687095599: Client chatuserb07caec4 closed its connection.
+1687095601: Client chatuserb07caec4 closed its connection.
+1687095602: Client chatuserb07caec4 closed its connection.
+1687095603: Client chatuserb07caec4 closed its connection.
+1687095604: Client chatuserb07caec4 closed its connection.
+1687095605: Client chatuserb07caec4 closed its connection.
+1687095606: Client chatuserb07caec4 closed its connection.
+1687095607: Client chatuserb07caec4 closed its connection.
+1687095608: Client chatuserb07caec4 closed its connection.
+1687095610: Client chatuserb07caec4 closed its connection.
+1687095611: Client chatuserb07caec4 closed its connection.
+1687095612: Client chatuserb07caec4 closed its connection.
+1687095613: Client chatuserb07caec4 closed its connection.
+1687095614: Client chatuserb07caec4 closed its connection.
+1687095615: Client chatuserb07caec4 closed its connection.
+1687095616: Client chatuserb07caec4 closed its connection.
+1687095618: Client chatuserb07caec4 closed its connection.
+1687095619: Client chatuserb07caec4 closed its connection.
+1687095620: Client chatuserb07caec4 closed its connection.
+1687095621: Client chatuserb07caec4 closed its connection.
+1687095622: Client chatuserb07caec4 closed its connection.
+1687095623: Client chatuserb07caec4 closed its connection.
+1687095624: Client chatuserb07caec4 closed its connection.
+1687095625: Client chatuserb07caec4 closed its connection.
+1687095627: Client chatuserb07caec4 closed its connection.
+1687095628: Client chatuserb07caec4 closed its connection.
+1687095629: Client chatuserb07caec4 closed its connection.
+1687095630: Client chatuserb07caec4 closed its connection.
+1687095631: Client chatuserb07caec4 closed its connection.
+1687095632: Client chatuserb07caec4 closed its connection.
+1687095633: Client chatuserb07caec4 closed its connection.
+1687095634: Client chatuserb07caec4 closed its connection.
+1687095636: Client chatuserb07caec4 closed its connection.
+1687095637: Client chatuserb07caec4 closed its connection.
+1687095638: Client chatuserb07caec4 closed its connection.
+1687095639: Client chatuserb07caec4 closed its connection.
+1687095640: Client chatuserb07caec4 closed its connection.
+1687095641: Client chatuserb07caec4 closed its connection.
+1687095642: Client chatuserb07caec4 closed its connection.
+1687095644: Client chatuserb07caec4 closed its connection.
+1687095645: Client chatuserb07caec4 closed its connection.
+1687095646: Client chatuserb07caec4 closed its connection.
+1687095647: Client chatuserb07caec4 closed its connection.
+1687095648: Client chatuserb07caec4 closed its connection.
+1687095649: Client chatuserb07caec4 closed its connection.
+1687095650: Client chatuserb07caec4 closed its connection.
+1687095651: Client chatuserb07caec4 closed its connection.
+1687095653: Client chatuserb07caec4 closed its connection.
+1687095654: Client chatuserb07caec4 closed its connection.
+1687095655: Client chatuserb07caec4 closed its connection.
+1687095656: Client chatuserb07caec4 closed its connection.
+1687095657: Client chatuserb07caec4 closed its connection.
+1687095658: Client chatuserb07caec4 closed its connection.
+1687095659: Client chatuserb07caec4 closed its connection.
+1687095660: Client chatuserb07caec4 closed its connection.
+1687095662: Client chatuserb07caec4 closed its connection.
+1687095663: Client chatuserb07caec4 closed its connection.
+1687095664: Client chatuserb07caec4 closed its connection.
+1687095665: Client chatuserb07caec4 closed its connection.
+1687095666: Client chatuserb07caec4 closed its connection.
+1687095667: Client chatuserb07caec4 closed its connection.
+1687095668: Client chatuserb07caec4 closed its connection.
+1687095669: Client chatuserb07caec4 closed its connection.
+1687095671: Client chatuserb07caec4 closed its connection.
+1687095672: Client chatuserb07caec4 closed its connection.
+1687095673: Client chatuserb07caec4 closed its connection.
+1687095674: Client chatuserb07caec4 closed its connection.
+1687095675: Client chatuserb07caec4 closed its connection.
+1687095676: Client chatuserb07caec4 closed its connection.
+1687095677: Client chatuserb07caec4 closed its connection.
+1687095678: Client chatuserb07caec4 closed its connection.
+1687095680: Client chatuserb07caec4 closed its connection.
+1687095681: Client chatuserb07caec4 closed its connection.
+1687095682: Client chatuserb07caec4 closed its connection.
+1687095683: Client chatuserb07caec4 closed its connection.
+1687095684: Client chatuserb07caec4 closed its connection.
+1687095685: Client chatuserb07caec4 closed its connection.
+1687095686: Client chatuserb07caec4 closed its connection.
+1687095687: Client chatuserb07caec4 closed its connection.
+1687095689: Client chatuserb07caec4 closed its connection.
+1687095690: Client chatuserb07caec4 closed its connection.
+1687095691: Client chatuserb07caec4 closed its connection.
+1687095692: Client chatuserb07caec4 closed its connection.
+1687095693: Client chatuserb07caec4 closed its connection.
+1687095694: Client chatuserb07caec4 closed its connection.
+1687095695: Client chatuserb07caec4 closed its connection.
+1687095696: Client chatuserb07caec4 closed its connection.
+1687095698: Client chatuserb07caec4 closed its connection.
+1687095699: Client chatuserb07caec4 closed its connection.
+1687095700: Client chatuserb07caec4 closed its connection.
+1687095701: Client chatuserb07caec4 closed its connection.
+1687095702: Client chatuserb07caec4 closed its connection.
+1687095703: Client chatuserb07caec4 closed its connection.
+1687095704: Client chatuserb07caec4 closed its connection.
+1687095706: Client chatuserb07caec4 closed its connection.
+1687095707: Client chatuserb07caec4 closed its connection.
+1687095708: Client chatuserb07caec4 closed its connection.
+1687095709: Client chatuserb07caec4 closed its connection.
+1687095710: Client chatuserb07caec4 closed its connection.
+1687095711: Client chatuserb07caec4 closed its connection.
+1687095712: Client chatuserb07caec4 closed its connection.
+1687095713: Client chatuserb07caec4 closed its connection.
+1687095715: Client chatuserb07caec4 closed its connection.
+1687095716: Client chatuserb07caec4 closed its connection.
+1687095717: Client chatuserb07caec4 closed its connection.
+1687095718: Client chatuserb07caec4 closed its connection.
+1687095719: Client chatuserb07caec4 closed its connection.
+1687095720: Client chatuserb07caec4 closed its connection.
+1687095721: Client chatuserb07caec4 closed its connection.
+1687095722: Client chatuserb07caec4 closed its connection.
+1687095724: Client chatuserb07caec4 closed its connection.
+1687095725: Client chatuserb07caec4 closed its connection.
+1687095726: Client chatuserb07caec4 closed its connection.
+1687095727: Client chatuserb07caec4 closed its connection.
+1687095728: Client chatuserb07caec4 closed its connection.
+1687095729: Client chatuserb07caec4 closed its connection.
+1687095730: Client chatuserb07caec4 closed its connection.
+1687095731: Client chatuserb07caec4 closed its connection.
+1687095733: Client chatuserb07caec4 closed its connection.
+1687095734: Client chatuserb07caec4 closed its connection.
+1687095735: Client chatuserb07caec4 closed its connection.
+1687095736: Client chatuserb07caec4 closed its connection.
+1687095737: Client chatuserb07caec4 closed its connection.
+1687095738: Client chatuserb07caec4 closed its connection.
+1687095739: Client chatuserb07caec4 closed its connection.
+1687095741: Client chatuserb07caec4 closed its connection.
+1687095742: Client chatuserb07caec4 closed its connection.
+1687095743: Client chatuserb07caec4 closed its connection.
+1687095744: Client chatuserb07caec4 closed its connection.
+1687095745: Client chatuserb07caec4 closed its connection.
+1687095746: Client chatuserb07caec4 closed its connection.
+1687095747: Client chatuserb07caec4 closed its connection.
+1687095748: Client chatuserb07caec4 closed its connection.
+1687095750: Client chatuserb07caec4 closed its connection.
+1687095751: Client chatuserb07caec4 closed its connection.
+1687095752: Client chatuserb07caec4 closed its connection.
+1687095754: Client <unknown> closed its connection.
+1687095754: Client chatuserd84325b0 closed its connection.
+1687095755: Client chatuserd84325b0 closed its connection.
+1687095756: Client chatuserd84325b0 closed its connection.
+1687095757: Client chatuserd84325b0 closed its connection.
+1687095758: Client chatuserd84325b0 closed its connection.
+1687095760: Client chatuserd84325b0 closed its connection.
+1687095761: Client chatuserd84325b0 closed its connection.
+1687095762: Client chatuserd84325b0 closed its connection.
+1687095763: Client chatuserd84325b0 closed its connection.
+1687095764: Client chatuserd84325b0 closed its connection.
+1687095765: Client chatuserd84325b0 closed its connection.
+1687095767: Client chatuserd84325b0 closed its connection.
+1687095769: Client chatuserd84325b0 closed its connection.
+1687095771: Client chatuserd84325b0 closed its connection.
+1687095773: Client chatuserd84325b0 closed its connection.
+1687095775: Client chatuserd84325b0 closed its connection.
+1687095777: Client chatuserd84325b0 closed its connection.
+1687095779: Client chatuserd84325b0 closed its connection.
+1687095781: Client chatuserd84325b0 closed its connection.
+1687095783: Client chatuserd84325b0 closed its connection.
+1687095785: Client chatuserd84325b0 closed its connection.
+1687095787: Client chatuserd84325b0 closed its connection.
+1687095789: Client chatuserd84325b0 closed its connection.
+1687095791: Client chatuserd84325b0 closed its connection.
+1687095793: Client chatuserd84325b0 closed its connection.
+1687095795: Client chatuserd84325b0 closed its connection.
+1687095797: Client chatuserd84325b0 closed its connection.
+1687095799: Client chatuserd84325b0 closed its connection.
+1687095801: Client chatuserd84325b0 closed its connection.
+1687095803: Client chatuserd84325b0 closed its connection.
+1687095805: Client chatuserd84325b0 closed its connection.
+1687095807: Client chatuserd84325b0 closed its connection.
+1687095809: Client chatuserd84325b0 closed its connection.
+1687095811: Client chatuserd84325b0 closed its connection.
+1687095813: Client chatuserd84325b0 closed its connection.
+1687095815: Client chatuserd84325b0 closed its connection.
+1687095817: Client chatuserd84325b0 closed its connection.
+1687095819: Client chatuserd84325b0 closed its connection.
+1687095821: Client chatuserd84325b0 closed its connection.
+1687095823: Client chatuserd84325b0 closed its connection.
+1687095825: Client chatuserd84325b0 closed its connection.
+1687095827: Client chatuserd84325b0 closed its connection.
+1687095829: Client chatuserd84325b0 closed its connection.
+1687095831: Client chatuserd84325b0 closed its connection.
+1687095833: Client chatuserd84325b0 closed its connection.
+1687095835: Client chatuserd84325b0 closed its connection.
+1687095837: Client chatuserd84325b0 closed its connection.
+1687095839: Client chatuserd84325b0 closed its connection.
+1687095841: Client chatuserd84325b0 closed its connection.
+1687095843: Client chatuserd84325b0 closed its connection.
+1687095845: Client chatuserd84325b0 closed its connection.
+1687095847: Client chatuserd84325b0 closed its connection.
+1687095849: Client chatuserd84325b0 closed its connection.
+1687095851: Client chatuserd84325b0 closed its connection.
+1687095853: Client chatuserd84325b0 closed its connection.
+1687095855: Client chatuserd84325b0 closed its connection.
+1687095856: Client chatuserd84325b0 closed its connection.
+1687095857: Client chatuserd84325b0 closed its connection.
+1687095858: Client chatuserd84325b0 closed its connection.
+1687095859: Client chatuserd84325b0 closed its connection.
+1687095861: Client chatuserd84325b0 closed its connection.
+1687095863: Client chatuserd84325b0 closed its connection.
+1687095865: Client chatuserd84325b0 closed its connection.
+1687095867: Client chatuserd84325b0 closed its connection.
+1687095869: Client chatuserd84325b0 closed its connection.
+1687095871: Client chatuserd84325b0 closed its connection.
+1687095873: Client chatuserd84325b0 closed its connection.
+1687095875: Client chatuserd84325b0 closed its connection.
+1687095877: Client chatuserd84325b0 closed its connection.
+1687095879: Client chatuserd84325b0 closed its connection.
+1687095881: Client chatuserd84325b0 closed its connection.
+1687095883: mosquitto version 2.0.15 terminating
+1687095883: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687095883: Client <unknown> closed its connection.
+1687095883: Client mqtt-explorer-778b5863 closed its connection.
+1687096150: mosquitto version 2.0.15 starting
+1687096150: Config loaded from /mosquitto/config/mosquitto.conf.
+1687096150: Opening websockets listen socket on port 1883.
+1687096150: Opening websockets listen socket on port 1884.
+1687096150: mosquitto version 2.0.15 running
+1687096151: New client connected from 172.21.0.1:52136 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687096153: Client chatuserd84325b0 closed its connection.
+1687096154: Client <unknown> closed its connection.
+1687096155: Client chatuserccd84af9 closed its connection.
+1687096156: Client chatuserccd84af9 closed its connection.
+1687096157: Client chatuserccd84af9 closed its connection.
+1687096158: Client chatuserccd84af9 closed its connection.
+1687096159: Client chatuserccd84af9 closed its connection.
+1687096161: Client chatuserccd84af9 closed its connection.
+1687096163: Client chatuserccd84af9 closed its connection.
+1687096165: Client chatuserccd84af9 closed its connection.
+1687096167: Client chatuserccd84af9 closed its connection.
+1687096169: Client chatuserccd84af9 closed its connection.
+1687096171: Client chatuserccd84af9 closed its connection.
+1687096173: Client chatuserccd84af9 closed its connection.
+1687096175: Client chatuserccd84af9 closed its connection.
+1687096177: Client chatuserccd84af9 closed its connection.
+1687096179: Client chatuserccd84af9 closed its connection.
+1687096181: Client chatuserccd84af9 closed its connection.
+1687096183: Client chatuserccd84af9 closed its connection.
+1687096185: Client chatuserccd84af9 closed its connection.
+1687096187: Client chatuserccd84af9 closed its connection.
+1687096189: Client chatuserccd84af9 closed its connection.
+1687096191: Client chatuserccd84af9 closed its connection.
+1687096193: Client chatuserccd84af9 closed its connection.
+1687096195: Client chatuserccd84af9 closed its connection.
+1687096197: Client chatuserccd84af9 closed its connection.
+1687096199: Client chatuserccd84af9 closed its connection.
+1687096201: Client chatuserccd84af9 closed its connection.
+1687096203: Client chatuserccd84af9 closed its connection.
+1687096205: Client chatuserccd84af9 closed its connection.
+1687096207: Client chatuserccd84af9 closed its connection.
+1687096209: Client chatuserccd84af9 closed its connection.
+1687096211: Client chatuserccd84af9 closed its connection.
+1687096213: Client chatuserccd84af9 closed its connection.
+1687096215: Client chatuserccd84af9 closed its connection.
+1687096217: Client chatuserccd84af9 closed its connection.
+1687096219: Client chatuserccd84af9 closed its connection.
+1687096221: Client chatuserccd84af9 closed its connection.
+1687096223: Client chatuserccd84af9 closed its connection.
+1687096225: Client chatuserccd84af9 closed its connection.
+1687096227: Client chatuserccd84af9 closed its connection.
+1687096229: Client chatuserccd84af9 closed its connection.
+1687096231: Client chatuserccd84af9 closed its connection.
+1687096233: Client chatuserccd84af9 closed its connection.
+1687096235: Client chatuserccd84af9 closed its connection.
+1687096237: Client chatuserccd84af9 closed its connection.
+1687096239: Client chatuserccd84af9 closed its connection.
+1687096241: Client chatuserccd84af9 closed its connection.
+1687096243: Client chatuserccd84af9 closed its connection.
+1687096244: Client chatuserccd84af9 closed its connection.
+1687096245: Client chatuserccd84af9 closed its connection.
+1687096246: Client chatuserccd84af9 closed its connection.
+1687096247: Client chatuserccd84af9 closed its connection.
+1687096249: Client chatuserccd84af9 closed its connection.
+1687096250: Client chatuserccd84af9 closed its connection.
+1687096251: Client chatuserccd84af9 closed its connection.
+1687096252: Client chatuserccd84af9 closed its connection.
+1687096253: Client mqtt-explorer-778b5863 disconnected.
+1687096253: Client chatuserccd84af9 closed its connection.
+1687096254: Client chatuserccd84af9 closed its connection.
+1687096255: New client connected from 172.21.0.1:40084 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687096255: Client chatuserccd84af9 closed its connection.
+1687096256: Client chatuserccd84af9 closed its connection.
+1687096257: Client chatuserccd84af9 closed its connection.
+1687096259: Client chatuserccd84af9 closed its connection.
+1687096260: Client chatuserccd84af9 closed its connection.
+1687096261: Client chatuserccd84af9 closed its connection.
+1687096262: Client chatuserccd84af9 closed its connection.
+1687096263: Client chatuserccd84af9 closed its connection.
+1687096264: Client chatuserccd84af9 closed its connection.
+1687096265: Client chatuserccd84af9 closed its connection.
+1687096266: Client chatuserccd84af9 closed its connection.
+1687096268: Client chatuserccd84af9 closed its connection.
+1687096270: Client chatuserccd84af9 closed its connection.
+1687096272: Client chatuserccd84af9 closed its connection.
+1687096274: Client chatuserccd84af9 closed its connection.
+1687096276: Client chatuserccd84af9 closed its connection.
+1687096278: Client chatuserccd84af9 closed its connection.
+1687096280: Client chatuserccd84af9 closed its connection.
+1687096282: Client chatuserccd84af9 closed its connection.
+1687096284: Client chatuserccd84af9 closed its connection.
+1687096286: Client chatuserccd84af9 closed its connection.
+1687096288: Client chatuserccd84af9 closed its connection.
+1687096290: Client chatuserccd84af9 closed its connection.
+1687096292: Client chatuserccd84af9 closed its connection.
+1687096294: Client chatuserccd84af9 closed its connection.
+1687096296: Client chatuserccd84af9 closed its connection.
+1687096298: Client chatuserccd84af9 closed its connection.
+1687096300: Client chatuserccd84af9 closed its connection.
+1687096302: Client chatuserccd84af9 closed its connection.
+1687096304: Client chatuserccd84af9 closed its connection.
+1687096306: Client chatuserccd84af9 closed its connection.
+1687096308: Client chatuserccd84af9 closed its connection.
+1687096310: Client chatuserccd84af9 closed its connection.
+1687096312: Client chatuserccd84af9 closed its connection.
+1687096314: Client chatuserccd84af9 closed its connection.
+1687096316: Client chatuserccd84af9 closed its connection.
+1687096318: Client chatuserccd84af9 closed its connection.
+1687096320: Client chatuserccd84af9 closed its connection.
+1687096322: Client chatuserccd84af9 closed its connection.
+1687096324: Client chatuserccd84af9 closed its connection.
+1687096326: Client chatuserccd84af9 closed its connection.
+1687096328: Client chatuserccd84af9 closed its connection.
+1687096330: Client chatuserccd84af9 closed its connection.
+1687096332: Client chatuserccd84af9 closed its connection.
+1687096334: Client chatuserccd84af9 closed its connection.
+1687096336: Client chatuserccd84af9 closed its connection.
+1687096338: Client chatuserccd84af9 closed its connection.
+1687096340: Client chatuserccd84af9 closed its connection.
+1687096342: Client chatuserccd84af9 closed its connection.
+1687096344: Client chatuserccd84af9 closed its connection.
+1687096346: Client chatuserccd84af9 closed its connection.
+1687096348: Client chatuserccd84af9 closed its connection.
+1687096350: Client chatuserccd84af9 closed its connection.
+1687096352: Client chatuserccd84af9 closed its connection.
+1687096354: Client chatuserccd84af9 closed its connection.
+1687096356: Client chatuserccd84af9 closed its connection.
+1687096358: Client chatuserccd84af9 closed its connection.
+1687096360: Client chatuserccd84af9 closed its connection.
+1687096362: Client chatuserccd84af9 closed its connection.
+1687096364: Client chatuserccd84af9 closed its connection.
+1687096366: Client chatuserccd84af9 closed its connection.
+1687096368: Client chatuserccd84af9 closed its connection.
+1687096370: Client chatuserccd84af9 closed its connection.
+1687096372: Client chatuserccd84af9 closed its connection.
+1687096374: Client chatuserccd84af9 closed its connection.
+1687096376: Client chatuserccd84af9 closed its connection.
+1687096378: Client chatuserccd84af9 closed its connection.
+1687096380: Client chatuserccd84af9 closed its connection.
+1687096382: Client chatuserccd84af9 closed its connection.
+1687096384: Client chatuserccd84af9 closed its connection.
+1687096386: Client chatuserccd84af9 closed its connection.
+1687096388: Client chatuserccd84af9 closed its connection.
+1687096390: Client chatuserccd84af9 closed its connection.
+1687096392: Client chatuserccd84af9 closed its connection.
+1687096394: Client chatuserccd84af9 closed its connection.
+1687096396: Client chatuserccd84af9 closed its connection.
+1687096398: Client chatuserccd84af9 closed its connection.
+1687096400: Client chatuserccd84af9 closed its connection.
+1687096402: Client chatuserccd84af9 closed its connection.
+1687096404: Client chatuserccd84af9 closed its connection.
+1687096406: Client chatuserccd84af9 closed its connection.
+1687096408: Client chatuserccd84af9 closed its connection.
+1687096410: Client chatuserccd84af9 closed its connection.
+1687096412: Client chatuserccd84af9 closed its connection.
+1687096414: Client chatuserccd84af9 closed its connection.
+1687096416: Client chatuserccd84af9 closed its connection.
+1687096418: Client chatuserccd84af9 closed its connection.
+1687096421: Client chatuserccd84af9 closed its connection.
+1687096423: Client chatuserccd84af9 closed its connection.
+1687096425: Client chatuserccd84af9 closed its connection.
+1687096426: Client chatuserccd84af9 closed its connection.
+1687096428: Client chatuserccd84af9 closed its connection.
+1687096429: Client chatuserccd84af9 closed its connection.
+1687096430: Client chatuserccd84af9 closed its connection.
+1687096431: Client chatuserccd84af9 closed its connection.
+1687096432: Client chatuserccd84af9 closed its connection.
+1687096433: Client chatuserccd84af9 closed its connection.
+1687096434: Client chatuserccd84af9 closed its connection.
+1687096435: Client chatuserccd84af9 closed its connection.
+1687096437: Client chatuserccd84af9 closed its connection.
+1687096438: Client chatuserccd84af9 closed its connection.
+1687096438: Client mqtt-explorer-778b5863 disconnected.
+1687096439: Client chatuserccd84af9 closed its connection.
+1687096440: Client chatuserccd84af9 closed its connection.
+1687096441: Client chatuserccd84af9 closed its connection.
+1687096442: Client chatuserccd84af9 closed its connection.
+1687096443: Client chatuserccd84af9 closed its connection.
+1687096444: Client chatuserccd84af9 closed its connection.
+1687096445: Client chatuserccd84af9 closed its connection.
+1687096447: Client chatuserccd84af9 closed its connection.
+1687096449: Client chatuserccd84af9 closed its connection.
+1687096451: Client chatuserccd84af9 closed its connection.
+1687096453: Client chatuserccd84af9 closed its connection.
+1687096455: Client chatuserccd84af9 closed its connection.
+1687096457: Client chatuserccd84af9 closed its connection.
+1687096459: Client chatuserccd84af9 closed its connection.
+1687096461: Client chatuserccd84af9 closed its connection.
+1687096463: Client chatuserccd84af9 closed its connection.
+1687096465: Client chatuserccd84af9 closed its connection.
+1687096467: Client chatuserccd84af9 closed its connection.
+1687096469: Client chatuserccd84af9 closed its connection.
+1687096471: Client chatuserccd84af9 closed its connection.
+1687096473: Client chatuserccd84af9 closed its connection.
+1687096475: Client chatuserccd84af9 closed its connection.
+1687096477: Client chatuserccd84af9 closed its connection.
+1687096479: Client chatuserccd84af9 closed its connection.
+1687096481: Client chatuserccd84af9 closed its connection.
+1687096483: Client chatuserccd84af9 closed its connection.
+1687096485: Client chatuserccd84af9 closed its connection.
+1687096487: Client chatuserccd84af9 closed its connection.
+1687096489: Client chatuserccd84af9 closed its connection.
+1687096491: Client chatuserccd84af9 closed its connection.
+1687096493: Client chatuserccd84af9 closed its connection.
+1687096495: Client chatuserccd84af9 closed its connection.
+1687096497: Client chatuserccd84af9 closed its connection.
+1687096499: Client chatuserccd84af9 closed its connection.
+1687096501: Client chatuserccd84af9 closed its connection.
+1687096503: Client chatuserccd84af9 closed its connection.
+1687096505: Client chatuserccd84af9 closed its connection.
+1687096507: Client chatuserccd84af9 closed its connection.
+1687096509: Client chatuserccd84af9 closed its connection.
+1687096511: Client chatuserccd84af9 closed its connection.
+1687096513: Client chatuserccd84af9 closed its connection.
+1687096515: Client chatuserccd84af9 closed its connection.
+1687096517: Client chatuserccd84af9 closed its connection.
+1687096518: mosquitto version 2.0.15 terminating
+1687096518: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687096524: mosquitto version 2.0.15 starting
+1687096524: Config loaded from /mosquitto/config/mosquitto.conf.
+1687096524: Opening websockets listen socket on port 1883.
+1687096524: Opening websockets listen socket on port 1884.
+1687096524: mosquitto version 2.0.15 running
+1687096525: Client chatuserccd84af9 closed its connection.
+1687096527: Client chatuserccd84af9 closed its connection.
+1687096529: Client chatuserccd84af9 closed its connection.
+1687096531: Client chatuserccd84af9 closed its connection.
+1687096533: Client chatuserccd84af9 closed its connection.
+1687096535: Client chatuserccd84af9 closed its connection.
+1687096536: mosquitto version 2.0.15 terminating
+1687096536: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687096546: mosquitto version 2.0.15 starting
+1687096546: Config loaded from /mosquitto/config/mosquitto.conf.
+1687096546: Opening websockets listen socket on port 1883.
+1687096546: Opening websockets listen socket on port 1884.
+1687096546: mosquitto version 2.0.15 running
+1687096547: New client connected from 172.21.0.1:58212 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687096547: Client chatuserccd84af9 closed its connection.
+1687096549: Client chatuserccd84af9 closed its connection.
+1687096551: Client chatuserccd84af9 closed its connection.
+1687096552: Client chatuserccd84af9 closed its connection.
+1687096553: Client chatuserccd84af9 closed its connection.
+1687096555: New client connected from 172.21.0.1:44896 as chatuser692c1973 (p2, c1, k60).
+1687096955: Client chatuser692c1973 closed its connection.
+1687097090: New client connected from 172.21.0.1:57448 as chatuser692c1973 (p2, c1, k60).
+1687097150: Client chatuser692c1973 closed its connection.
+1687097210: New client connected from 172.21.0.1:36792 as chatuser692c1973 (p2, c1, k60).
+1687097270: Client chatuser692c1973 closed its connection.
+1687097314: mosquitto version 2.0.15 terminating
+1687097314: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687097314: Client <unknown> closed its connection.
+1687097314: Client mqtt-explorer-778b5863 closed its connection.
+1687097356: mosquitto version 2.0.15 starting
+1687097356: Config loaded from /mosquitto/config/mosquitto.conf.
+1687097356: Opening websockets listen socket on port 1883.
+1687097356: Opening websockets listen socket on port 1884.
+1687097356: mosquitto version 2.0.15 running
+1687097357: New client connected from 172.21.0.1:34012 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687097450: New client connected from 172.21.0.1:51230 as chatuser692c1973 (p2, c1, k60).
+1687097510: Client chatuser692c1973 closed its connection.
+1687097544: New client connected from 172.21.0.1:59326 as chatuser692c1973 (p2, c1, k60).
+1687097544: Client chatuser692c1973 closed its connection.
+1687097545: New client connected from 172.21.0.1:45776 as chatuser692c1973 (p2, c1, k60).
+1687097545: Client chatuser692c1973 closed its connection.
+1687097545: New client connected from 172.21.0.1:45786 as chatuser4a72afc2 (p2, c1, k60).
+1687097805: Client chatuser4a72afc2 closed its connection.
+1687097806: New client connected from 172.21.0.1:46908 as chatuser6e9aab52 (p2, c1, k60).
+1687097926: mosquitto version 2.0.15 terminating
+1687097926: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687097926: Client chatuser6e9aab52 closed its connection.
+1687097926: Client mqtt-explorer-778b5863 closed its connection.
+1687097932: mosquitto version 2.0.15 starting
+1687097932: Config loaded from /mosquitto/config/mosquitto.conf.
+1687097932: Opening websockets listen socket on port 1883.
+1687097932: Opening websockets listen socket on port 1884.
+1687097932: mosquitto version 2.0.15 running
+1687097932: New client connected from 172.21.0.1:40242 as chatuser6e9aab52 (p2, c1, k60).
+1687097932: New client connected from 172.21.0.1:40244 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687097933: Client chatuser6e9aab52 closed its connection.
+1687097934: New client connected from 172.21.0.1:40258 as chatuser40d7932d (p2, c1, k60).
+1687098183: mosquitto version 2.0.15 terminating
+1687098183: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687098183: Client chatuser40d7932d closed its connection.
+1687098183: Client mqtt-explorer-778b5863 closed its connection.
+1687098204: mosquitto version 2.0.15 starting
+1687098204: Config loaded from /mosquitto/config/mosquitto.conf.
+1687098204: Opening websockets listen socket on port 1883.
+1687098204: Opening websockets listen socket on port 1884.
+1687098204: mosquitto version 2.0.15 running
+1687098205: New client connected from 172.21.0.1:38918 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687098208: New client connected from 172.21.0.1:38934 as chatuser832c56b5 (p2, c1, k60).
+1687098294: mosquitto version 2.0.15 terminating
+1687098294: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687098294: Client chatuser832c56b5 closed its connection.
+1687098294: Client mqtt-explorer-778b5863 closed its connection.
+1687098299: mosquitto version 2.0.15 starting
+1687098299: Config loaded from /mosquitto/config/mosquitto.conf.
+1687098299: Opening websockets listen socket on port 1883.
+1687098299: Opening websockets listen socket on port 1884.
+1687098299: mosquitto version 2.0.15 running
+1687098300: New client connected from 172.21.0.1:41490 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687098300: New client connected from 172.21.0.1:41488 as chatuser832c56b5 (p2, c1, k60).
+1687098301: Client chatuser832c56b5 closed its connection.
+1687098301: New client connected from 172.21.0.1:41500 as chatuser81cc306e (p2, c1, k60).
+1687098328: mosquitto version 2.0.15 terminating
+1687098328: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687098328: Client chatuser81cc306e closed its connection.
+1687098328: Client mqtt-explorer-778b5863 closed its connection.
+1687098398: mosquitto version 2.0.15 starting
+1687098398: Config loaded from /mosquitto/config/mosquitto.conf.
+1687098398: Opening websockets listen socket on port 1883.
+1687098398: Opening websockets listen socket on port 1884.
+1687098398: mosquitto version 2.0.15 running
+1687098398: New client connected from 172.21.0.1:37732 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687098399: New client connected from 172.21.0.1:37734 as chatuser81cc306e (p2, c1, k60).
+1687098406: Client mqtt-explorer-778b5863 disconnected.
+1687098428: Client chatuser81cc306e closed its connection.
+1687098667: Client chatuser21272fba closed its connection.
+1687098668: Client chatuser21272fba closed its connection.
+1687098669: Client chatuser21272fba closed its connection.
+1687098670: Client chatuser21272fba closed its connection.
+1687098672: Client chatuser21272fba closed its connection.
+1687098673: Client chatuser21272fba closed its connection.
+1687098674: Client chatuser21272fba closed its connection.
+1687098675: Client chatuser21272fba closed its connection.
+1687098676: Client chatuser21272fba closed its connection.
+1687098677: Client chatuser21272fba closed its connection.
+1687098678: Client chatuser21272fba closed its connection.
+1687098680: Client chatuser21272fba closed its connection.
+1687098681: New client connected from 172.21.0.1:60340 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687098681: Client chatuser21272fba closed its connection.
+1687098682: Client chatuser21272fba closed its connection.
+1687098683: Client chatuser21272fba closed its connection.
+1687098684: Client chatuser21272fba closed its connection.
+1687098685: Client chatuser21272fba closed its connection.
+1687098686: Client chatuser21272fba closed its connection.
+1687098687: Client chatuser21272fba closed its connection.
+1687098688: Client chatuser21272fba closed its connection.
+1687098690: Client chatuser21272fba closed its connection.
+1687098691: Client chatuser21272fba closed its connection.
+1687098692: Client chatuser21272fba closed its connection.
+1687098693: Client chatusered73b9d6 closed its connection.
+1687098694: Client chatusered73b9d6 closed its connection.
+1687098695: Client chatusered73b9d6 closed its connection.
+1687098696: Client chatusered73b9d6 closed its connection.
+1687098697: Client chatusered73b9d6 closed its connection.
+1687098699: Client chatusered73b9d6 closed its connection.
+1687098701: Client chatusered73b9d6 closed its connection.
+1687098703: Client chatusered73b9d6 closed its connection.
+1687098705: Client chatusered73b9d6 closed its connection.
+1687098706: Client chatusered73b9d6 closed its connection.
+1687098707: Client chatusered73b9d6 closed its connection.
+1687098708: New client connected from 172.21.0.1:39258 as chatuserdba0ef49 (p2, c1, k60).
+1687099004: New client connected from 172.21.0.1:50030 as chatuseraeed9e35 (p2, c1, k60).
+1687099345: Client chatuseraeed9e35 closed its connection.
+1687099357: Client chatuserdba0ef49 closed its connection.
+1687099490: New client connected from 172.21.0.1:49354 as chatuseraeed9e35 (p2, c1, k60).
+1687099490: New client connected from 172.21.0.1:49364 as chatuserdba0ef49 (p2, c1, k60).
+1687099550: Client chatuseraeed9e35 closed its connection.
+1687099550: Client chatuserdba0ef49 closed its connection.
+1687099609: mosquitto version 2.0.15 terminating
+1687099609: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687099609: Client <unknown> closed its connection.
+1687099609: Client <unknown> closed its connection.
+1687099609: Client mqtt-explorer-778b5863 closed its connection.
+1687101034: mosquitto version 2.0.15 starting
+1687101034: Config loaded from /mosquitto/config/mosquitto.conf.
+1687101034: Opening websockets listen socket on port 1883.
+1687101034: Opening websockets listen socket on port 1884.
+1687101034: Error: Unable to create websockets listener on port 1884.
+1687101155: mosquitto version 2.0.15 starting
+1687101155: Config loaded from /mosquitto/config/mosquitto.conf.
+1687101155: Opening websockets listen socket on port 1883.
+1687101155: Opening websockets listen socket on port 1884.
+1687101155: Error: Unable to create websockets listener on port 1884.
+1687101388: mosquitto version 2.0.15 starting
+1687101388: Config loaded from /mosquitto/config/mosquitto.conf.
+1687101388: Opening websockets listen socket on port 1883.
+1687101388: Opening websockets listen socket on port 1884.
+1687101388: Error: Unable to create websockets listener on port 1884.
+1687101474: mosquitto version 2.0.15 starting
+1687101474: Config loaded from /mosquitto/config/mosquitto.conf.
+1687101474: Opening websockets listen socket on port 1883.
+1687101474: Opening websockets listen socket on port 1884.
+1687101474: Error: Unable to create websockets listener on port 1884.
