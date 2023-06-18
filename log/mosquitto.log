@@ -6648,3 +6648,154 @@
 1687101474: Opening websockets listen socket on port 1883.
 1687101474: Opening websockets listen socket on port 1884.
 1687101474: Error: Unable to create websockets listener on port 1884.
+1687101537: mosquitto version 2.0.15 starting
+1687101537: Config loaded from /mosquitto/config/mosquitto.conf.
+1687101537: Opening websockets listen socket on port 1883.
+1687101537: Opening websockets listen socket on port 1884.
+1687101537: mosquitto version 2.0.15 running
+1687101537: New client connected from 172.21.0.1:48054 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687101539: New client connected from 172.21.0.1:48064 as chatuserdce19ed6 (p2, c1, k60).
+1687101540: Client chatuserdce19ed6 closed its connection.
+1687101540: New client connected from 172.21.0.1:48076 as chatusereed52cbb (p2, c1, k60).
+1687101650: New client connected from 172.21.0.1:46648 as chatuseraeed9e35 (p2, c1, k60).
+1687101710: Client chatuseraeed9e35 closed its connection.
+1687101770: New client connected from 172.21.0.1:39360 as chatuseraeed9e35 (p2, c1, k60).
+1687101830: Client chatuseraeed9e35 closed its connection.
+1687101885: Client chatusereed52cbb closed its connection.
+1687101890: New client connected from 172.21.0.1:39446 as chatuseraeed9e35 (p2, c1, k60).
+1687101950: Client chatuseraeed9e35 closed its connection.
+1687102010: New client connected from 172.21.0.1:32918 as chatuseraeed9e35 (p2, c1, k60).
+1687102010: New client connected from 172.21.0.1:32934 as chatusereed52cbb (p2, c1, k60).
+1687102070: Client chatuseraeed9e35 closed its connection.
+1687102070: Client chatusereed52cbb closed its connection.
+1687102076: New client connected from 172.21.0.1:45340 as chatusereed52cbb (p2, c1, k60).
+1687102078: Client chatusereed52cbb closed its connection.
+1687102078: New client connected from 172.21.0.1:35372 as chatuser25979656 (p2, c1, k60).
+1687102103: Client chatuser25979656 closed its connection.
+1687102130: New client connected from 172.21.0.1:45350 as chatuseraeed9e35 (p2, c1, k60).
+1687102190: Client chatuseraeed9e35 closed its connection.
+1687102250: New client connected from 172.21.0.1:42614 as chatuseraeed9e35 (p2, c1, k60).
+1687102310: Client chatuseraeed9e35 closed its connection.
+1687102370: New client connected from 172.21.0.1:38020 as chatuseraeed9e35 (p2, c1, k60).
+1687102430: Client chatuseraeed9e35 closed its connection.
+1687102490: New client connected from 172.21.0.1:43302 as chatuseraeed9e35 (p2, c1, k60).
+1687102550: Client chatuseraeed9e35 closed its connection.
+1687102610: New client connected from 172.21.0.1:45336 as chatuseraeed9e35 (p2, c1, k60).
+1687102670: Client chatuseraeed9e35 closed its connection.
+1687102730: New client connected from 172.21.0.1:42392 as chatuseraeed9e35 (p2, c1, k60).
+1687102790: Client chatuseraeed9e35 closed its connection.
+1687102850: New client connected from 172.21.0.1:54320 as chatuseraeed9e35 (p2, c1, k60).
+1687102910: Client chatuseraeed9e35 closed its connection.
+1687102970: New client connected from 172.21.0.1:50284 as chatuseraeed9e35 (p2, c1, k60).
+1687103030: Client chatuseraeed9e35 closed its connection.
+1687103090: New client connected from 172.21.0.1:42598 as chatuseraeed9e35 (p2, c1, k60).
+1687103150: Client chatuseraeed9e35 closed its connection.
+1687103210: New client connected from 172.21.0.1:55844 as chatuseraeed9e35 (p2, c1, k60).
+1687103256: New client connected from 172.21.0.1:33324 as chatuser0358797e (p2, c1, k60).
+1687103270: Client chatuseraeed9e35 closed its connection.
+1687103330: New client connected from 172.21.0.1:34638 as chatuseraeed9e35 (p2, c1, k60).
+1687103337: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687103390: Client chatuseraeed9e35 closed its connection.
+1687103450: New client connected from 172.21.0.1:49784 as chatuseraeed9e35 (p2, c1, k60).
+1687103510: Client chatuseraeed9e35 closed its connection.
+1687103570: New client connected from 172.21.0.1:53158 as chatuseraeed9e35 (p2, c1, k60).
+1687103630: Client chatuseraeed9e35 closed its connection.
+1687103667: Client chatuser0358797e closed its connection.
+1687103690: New client connected from 172.21.0.1:54298 as chatuseraeed9e35 (p2, c1, k60).
+1687103750: Client chatuseraeed9e35 closed its connection.
+1687103810: New client connected from 172.21.0.1:36490 as chatuseraeed9e35 (p2, c1, k60).
+1687103810: New client connected from 172.21.0.1:36496 as chatuser0358797e (p2, c1, k60).
+1687103811: Client chatuser0358797e closed its connection.
+1687103811: New client connected from 172.21.0.1:35604 as chatuser0358797e (p2, c1, k60).
+1687103822: Client chatuser0358797e closed its connection.
+1687103870: Client chatuseraeed9e35 closed its connection.
+1687103903: mosquitto version 2.0.15 terminating
+1687103903: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687104111: mosquitto version 2.0.15 starting
+1687104111: Config loaded from /mosquitto/config/mosquitto.conf.
+1687104111: Opening websockets listen socket on port 1883.
+1687104111: Opening websockets listen socket on port 1884.
+1687104111: mosquitto version 2.0.15 running
+1687104112: New client connected from 172.21.0.1:50692 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687104170: New client connected from 172.21.0.1:50682 as chatuseraeed9e35 (p2, c1, k60).
+1687104193: Client mqtt-explorer-778b5863 disconnected.
+1687104203: New client connected from 172.21.0.1:49820 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687104230: Client chatuseraeed9e35 closed its connection.
+1687104290: New client connected from 172.21.0.1:37174 as chatuseraeed9e35 (p2, c1, k60).
+1687104301: mosquitto version 2.0.15 terminating
+1687104301: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687104301: Client chatuseraeed9e35 closed its connection.
+1687104301: Client mqtt-explorer-778b5863 closed its connection.
+1687104575: mosquitto version 2.0.15 starting
+1687104575: Config loaded from /mosquitto/config/mosquitto.conf.
+1687104575: Opening websockets listen socket on port 1883.
+1687104575: Opening websockets listen socket on port 1884.
+1687104575: mosquitto version 2.0.15 running
+1687104576: New client connected from 172.21.0.1:58560 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687104650: New client connected from 172.21.0.1:36148 as chatuseraeed9e35 (p2, c1, k60).
+1687104655: Client chatuseraeed9e35 closed its connection.
+1687104655: New client connected from 172.21.0.1:60748 as chatuseraeed9e35 (p2, c1, k60).
+1687104657: Client chatuseraeed9e35 closed its connection.
+1687104658: New client connected from 172.21.0.1:60750 as chatuser096a5940 (p2, c1, k60).
+1687104807: mosquitto version 2.0.15 terminating
+1687104807: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687104807: Client chatuser096a5940 closed its connection.
+1687104807: Client mqtt-explorer-778b5863 closed its connection.
+1687104814: mosquitto version 2.0.15 starting
+1687104814: Config loaded from /mosquitto/config/mosquitto.conf.
+1687104814: Opening websockets listen socket on port 1883.
+1687104814: Opening websockets listen socket on port 1884.
+1687104814: Error: Unable to create websockets listener on port 1884.
+1687104862: mosquitto version 2.0.15 starting
+1687104862: Config loaded from /mosquitto/config/mosquitto.conf.
+1687104862: Opening websockets listen socket on port 1883.
+1687104862: Opening websockets listen socket on port 1884.
+1687104862: mosquitto version 2.0.15 running
+1687104863: New client connected from 172.21.0.1:35828 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687104864: New client connected from 172.21.0.1:41574 as chatuser096a5940 (p2, c1, k60).
+1687105222: Client chatuser096a5940 closed its connection.
+1687105370: New client connected from 172.21.0.1:52276 as chatuser096a5940 (p2, c1, k60).
+1687105430: Client chatuser096a5940 closed its connection.
+1687105490: New client connected from 172.21.0.1:43520 as chatuser096a5940 (p2, c1, k60).
+1687105550: Client chatuser096a5940 closed its connection.
+1687105610: New client connected from 172.21.0.1:42810 as chatuser096a5940 (p2, c1, k60).
+1687105670: Client chatuser096a5940 closed its connection.
+1687105675: mosquitto version 2.0.15 terminating
+1687105675: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687105675: Client <unknown> closed its connection.
+1687105675: Client mqtt-explorer-778b5863 closed its connection.
+1687105680: mosquitto version 2.0.15 starting
+1687105680: Config loaded from /mosquitto/config/mosquitto.conf.
+1687105680: Opening websockets listen socket on port 1883.
+1687105680: Opening websockets listen socket on port 1884.
+1687105680: mosquitto version 2.0.15 running
+1687105682: New client connected from 172.21.0.1:58316 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687105850: New client connected from 172.21.0.1:48686 as chatuser096a5940 (p2, c1, k60).
+1687105910: Client chatuser096a5940 closed its connection.
+1687105970: New client connected from 172.21.0.1:36068 as chatuser096a5940 (p2, c1, k60).
+1687106030: Client chatuser096a5940 closed its connection.
+1687106090: New client connected from 172.21.0.1:38414 as chatuser096a5940 (p2, c1, k60).
+1687106150: Client chatuser096a5940 closed its connection.
+1687106210: New client connected from 172.21.0.1:50774 as chatuser096a5940 (p2, c1, k60).
+1687106270: Client chatuser096a5940 closed its connection.
+1687106296: mosquitto version 2.0.15 terminating
+1687106296: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687106296: Client <unknown> closed its connection.
+1687106296: Client mqtt-explorer-778b5863 closed its connection.
+1687106647: mosquitto version 2.0.15 starting
+1687106647: Config loaded from /mosquitto/config/mosquitto.conf.
+1687106647: Opening websockets listen socket on port 1883.
+1687106647: Opening websockets listen socket on port 1884.
+1687106647: mosquitto version 2.0.15 running
+1687106648: New client connected from 172.21.0.1:47970 as mqtt-explorer-778b5863 (p2, c1, k60).
+1687106653: New client connected from 172.21.0.1:33150 as chatuser096a5940 (p2, c1, k60).
+1687106706: Client chatuser096a5940 closed its connection.
+1687107373: mosquitto version 2.0.15 terminating
+1687107373: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1687107373: Client mqtt-explorer-778b5863 closed its connection.
+1687107609: mosquitto version 2.0.15 starting
+1687107609: Config loaded from /mosquitto/config/mosquitto.conf.
+1687107609: Opening websockets listen socket on port 1883.
+1687107609: Opening websockets listen socket on port 1884.
+1687107609: mosquitto version 2.0.15 running
+1687107610: New client connected from 172.21.0.1:48312 as mqtt-explorer-778b5863 (p2, c1, k60).
