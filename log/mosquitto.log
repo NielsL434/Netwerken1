@@ -3645,3 +3645,5 @@
 1687030137: Client <unknown> disconnected due to malformed packet.
 1687030138: New connection from 172.19.0.1:49460 on port 1883.
 1687030138: Client <unknown> disconnected due to malformed packet.
+1687087660: mosquitto version 2.0.15 terminating
+1687087660: Saving in-memory database to /mosquitto/data//mosquitto.db.
